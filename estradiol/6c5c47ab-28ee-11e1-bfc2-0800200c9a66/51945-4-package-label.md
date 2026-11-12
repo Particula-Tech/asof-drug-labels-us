@@ -4,7 +4,7 @@ NDC 68968-6625-8
 
 0.025 mg/day
 
-Minivelle®
+Minivelle ®
 
 (estradiol transdermal system)
 
@@ -22,7 +22,7 @@ Includes 8 Systems
 
 Rx Only
 
-Each 1.65 cm​2​ system contains 0.41 mg of estradiol USP.
+Each 1.65 cm ​2​ system contains 0.41 mg of estradiol USP.
 
 ​Inactive components:​ acrylic adhesive, silicone adhesive, oleyl alcohol, dipropylene glycol, povidone, polyolefin laminate backing, polyester release liner.
 
@@ -38,7 +38,7 @@ Store at 20°C to 25°C (68°F to 77°F).
 
 [See USP Controlled Room Temperature].
 
-​Dosage and Administration: ​Apply twice-weekly.
+​Dosage and Administration:​Apply twice-weekly.
 See package insert.
 
 N3 ​68968-6625-8​ 7
@@ -61,7 +61,7 @@ N3 ​68968-6625-8​ 7
 
 As a handy reminder of your application schedule, keep this tear out with you
 
-Pull here for your Minivelle® patches
+Pull here for your Minivelle ®patches
 
 0.025 mg/day
 
@@ -75,7 +75,7 @@ Miami, Florida 33186
 
 0.025 mg/day
 
-Minivelle®
+Minivelle ®
 
 (estradiol transdermal system)
 
@@ -95,7 +95,7 @@ NDC 68968-6637-8
 
 0.0375 mg/day
 
-Minivelle®
+Minivelle ®
 
 (estradiol transdermal system)
 
@@ -113,13 +113,13 @@ Contents: 8 Systems
 
 Rx Only
 
-Each 2.48 cm2 system contains 0.62 mg of estradiol USP.
+Each 2.48 cm 2system contains 0.62 mg of estradiol USP.
 
-Inactive components: acrylic adhesive, silicone adhesive, oleyl alcohol, dipropylene glycol, povidone, polyolefin laminate backing, polyester release liner.
+Inactive components:acrylic adhesive, silicone adhesive, oleyl alcohol, dipropylene glycol, povidone, polyolefin laminate backing, polyester release liner.
 
 For Transdermal Use Only
 
-Important: Package not child-resistant.
+Important:Package not child-resistant.
 
 Apply immediate upon removal from pouch.
 
@@ -129,7 +129,7 @@ Store at 20°C to 25°C (68°F to 77°F).
 
 [See USP Controlled Room Temperature].
 
-Dosage and Administration: Apply twice-weekly.
+Dosage and Administration:Apply twice-weekly.
 See package insert.
 
 N3 68968-6637-8 2
@@ -152,7 +152,7 @@ Determine which 2 days of the week you will change your patch and then mark them
 
 As a handy reminder of your application schedule, keep this tear out with you
 
-Pull here for your Minivelle® patches
+Pull here for your Minivelle ®patches
 
 0.0375 mg/day
 
@@ -166,7 +166,7 @@ Miami, Florida 33186
 
 0.0375 mg/day
 
-Minivelle®
+Minivelle ®
 
 (estradiol transdermal system)
 
@@ -186,7 +186,7 @@ GTIN: 00368968663782
 
 0.05 mg/day
 
-Minivelle®
+Minivelle ®
 
 (estradiol transdermal system)
 
@@ -204,13 +204,13 @@ Contents: 8 Systems
 
 Rx Only
 
-Each 3.3 cm2 system contains 0.83 mg of estradiol USP.
+Each 3.3 cm 2system contains 0.83 mg of estradiol USP.
 
-Inactive components: acrylic adhesive, silicone adhesive, oleyl alcohol, dipropylene glycol, povidone, polyolefin laminate backing, polyester release liner.
+Inactive components:acrylic adhesive, silicone adhesive, oleyl alcohol, dipropylene glycol, povidone, polyolefin laminate backing, polyester release liner.
 
 For Transdermal Use Only
 
-Important: Package not child-resistant.
+Important:Package not child-resistant.
 
 Apply immediate upon removal from pouch.
 
@@ -220,7 +220,7 @@ Store at 20°C to 25°C (68°F to 77°F).
 
 [See USP Controlled Room Temperature].
 
-Dosage and Administration: Apply twice-weekly.
+Dosage and Administration:Apply twice-weekly.
 See package insert.
 
 N3 68968-6650-8 3
@@ -243,7 +243,7 @@ Determine which 2 days of the week you will change your patch and then mark them
 
 As a handy reminder of your application schedule, keep this tear out with you
 
-Pull here for your Minivelle® patches
+Pull here for your Minivelle ®patches
 
 0.05 mg/day
 
@@ -277,7 +277,7 @@ GTIN: 00368968665083
 
 0.075 mg/day
 
-Minivelle®
+Minivelle ®
 
 (estradiol transdermal system)
 
@@ -295,13 +295,13 @@ Contents: 8 Systems
 
 Rx Only
 
-Each 4.95 cm2 system contains 1.24 mg of estradiol USP.
+Each 4.95 cm 2system contains 1.24 mg of estradiol USP.
 
-Inactive components: acrylic adhesive, silicone adhesive, oleyl alcohol, dipropylene glycol, povidone, polyolefin laminate backing, polyester release liner.
+Inactive components:acrylic adhesive, silicone adhesive, oleyl alcohol, dipropylene glycol, povidone, polyolefin laminate backing, polyester release liner.
 
 For Transdermal Use Only
 
-Important: Package not child-resistant.
+Important:Package not child-resistant.
 
 Apply immediate upon removal from pouch.
 
@@ -311,7 +311,7 @@ Store at 20°C to 25°C (68°F to 77°F).
 
 [See USP Controlled Room Temperature].
 
-Dosage and Administration: Apply twice-weekly.
+Dosage and Administration:Apply twice-weekly.
 See package insert.
 
 N3 68968-6675-8 2
@@ -334,7 +334,7 @@ Determine which 2 days of the week you will change your patch and then mark them
 
 As a handy reminder of your application schedule, keep this tear out with you
 
-Pull here for your Minivelle® patches
+Pull here for your Minivelle ®patches
 
 0.075 mg/day
 
@@ -368,7 +368,7 @@ NDC 68968-6610-8
 
 0.1 mg/day
 
-Minivelle®
+Minivelle ®
 
 (estradiol transdermal system)
 
@@ -386,13 +386,13 @@ Contents: 8 Systems
 
 Rx Only
 
-Each 6.6 cm2 system contains 1.65 mg of estradiol USP.
+Each 6.6 cm 2system contains 1.65 mg of estradiol USP.
 
-Inactive components: acrylic adhesive, silicone adhesive, oleyl alcohol, dipropylene glycol, povidone, polyolefin laminate backing, polyester release liner.
+Inactive components:acrylic adhesive, silicone adhesive, oleyl alcohol, dipropylene glycol, povidone, polyolefin laminate backing, polyester release liner.
 
 For Transdermal Use Only
 
-Important: Package not child-resistant.
+Important:Package not child-resistant.
 
 Apply immediate upon removal from pouch.
 
@@ -402,7 +402,7 @@ Store at 20°C to 25°C (68°F to 77°F).
 
 [See USP Controlled Room Temperature].
 
-Dosage and Administration: Apply twice-weekly.
+Dosage and Administration:Apply twice-weekly.
 See package insert.
 
 N3 68968-6610-8 5
@@ -425,7 +425,7 @@ Determine which 2 days of the week you will change your patch and then mark them
 
 As a handy reminder of your application schedule, keep this tear out with you
 
-Pull here for your Minivelle® patches
+Pull here for your Minivelle ®patches
 
 0.1 mg/day
 
@@ -439,7 +439,7 @@ Miami, Florida 33186
 
 0.1 mg/day
 
-Minivelle®
+Minivelle ®
 
 (estradiol transdermal system)
 

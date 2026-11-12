@@ -1,6 +1,6 @@
 INSTRUCTIONS FOR USE
 
-MINIVELLE® (MIN-ee-vell)
+MINIVELLE ®(MIN-ee-vell)
 
 (estradiol transdermal system)
 
@@ -16,15 +16,14 @@ Step 1: Pick the days you will change your patch.
 
 - You will need to change your patch 2 times a week or every 3 to 4 days.
   Use the calendar printed inside your carton to choose the 2 days you will change your patch (See Figure B).
-- Remember to change your patch on the same 2 days you marked on your calendar.
-  If you forget to change your patch on the correct date, apply a new patch as soon as you remember, and continue to follow your original schedule
+- Remember to change your patch on the same 2 days you marked on your calendar.If you forget to change your patch on the correct date, apply a new patch as soon as you remember, and continue to follow your original schedule
 
 Figure B
 
 Step 2.
 Remove the MINIVELLE patch from the pouch.
 
-- Remove the patch from its protective pouch by tearing at the notch (do not use scissors, See Figure C).
+- Remove the patch from its protective pouch by tearing at the notch (do notuse scissors, See Figure C).
 - Do not remove your patch from the protective pouch until you are ready to apply it
 
 Figure C
@@ -59,7 +58,7 @@ Note:
 
 - Showering will not cause your patch to fall off
 - If your patch falls off reapply it.
-  If you cannot reapply the patch, apply a new patch to another area (See Figures E and D) and continue to follow your original placement schedule
+  If you cannot reapply the patch, apply a new patch to another area (See Figures E and D)and continue to follow your original placement schedule
 - If you stop using your MINIVELLE patch or forget to apply a new patch as scheduled, you may have spotting, or bleeding, and recurrence of symptoms
 
 Step 6: Throwing away your used patch.

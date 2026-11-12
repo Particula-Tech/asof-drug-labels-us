@@ -10,7 +10,7 @@ The following serious adverse reactions are discussed elsewhere in labeling:
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 There were no clinical trials conducted with MINIVELLE.
-MINIVELLE is bioequivalent to Vivelle®.
+MINIVELLE is bioequivalent to Vivelle ®.
 The following adverse reactions are reported with Vivelle therapy:
 
 Table 1: Summary of Most Frequently Reported Adverse Reactions (Vivelle versus Placebo) Regardless of Relationship Reported at a Frequency ≥5 Percent
@@ -52,7 +52,7 @@ Table 1: Summary of Most Frequently Reported Adverse Reactions (Vivelle versus P
 | Vascular disorders |  |  |  |  |  |  |
 | Hot flushes NOS* | 3 (6.4) | 0 | 3 (2.9) | 0 | 0 | 6 (3.8) |
 | Hypertension NOS* | 2 (4.3) | 0 | 3 (2.9) | 0 | 0 | 2 (1.3) |
-| † Represents milligrams of estradiol delivered daily by each system |  |  |  |  |  |  |
+| †Represents milligrams of estradiol delivered daily by each system |  |  |  |  |  |  |
 | *NOS represents not otherwise specified |  |  |  |  |  |  |
 | **NEC represents not elsewhere classified |  |  |  |  |  |  |
 | ***Application site erythema and application site irritation were observed in 3.2% or less of patients across treatment groups. |  |  |  |  |  |  |

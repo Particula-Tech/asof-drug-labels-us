@@ -1,6 +1,6 @@
 PATIENT INFORMATION
 
-MINIVELLE (MIN-ee-vell)
+MINIVELLE(MIN-ee-vell)
 
 (estradiol transdermal system)
 
@@ -16,7 +16,7 @@ What is MINIVELLE?
 MINIVELLE is a prescription medicine patch (transdermal system) that contains the estrogen hormone estradiol.
 When applied to the skin, estradiol is absorbed through the skin into the bloodstream.
 
-What is MINIVELLE® used for?
+What is MINIVELLE ®used for?
 
 MINIVELLE is used after menopause to:
 
@@ -43,8 +43,7 @@ Do not start using MINIVELLE if you:
 - had a stroke or heart attack
 - currently have or have had blood clots
 - currently have or have had liver problems
-- are allergic to MINIVELLE or the ingredients in it.
-  See the list of ingredients in MINIVELLE at the end of this leaflet.
+- are allergic to MINIVELLE or the ingredients in it.See the list of ingredients in MINIVELLE at the end of this leaflet.
 
 Before you use MINIVELLE, tell your healthcare provider about all of your medical conditions, including if you:
 
@@ -56,7 +55,7 @@ Before you use MINIVELLE, tell your healthcare provider about all of your medica
   MINIVELLE is not for pregnant women.
 - are breast feeding The hormone in MINIVELLE can pass into your breast milk.
 
-Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins and herbal supplements.
+Tell your healthcare provider about all the medicines you take,including prescription and over-the-counter medicines, vitamins and herbal supplements.
 Some medicines may affect how MINIVELLE works.
 MINIVELLE may also affect how your other medicines work.
 Keep a list of your medicines and show it to your healthcare provider and pharmacist when you get a new medicine.
@@ -169,6 +168,6 @@ You can get more information by calling Noven Pharmaceuticals, Inc. at 1-800-455
 
 What are the ingredients in MINIVELLE?
 
-Active ingredient: estradiol
+Active ingredient:estradiol
 
 Inactive ingredients: Polyolefin laminate backing, acrylic and silicone adhesives, oleyl alcohol, NF, povidone, USP and dipropylene glycol and a polyester release liner

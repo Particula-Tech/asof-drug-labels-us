@@ -20,7 +20,7 @@ There have been no bone efficacy and safety trials conducted with MINIVELLE.
 In a pharmacokinetic study, MINIVELLE was shown to be bioequivalent to Vivelle.
 
 Efficacy and safety of Vivelle in the prevention of postmenopausal osteoporosis have been studied in a 2-year double-blind, randomized, placebo-controlled, parallel group study.
-A total of 261 hysterectomized (161) and non-hysterectomized (100), surgically or naturally menopausal women (within 5 years of menopause), with no evidence of osteoporosis (lumbar spine bone mineral density within 2 standard deviations of average peak bone mass, i.e., ≥0.0827 g/cm2) were enrolled in this study; 194 women were randomized to one of the four doses of Vivelle (0.1, 0.05, 0.0375, or 0.025 mg/day) and 67 women to placebo.
+A total of 261 hysterectomized (161) and non-hysterectomized (100), surgically or naturally menopausal women (within 5 years of menopause), with no evidence of osteoporosis (lumbar spine bone mineral density within 2 standard deviations of average peak bone mass, i.e., ≥0.0827 g/cm 2) were enrolled in this study; 194 women were randomized to one of the four doses of Vivelle (0.1, 0.05, 0.0375, or 0.025 mg/day) and 67 women to placebo.
 Over 2 years, study systems were applied to the buttock or the abdomen twice a week.
 Non-hysterectomized women received oral medroxyprogesterone acetate (2.5 mg/day) throughout the study.
 
@@ -66,7 +66,7 @@ Table 3: Relative and Absolute Risk Seen in the Estrogen Alone Substudy of WHI a
 | Event | Relative Risk CE vs. Placebo (95% nCI b) | CE n = 5,310 | Placebo n = 5,429 |
 | --- | --- | --- | --- |
 | Absolute Risk per 10,000 Women-Years |  |  |  |
-| CHD events c Non-fatal MI c CHD death c | 0.95 (0.78–1.16) 0.91 (0.73–1.14) 1.01 (0.71–1.43) | 54 40 16 | 57 43 16 |
+| CHD events c Non-fatal MIc CHD death c | 0.95 (0.78–1.16) 0.91 (0.73–1.14) 1.01 (0.71–1.43) | 54 40 16 | 57 43 16 |
 | All Strokes c Ischemic strokec | 1.33 (1.15–1.68) 1.55 (1.19–2.01) | 45 38 | 33 25 |
 | Deep vein thrombosis c,d | 1.47 (1.06–2.06) | 23 | 15 |
 | Pulmonary embolism c | 1.37 (0.90–2.07) | 14 | 10 |
@@ -79,15 +79,15 @@ Table 3: Relative and Absolute Risk Seen in the Estrogen Alone Substudy of WHI a
 | Death due to other causes e,f | 1.08 (0.88–1.32) | 53 | 50 |
 | Overall mortality c,d | 1.04 (0.88–1.22) | 79 | 75 |
 | Global Index g | 1.02 (0.92–1.13) | 206 | 201 |
-| a Adapted from numerous WHI publications. WHI publications can be viewed at www.nhlbi.nih.gov/whi. |  |  |  |
-| b Nominal confidence intervals unadjusted for multiple looks and multiple comparisons. |  |  |  |
-| c Results are based on centrally adjudicated data for an average follow-up of 7.1 years. |  |  |  |
-| d Not included in “global index”. |  |  |  |
-| e Results are based on an average follow-up of 6.8 years. |  |  |  |
-| f All deaths, except from breast or colorectal cancer, definite or probable CHD, PE, or cerebrovascular disease. |  |  |  |
-| g A subset of the events was combined in a “global index”, defined as the earliest occurrence of CHD events. invasive breast cancer, stroke, PE, endometrial cancer, colorectal cancer, hip fracture, or death due to other causes. |  |  |  |
+| aAdapted from numerous WHI publications. WHI publications can be viewed at www.nhlbi.nih.gov/whi. |  |  |  |
+| bNominal confidence intervals unadjusted for multiple looks and multiple comparisons. |  |  |  |
+| cResults are based on centrally adjudicated data for an average follow-up of 7.1 years. |  |  |  |
+| dNot included in “global index”. |  |  |  |
+| eResults are based on an average follow-up of 6.8 years. |  |  |  |
+| fAll deaths, except from breast or colorectal cancer, definite or probable CHD, PE, or cerebrovascular disease. |  |  |  |
+| gA subset of the events was combined in a “global index”, defined as the earliest occurrence of CHD events. invasive breast cancer, stroke, PE, endometrial cancer, colorectal cancer, hip fracture, or death due to other causes. |  |  |  |
 
-For those outcomes included in the WHI “global index” that reached statistical significance, the absolute excess risk per 10,000 women-years in the group treated with CE-alone was 12 more strokes, while the absolute risk reduction per 10,000 women-years was 7 fewer hip fractures. ⁹ The absolute excess risk of events included in the “global index” was a non-significant 5 events per 10,000 women-years.
+For those outcomes included in the WHI “global index” that reached statistical significance, the absolute excess risk per 10,000 women-years in the group treated with CE-alone was 12 more strokes, while the absolute risk reduction per 10,000 women-years was 7 fewer hip fractures. ⁹The absolute excess risk of events included in the “global index” was a non-significant 5 events per 10,000 women-years.
 There was no difference between the groups in terms of all-cause mortality.
 
 No overall difference for primary CHD events (nonfatal MI, silent MI and CHD death) and invasive breast cancer incidence in women receiving CE-alone compared to placebo was reported in final centrally adjudicated results from the estrogen-alone substudy, after an average follow-up of 7.1 years.
@@ -96,7 +96,7 @@ Centrally adjudicated results for stroke events from the estrogen-alone substudy
 Estrogen-alone increased the risk for ischemic stroke, and this excess risk was present in all subgroups of women examined. ¹⁰
 
 Timing of the initiation of estrogen-alone therapy relative to the start of menopause may affect the overall risk benefit profile.
-The WHI estrogen-alone substudy, stratified by age, showed in women 50 to 59 years of age a non-significant trend toward reduced risk for CHD [hazard ratio (HR) 0.63 (95 percent CI, 0.36-1.09)] and overall mortality [HR 0.71 (95 percent CI, 0.46-1.11)].
+The WHI estrogen-alone substudy, stratified by age, showed in women 50 to 59 years of age a non-significant trend toward reduced risk for CHD [hazard ratio (HR) 0.63 (95 percent CI, 0.36-1.09)]and overall mortality [HR 0.71 (95 percent CI, 0.46-1.11)].
 
 WHI Estrogen Plus Progestin Substudy
 
@@ -128,13 +128,13 @@ Table 4: Relative and Absolute Risk Seen in the Estrogen Plus Progestin Substudy
 | Total fractures d | 0.76 (0.69–0.83) | 152 | 199 |
 | Overall mortality f | 1.00 (0.83–1.19) | 52 | 52 |
 | Global Index g | 1.13 (1.02–1.25) | 184 | 165 |
-| a Adapted from numerous WHI publications. WHI publications can be viewed at www.nhlbi.nih.gov/whi. |  |  |  |
-| b Results are based on centrally adjudicated data. |  |  |  |
-| c Nominal confidence intervals unadjusted for multiple looks and multiple comparisons. |  |  |  |
-| d Not included in “global index”. |  |  |  |
-| e Includes metastatic and non-metastatic breast cancer, with the exception of in situ breast cancer. |  |  |  |
-| f All deaths, except from breast or colorectal cancer, definite or probable CHD, PE, or cerebrovascular disease. |  |  |  |
-| g A subset of the events was combined in a “global index”, defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, endometrial cancer, colorectal cancer, hip fracture, or death due to other causes. |  |  |  |
+| aAdapted from numerous WHI publications. WHI publications can be viewed at www.nhlbi.nih.gov/whi. |  |  |  |
+| bResults are based on centrally adjudicated data. |  |  |  |
+| cNominal confidence intervals unadjusted for multiple looks and multiple comparisons. |  |  |  |
+| dNot included in “global index”. |  |  |  |
+| eIncludes metastatic and non-metastatic breast cancer, with the exception of in situ breast cancer. |  |  |  |
+| fAll deaths, except from breast or colorectal cancer, definite or probable CHD, PE, or cerebrovascular disease. |  |  |  |
+| gA subset of the events was combined in a “global index”, defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, endometrial cancer, colorectal cancer, hip fracture, or death due to other causes. |  |  |  |
 
 Timing of the initiation of estrogen plus progestin therapy relative to the start of menopause may affect the overall risk benefit profile.
 The WHI estrogen plus progestin substudy stratified for age showed in women 50 to 59 years of age a non-significant trend toward reduced risk for overall mortality [HR 0.69 (95 percent CI, 0.44-1.07)].
