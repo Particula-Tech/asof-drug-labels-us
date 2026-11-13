@@ -20,6 +20,6 @@ DEPO-Testosterone Injection is available in two strengths, 100 mg/mL and 200 mg/
 | Benzyl alcohol (as preservative) | 9.45 mg |
 | Each mL of the 200 mg/mL solution contains: |  |
 | Testosterone cypionate | 200 mg |
-| Benzyl benzoate | 0.2 mL |
-| Cottonseed oil | 560 mg |
+| Benzyl benzoate | 0.3 mL |
+| Cottonseed oil | 470 mg |
 | Benzyl alcohol (as preservative) | 9.45 mg |

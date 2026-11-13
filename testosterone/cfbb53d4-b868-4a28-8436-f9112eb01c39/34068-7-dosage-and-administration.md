@@ -17,4 +17,4 @@ The chronological and skeletal ages must be taken into consideration, both in de
 For replacement in the hypogonadal male, 50-400 mg should be administered every two to four weeks.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
-Warming and shaking the vial should redissolve any crystals that may have formed during storage at temperatures lower than recommended.
+Do not use if particulate matter or discoloration is found.
