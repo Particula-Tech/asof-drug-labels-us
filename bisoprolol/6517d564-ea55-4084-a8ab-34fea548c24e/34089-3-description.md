@@ -10,6 +10,7 @@ Bisoprolol fumarate has a molecular weight of 766.96.
 It is a white crystalline powder which is approximately equally hydrophilic and lipophilic, and is readily soluble in water, methanol, ethanol, and chloroform.
 
 BISOPROLOL FUMARATE TABLETS, USP are available as 5 and 10 mg tablets for oral administration.
+
 Inactive ingredients include: microcrystalline cellulose, pregelatinized starch, dicalcium phosphate, colloidal silicon dioxide, magnesium stearate, iron oxide red and ferrosoferric oxide.
 
-FDA approved dissolution test specifications differ from USP.
+Meets USP Dissolution Test 4.

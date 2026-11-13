@@ -50,11 +50,11 @@ Abrupt withdrawal of beta-blockade may be followed by an exacerbation of the sym
 
 # PRECAUTIONS
 
-## IMPAIRED RENAL OR HEPATIC FUNCTION
+## Impaired Renal or Hepatic Function
 
 Use caution in adjusting the dose of BISOPROLOL FUMARATE in patients with renal or hepatic impairment (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
 
-## DRUG INTERACTIONS
+## Drug Interactions
 
 BISOPROLOL FUMARATE should not be combined with other beta-blocking agents.
 Patients receiving catecholamine-depleting drugs, such as reserpine or guanethidine, should be closely monitored, because the added beta-adrenergic blocking action of BISOPROLOL FUMARATE may produce excessive reduction of sympathetic activity.
@@ -73,7 +73,7 @@ There was no effect of BISOPROLOL FUMARATE on prothrombin time in patients on st
 Risk of Anaphylactic Reaction: While taking beta-blockers, patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic.
 Such patients may be unresponsive to the usual doses of epinephrine used to treat allergic reactions.
 
-## INFORMATION FOR PATIENTS
+## Information for Patients
 
 Patients, especially those with coronary artery disease, should be warned about discontinuing use of BISOPROLOL FUMARATE without a physician's supervision.
 Patients should also be advised to consult a physician if any difficulty in breathing occurs, or if they develop signs or symptoms of congestive heart failure or excessive bradycardia.
@@ -82,7 +82,7 @@ Patients subject to spontaneous hypoglycemia, or diabetic patients receiving ins
 
 Patients should know how they react to this medicine before they operate automobiles and machinery or engage in other tasks requiring alertness.
 
-## CARCINOGENESIS & MUTAGENESIS & IMPAIRMENT OF FERTILITY
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Long-term studies were conducted with oral bisoprolol fumarate administered in the feed of mice (20 and 24 months) and rats (26 months).
 No evidence of carcinogenic potential was seen in mice dosed up to 250 mg/kg/day or rats dosed up to 125 mg/kg/day.
@@ -92,7 +92,7 @@ There was no evidence of mutagenic potential in these in vitro and in vivo assay
 
 Reproduction studies in rats did not show any impairment of fertility at doses up to 150 mg/kg/day of bisoprolol fumarate, or 375 and 77 times the MRHD on the basis of body weight and body surface area, respectively.
 
-## PREGNANCY
+## Pregnancy
 
 In rats, bisoprolol fumarate was not teratogenic at doses up to 150 mg/kg/day which is 375 and 77 times the MRHD on the basis of body weight and body surface area, respectively.
 Bisoprolol fumarate was fetotoxic (increased late resorptions) at 50 mg/kg/day and maternotoxic (decreased food intake and body weight gain) at 150 mg/kg/day.
@@ -103,17 +103,17 @@ In rabbits, bisoprolol fumarate was not teratogenic at doses up to 12.5 mg/kg/da
 There are no adequate and well-controlled studies in pregnant women.
 BISOPROLOL FUMARATE should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-## NURSING MOTHERS
+## Nursing Mothers
 
 Small amounts of bisoprolol fumarate (< 2% of the dose) have been detected in the milk of lactating rats.
 It is not known whether this drug is excreted in human milk.
 Because many drugs are excreted in human milk caution should be exercised when bisoprolol fumarate is administered to nursing women.
 
-## PEDIATRIC USE
+## Pediatric Use
 
 Safety and effectiveness in pediatric patients have not been established.
 
-## GERIATRIC USE
+## Geriatric Use
 
 BISOPROLOL FUMARATE has been used in elderly patients with hypertension.
 Response rates and mean decreases in systolic and diastolic blood pressure were similar to the decreases in younger patients in the U.S. clinical studies.

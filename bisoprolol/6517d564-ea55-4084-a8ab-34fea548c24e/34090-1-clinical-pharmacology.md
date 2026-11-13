@@ -8,9 +8,10 @@ Pharmacokinetics and Metabolism
 The absolute bioavailability after a 10 mg oral dose of bisoprolol fumarate is about 80%.
 Absorption is not affected by the presence of food.
 The first pass metabolism of bisoprolol fumarate is about 20%.
+
 Binding to serum proteins is approximately 30%.
 Peak plasma concentrations occur within 2-4 hours of dosing with 5 to 20 mg, and mean peak values range from 16 ng/mL at 5 mg to 70 ng/mL at 20 mg.
-Once daily dosing with bisoprolol fumarate results in less than twofold inter subject variation in peak plasma levels.
+Once daily dosing with bisoprolol fumarate results in less than two-fold inter subject variation in peak plasma levels.
 The plasma elimination half-life is 9-12 hours and is slightly longer in elderly patients, in part because of decreased renal function in that population.
 Steady state is attained within 5 days of once daily dosing.
 In both young and elderly populations, plasma accumulation is low; the accumulation factor ranges from 1.1 to 1.3, and is what would be expected from the first order kinetics and once daily dosing.
