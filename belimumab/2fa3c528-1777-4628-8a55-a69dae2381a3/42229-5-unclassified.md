@@ -10,7 +10,7 @@ Durham, NC 27701
 
 ©2026 GSK group of companies or its licensor.
 
-BNL:22PI
+BNL:23PI
 
 DETACH HERE AND GIVE MEDICATION GUIDE TO PATIENT.
 

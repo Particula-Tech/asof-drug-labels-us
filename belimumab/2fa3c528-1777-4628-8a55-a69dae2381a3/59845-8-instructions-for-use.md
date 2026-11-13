@@ -179,7 +179,7 @@ See Figure L.
 
 Additional information
 
-For more information about BENLYSTA, go to www.BENLYSTA.com or call 1-877-423-6597.
+For more information about BENLYSTA, go to www.BENLYSTA.com or call 1-888-825-5249.
 
 Trademarks are owned by or licensed to the GSK group of companies.
 
@@ -191,12 +191,12 @@ Distributed by GlaxoSmithKline
 
 Durham, NC 27701
 
-©2025 GSK group of companies or its licensor.
+©2026 GSK group of companies or its licensor.
 
-BNL:8IFU-S
+BNL:9IFU-S
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Revised July 2025
+Revised October 2026
 
 INSTRUCTIONS FOR USE
 
@@ -381,7 +381,7 @@ Dispose of the used autoinjector
 
 Additional information
 
-For more information about BENLYSTA, go to www.BENLYSTA.com or call 1-877-423-6597.
+For more information about BENLYSTA, go to www.BENLYSTA.com or call 1-888-825-5249.
 
 Trademarks are owned by or licensed to the GSK group of companies.
 
@@ -393,9 +393,9 @@ Distributed by GlaxoSmithKline
 
 Durham, NC 27701
 
-©2025 GSK group of companies or its licensor.
+©2026 GSK group of companies or its licensor.
 
-BNL:7IFU-A
+BNL:8IFU-A
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Revised July 2025
+Revised October 2026

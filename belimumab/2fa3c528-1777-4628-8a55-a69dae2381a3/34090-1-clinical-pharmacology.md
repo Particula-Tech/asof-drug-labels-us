@@ -129,7 +129,7 @@ Neutralizing antibodies were detected in 3 subjects receiving BENLYSTA 1 mg/kg.
 Three subjects with anti‑belimumab antibodies experienced mild infusion reactions of nausea, erythematous rash, pruritus, eyelid edema, headache, and dyspnea; none of the reactions were life‑threatening.
 In Trial 4 (intravenous dosing in adult Black subjects), anti‑belimumab antibodies were detected in 2 of 321 (0.6%) subjects receiving BENLYSTA 10 mg/kg during the 52‑week, placebo‑controlled period.
 In Trial 5 (intravenous dosing in adults with active lupus nephritis), there was no formation of anti‑belimumab antibodies in 224 subjects receiving BENLYSTA 10 mg/kg plus standard therapy during the 104‑week, placebo‑controlled period.
-In Trial 6 (intravenous dosing in pediatric subjects with active SLE), there was no formation of anti‑belimumab antibodies in 53 subjects receiving BENLYSTA 10 mg/kg plus standard therapy during the 52‑week, placebo‑controlled period.
+In Trial 6 (intravenous dosing in pediatric subjects with active SLE), there was no formation of anti‑belimumab antibodies in 53 subjects receiving BENLYSTA 10 mg/kg plus standard therapy during the 52‑week, placebo‑controlled period; however, in the open‑label extension, anti‑belimumab antibodies were detected in one of these subjects.
 In Trial 7 (subcutaneous dosing in adults with active SLE), there was no formation of anti‑belimumab antibodies in 556 subjects receiving BENLYSTA 200 mg during the 52‑week, placebo‑controlled period.
 In a 52‑week, open‑label, pediatric pharmacokinetic trial (subcutaneous dosing in pediatric subjects with active SLE), none of the 25 subjects developed anti‑belimumab antibodies.
 
