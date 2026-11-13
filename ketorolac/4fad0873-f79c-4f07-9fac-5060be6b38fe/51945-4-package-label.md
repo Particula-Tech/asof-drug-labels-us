@@ -1,8 +1,8 @@
 Principal Display Panel
 
-ALLERGAN™
-
 NDC 0023-9277-05
+
+abbvie
 
 ACULAR LS™
 
