@@ -1,44 +1,58 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Acute Treatment
+## 2.1 Recommendations Prior to Initiating Atomoxetine Capsules Treatment
 
-Dosing of children and adolescents up to 70 kg body weight - Atomoxetine capsules should be initiated at a total daily dose of approximately 0.5 mg/kg and increased after a minimum of 3 days to a target total daily dose of approximately 1.2 mg/kg administered either as a single daily dose in the morning or as evenly divided doses in the morning and late afternoon/early evening.
-No additional benefit has been demonstrated for doses higher than 1.2 mg/kg/day [see Clinical Studies (14)].
+Prior to initiating treatment with atomoxetine capsules, screen patients for a personal or family history of bipolar disorder, mania, or hypomania [see Warnings and Precautions (5.6)].
 
-The total daily dose in children and adolescents should not exceed 1.4 mg/kg or 100 mg, whichever is less.
-
-Dosing of children and adolescents over 70 kg body weight and adults - Atomoxetine capsules should be initiated at a total daily dose of 40 mg and increased after a minimum of 3 days to a target total daily dose of approximately 80 mg administered either as a single daily dose in the morning or as evenly divided doses in the morning and late afternoon/early evening.
-After 2 to 4 additional weeks, the dose may be increased to a maximum of 100 mg in patients who have not achieved an optimal response.
-There are no data that support increased effectiveness at higher doses [see Clinical Studies (14)].
-
-The maximum recommended total daily dose in children and adolescents over 70 kg and adults is 100 mg.
-
-## 2.2 Maintenance/Extended Treatment
-
-It is generally agreed that pharmacological treatment of ADHD may be needed for extended periods.
-The benefit of maintaining pediatric patients (ages 6 to 15 years) with ADHD on atomoxetine hydrochloride after achieving a response in a dose range of 1.2 to 1.8 mg/kg/day was demonstrated in a controlled trial.
-Patients assigned to atomoxetine hydrochloride in the maintenance phase were generally continued on the same dose used to achieve a response in the open label phase.
-The physician who elects to use atomoxetine capsules for extended periods should periodically reevaluate the long-term usefulness of the drug for the individual patient [see Clinical Studies (14.1)].
-
-## 2.3 General Dosing Information
+## 2.2 Administration Instructions
 
 Atomoxetine capsules may be taken with or without food.
+Take atomoxetine capsules whole; do not open the capsules.
 
-Atomoxetine capsules can be discontinued without being tapered.
+## 2.3 Recommended Dosage
 
-Atomoxetine capsules are not intended to be opened, they should be taken whole [see Patient Counseling Information (17)].
+Table 1 includes the recommended atomoxetine capsules dosage in adult patients and pediatric patients 6 years of age and older for acute treatment of ADHD.
 
-The safety of single doses over 120 mg and total daily doses above 150 mg have not been systematically evaluated.
+Table 1: Recommended Dosage of Atomoxetine Capsules for Acute Treatment of ADHD
 
-## 2.4 Screen for Bipolar Disorder Prior to Starting Atomoxetine
+| Age and Body Weight | Starting Dosage | Titration Interval | Target Dosage | Maximum Dosage |
+| --- | --- | --- | --- | --- |
+| Pediatric patients who weigh lessthan 70 kg | 0.5 mg/kg/day | Minimum of 3 days | 1.2 mg/kg/daya,b | 1.4 mg/kg/day or 100 mg/day, whichever is lessa |
+| Pediatric patients who weigh 70 kg or more and adult patients | 40 mg/day | Minimum of 3 days | 80 mg/daya | 100 mg/daya,c |
 
-Prior to initiating treatment with atomoxetine, screen patients for a personal or family history of bipolar disorder, mania, or hypomania [see Warnings and Precautions (5.6)].
+a Administer either as once daily dosage in the morning or as evenly divided twice daily dosage in the morning and late afternoon/early evening.
 
-## 2.5 Dosing in Specific Populations
+b No additional benefit has been demonstrated with atomoxetine capsules dosages higher than 1.2 mg/kg/day [see Clinical Studies (14)].
 
-Dosing adjustment for hepatically impaired patients - For those ADHD patients who have hepatic insufficiency (HI), dosage adjustment is recommended as follows: For patients with moderate HI (Child-Pugh Class B), initial and target doses should be reduced to 50% of the normal dose (for patients without HI).
-For patients with severe HI (Child-Pugh Class C), initial dose and target doses should be reduced to 25% of normal [see Use In Specific Populations (8.6)].
+c If a patient has not achieved an optimal response at 80 mg/day after 2 to 4 additional weeks, may increase the dosage to a maximum of 100 mg/day.
+There is no data that supports increased effectiveness at a dosage higher than 100 mg/day [see Clinical Studies (14)].
 
-Dosing adjustment for use with a strong CYP2D6 inhibitor or in patients who are known to be CYP2D6 PMs - In children and adolescents up to 70 kg body weight administered strong CYP2D6 inhibitors, e.g., paroxetine, fluoxetine, and quinidine, or in patients who are known to be CYP2D6 PMs, atomoxetine hydrochloride should be initiated at 0.5 mg/kg/day and only increased to the usual target dose of 1.2 mg/kg/day if symptoms fail to improve after 4 weeks and the initial dose is well tolerated.
+The health care provider who elects to use atomoxetine capsules for extended periods should periodically reevaluate the long-term usefulness of atomoxetine capsules for the individual patient.
 
-In children and adolescents over 70 kg body weight and adults administered strong CYP2D6 inhibitors, e.g., paroxetine, fluoxetine, and quinidine, atomoxetine capsules should be initiated at 40 mg/day and only increased to the usual target dose of 80 mg/day if symptoms fail to improve after 4 weeks and the initial dose is well tolerated.
+## 2.4 Recommended Dosage in Patients with Hepatic Impairment
+
+For patients aged 6 years of age or older with:
+
+- Severe hepatic impairment (HI) (Child-Pugh Class C), the recommended initial and target atomoxetine capsules dosage is 25% of recommended dosage in patients with normal hepatic function [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+- Moderate HI (Child-Pugh Class B), the recommended initial and target atomoxetine capsules dosage is 50% of the recommended dosage in patients with normal hepatic function [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+- Mild HI (Child-Pugh Class A), the recommended initial and target atomoxetine capsules dosage is the same as those with normal hepatic function.
+
+## 2.5 Recommended Dosage with Concomitant Use of Strong CYP2D6 Inhibitors or in CYP2D6 Poor Metabolizers
+
+Consider genetic testing to determine the patient’s CYP2D6 metabolizer status.In patients taking a concomitant strong CYP2D6 inhibitor or who are CYP2D6 poor metabolizers, a longer titration interval of 4 weeks is recommended, if ADHD symptoms fail to improve and the initial atomoxetine capsules dosage is well tolerated.
+The recommended starting, target, and maximum atomoxetine capsules dosages are the same as outlined in Table 1 [see Dosage and Administration (2.3)].
+
+For other CYP2D6 metabolizer types (ultrarapid, normal, and intermediate), follow the recommended dosage, including the recommended titration interval (minimum of 3 days), as outlined in Table 1 [see Dosage and Administration (2.3)].
+
+## 2.6 Switching to or from a Monoamine Oxidase Inhibitor Antidepressant
+
+At least 14 days must elapse between discontinuation of a monoamine oxidase inhibitor (MAOI) antidepressant and initiation of atomoxetine capsules.
+In addition, at least 14 days must elapse after stopping atomoxetine capsules before starting an MAOI antidepressant.
+
+## 2.7 Recommendations for a Missed Dose
+
+If an atomoxetine capsules dose is missed, take the dose as soon as possible, but do not take more than the prescribed total daily amount of atomoxetine capsules in any 24-hour period.
+
+## 2.8 Recommendations for Discontinuation
+
+When discontinuing atomoxetine capsules, no taper is needed [see Drug Abuse and Dependence (9.2, 9.3)].
