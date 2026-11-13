@@ -13,4 +13,4 @@ There was 100% mortality among patients who ingested more than 0.8 mg/kg.
 - •Treatment of colchicine overdose should begin with gastric lavage and measures to prevent shock.
   Otherwise, treatment is symptomatic and supportive.
   No specific antidote is known.
-  Colchicine is not effectively removed by hemodialysis [seePharmacokinetics (12.3)].
+  Colchicine is not effectively removed by hemodialysis [see Pharmacokinetics (12.3)].
