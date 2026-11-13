@@ -126,7 +126,7 @@ Common Adverse Reactions
 
 Table 5 displays adverse reactions that occurred in 2% or more of patients on XELJANZ 5 mg or 10 mg twice daily and at least 1% greater than in XELJANZ-treated patients that observed in placebo-treated patients with or without DMARD in the RA trials.
 
-Table 5: Common Adverse Reactionsreported in ≥2% of patients treated with either dose of XELJANZ and ≥1% greater than that reported for placebo. in Clinical Trials of XELJANZ for the Treatment of Rheumatoid Arthritis in Adults With or Without Concomitant DMARDs (0–3 Months)
+Table 5: Common Adverse ReactionsReported in ≥2% of patients treated with either dose of XELJANZ and ≥1% greater than that reported for placebo. in Clinical Trials of XELJANZ for the Treatment of Rheumatoid Arthritis in Adults With or Without Concomitant DMARDs (0–3 Months)
 
 | N = 809 (%) | N = 1336 (%) | N = 1349 (%) |  |
 | --- | --- | --- | --- |

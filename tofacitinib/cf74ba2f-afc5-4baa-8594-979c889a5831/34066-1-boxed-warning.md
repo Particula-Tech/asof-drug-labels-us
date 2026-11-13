@@ -41,6 +41,7 @@ THROMBOSIS
 
 Thrombosis, including pulmonary embolism, deep venous thrombosis, and arterial thrombosis have occurred in patients treated with XELJANZ and other Janus kinase inhibitors used to treat inflammatory conditions.
 Many of these events were serious and some resulted in death.
-RA patients 50 years of age and older with at least one cardiovascular risk factor treated with XELJANZ tablets 5 mg or 10 mg twice daily compared to TNF blockers had an observed increase in incidence of these events.
+RA patients 50 years of age and older with at least one cardiovascular risk factor treated with XELJANZ tablets 5 mg or 10 mg twice daily compared to TNF blockers had an observed increase in incidence of thrombosis.
+Additionally, cerebral venous thrombosis (CVT) has occurred in patients treated with XELJANZ and other Janus kinase inhibitors.
 Avoid XELJANZ/XELJANZ XR in patients at risk.
 Discontinue XELJANZ/XELJANZ XR and promptly evaluate patients with symptoms of thrombosis [see Warnings and Precautions (5.5)].

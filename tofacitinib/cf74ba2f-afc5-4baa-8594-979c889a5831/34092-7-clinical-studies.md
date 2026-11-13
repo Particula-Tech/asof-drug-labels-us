@@ -293,13 +293,13 @@ Table 19: ASAS Components and Other Measures of Disease Activity in Adults with 
 | --- | --- | --- | --- | --- | --- |
 |  | Placebo (N=136) |  | XELJANZ 5 mg Twice Daily (N=133) |  |  |
 | ASAS Components |  |  |  |  |  |
-| -Patient Global Assessment of Disease Activity (0–10)Measured on a numerical rating scale with 0 = not active or no pain, 10 = very active or most severe pain.,type I error-controlled. | 7.0 | -1.0 | 6.9 | -2.5 | -1.5 (-2.00, -0.97)p <0.0001. |
-| -Total spinal pain (0–10), | 6.9 | -1.1 | 6.9 | -2.6 | -1.5 (-2.00, -1.03) |
-| -BASFI (0–10)Bath Ankylosing Spondylitis Functional Index measured on a numerical rating scale with 0 = easy and 10 = impossible., | 5.9 | -0.8 | 5.8 | -2.0 | -1.2 (-1.64, -0.79) |
-| -Inflammation (0–10)Inflammation is the mean of two patient-reported stiffness self-assessments in BASDAI., | 6.8 | -1.1 | 6.6 | -2.8 | -1.7 (-2.13, -1.18) |
+| -Patient Global Assessment of Disease Activity (0–10)Measured on a numerical rating scale with 0 = not active or no pain, 10 = very active or most severe pain.type I error-controlled. | 7.0 | -1.0 | 6.9 | -2.5 | -1.5 (-2.00, -0.97)p <0.0001. |
+| -Total spinal pain (0–10) | 6.9 | -1.1 | 6.9 | -2.6 | -1.5 (-2.00, -1.03) |
+| -BASFI (0–10)Bath Ankylosing Spondylitis Functional Index measured on a numerical rating scale with 0 = easy and 10 = impossible. | 5.9 | -0.8 | 5.8 | -2.0 | -1.2 (-1.64, -0.79) |
+| -Inflammation (0–10)Inflammation is the mean of two patient-reported stiffness self-assessments in BASDAI. | 6.8 | -1.1 | 6.6 | -2.8 | -1.7 (-2.13, -1.18) |
 | BASDAI ScoreBASDAI total score. | 6.5 | -1.2 | 6.4 | -2.6 | -1.4 (-1.86, -0.98) |
-| BASMIBath Ankylosing Spondylitis Metrology Index., | 4.4 | -0.1 | 4.5 | -0.6 | -0.5 (-0.66, -0.36) |
-| hsCRPHigh sensitivity C-reactive protein., (mg/dL) | 1.8 | -0.1 | 1.6 | -1.1 | -0.9 (-1.17, -0.69) |
+| BASMIBath Ankylosing Spondylitis Metrology Index. | 4.4 | -0.1 | 4.5 | -0.6 | -0.5 (-0.66, -0.36) |
+| hsCRP (mg/dL)High sensitivity C-reactive protein. | 1.8 | -0.1 | 1.6 | -1.1 | -0.9 (-1.17, -0.69) |
 | LSM = least squares mean. |  |  |  |  |  |
 
 The percentage of patients with active AS who achieved ASAS20 response by visit is shown in Figure 6.

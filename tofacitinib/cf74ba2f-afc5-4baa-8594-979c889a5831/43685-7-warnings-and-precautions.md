@@ -110,8 +110,9 @@ XELJANZ 10 mg twice daily (or XELJANZ XR 22 mg once daily) dosages are not recom
 Thrombosis may occur with XELJANZ (tablets and oral solution) and XELJANZ XR (extended-release tablets).
 Thrombosis, including pulmonary embolism (PE), deep venous thrombosis (DVT), and arterial thrombosis, have occurred in patients treated with XELJANZ and other Janus kinase (JAK) inhibitors used to treat inflammatory conditions.
 Many of these events were serious and some resulted in death [see Warnings and Precautions (5.2)].
+Additionally, cases of cerebral venous thrombosis (CVT) have occurred in patients treated with JAK inhibitors, including XELJANZ, in clinical trials and postmarketing.
 
-Patients with RA 50 years of age and older with at least one cardiovascular risk factor treated with XELJANZ tablets 5 mg or 10 mg twice daily compared to TNF blockers in RA Safety Study 1 had an observed increase in incidence of these thrombotic events.
+Patients with RA 50 years of age and older with at least one cardiovascular risk factor treated with XELJANZ tablets 5 mg or 10 mg twice daily compared to TNF blockers in RA Safety Study 1 had an observed increase in incidence of DVT, PE, and arterial thrombosis.
 The incidence rate of DVT per 100 patient-years was 0.28 for XELJANZ tablets 10 mg twice a day, 0.22 for XELJANZ tablets 5 mg twice a day, and 0.16 for TNF blockers.
 The incidence rate of PE per 100 patient-years was 0.49 for XELJANZ tablets 10 mg twice a day, 0.18 for XELJANZ tablets 5 mg twice a day, and 0.05 for TNF blockers [see Clinical Studies (14.6)].
 

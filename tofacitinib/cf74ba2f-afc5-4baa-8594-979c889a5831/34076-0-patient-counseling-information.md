@@ -23,7 +23,7 @@ Instruct all patients, especially current or past smokers or patients with other
 
 Thrombosis
 
-Advise patients to stop taking XELJANZ/XELJANZ XR and to call their healthcare provider right away if they experience any symptoms of thrombosis (sudden shortness of breath, chest pain worsened with breathing, swelling of leg or arm, leg pain or tenderness, red or discolored skin in the affected leg or arm) [see Warnings and Precautions (5.5)].
+Advise patients to stop taking XELJANZ/XELJANZ XR and to call their healthcare provider right away if they experience any symptoms of thrombosis, including DVT, PE, or CVT [see Warnings and Precautions (5.5)].
 
 Hypersensitivity
 
@@ -60,4 +60,4 @@ Patients should be informed that the active medication has already been absorbed
 This product’s labeling may have been updated.
 For the most recent prescribing information, please visit www.pfizer.com.
 
-LAB-0445-32.0
+LAB-0445-33.0
