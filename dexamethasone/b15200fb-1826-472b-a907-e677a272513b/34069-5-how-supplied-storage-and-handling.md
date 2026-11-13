@@ -2,43 +2,43 @@
 
 Dexamethasone Tablets, USP
 
-0.5 mg tablets are supplied as a light yellow, flat tablet with beveled edges, scored on one side and product identification “54 299” debossed on the other side.
+0.5 mg tablets are supplied as a light yellow tablet, scored on one side and product identification “54 299” debossed on the other side.
 
 NDC 0054-8179-25: 10x10 Unit-Dose
 
 NDC 0054-4179-25: Bottle of 100 Tablets
 
-0.75 mg tablets are supplied as a pale blue, flat tablet with beveled edges, scored on one side and product identification “54 960” debossed on the other side.
+0.75 mg tablets are supplied as a pale blue tablet, scored on one side and product identification “54 960” debossed on the other side.
 
 NDC 0054-8180-25: 10x10 Unit-Dose
 
 NDC 0054-4180-25: Bottle of 100 Tablets
 
-1 mg tablets are supplied as a yellow, flat tablet with beveled edges, scored on one side and product identification “54 489” debossed on the other side.
+1 mg tablets are supplied as a yellow to yellow speckled tablet, scored on one side and product identification “54 489” debossed on the other side.
 
 NDC 0054-8174-25: 10x10 Unit-Dose
 
 NDC 0054-4181-25: Bottle of 100 Tablets
 
-1.5 mg tablets are supplied as a pink, flat tablet with beveled edges, scored on one side and product identification “54 943” debossed on the other side.
+1.5 mg tablets are supplied as a pink tablet, scored on one side and product identification “54 943” debossed on the other side.
 
 NDC 0054-8181-25: 10x10 Unit-Dose
 
 NDC 0054-4182-25: Bottle of 100 Tablets
 
-2 mg tablets are supplied as a white, flat tablet with beveled edges, scored on one side and product identification “54 662” debossed on the other side.
+2 mg tablets are supplied as a white tablet, scored on one side and product identification “54 662” debossed on the other side.
 
 NDC 0054-8176-25: 10x10 Unit-Dose
 
 NDC 0054-4183-25: Bottle of 100 Tablets
 
-4 mg tablets are supplied as a green, flat tablet with beveled edges, scored on one side and product identification “54 892” debossed on the other side.
+4 mg tablets are supplied as a green tablet, scored on one side and product identification “54 892” debossed on the other side.
 
 NDC 0054-8175-25: 10x10 Unit-Dose
 
 NDC 0054-4184-25: Bottle of 100 Tablets
 
-6 mg tablets are supplied as an aqua, flat tablet with beveled edges, scored on one side and product identification “54 769” debossed on the other side.
+6 mg tablets are supplied as an aqua tablet, scored on one side and product identification “54 769” debossed on the other side.
 
 NDC 0054-8183-25: 10x10 Unit-Dose
 
@@ -79,4 +79,4 @@ Do not use if solution contains a precipitate.
 Dispense only in this bottle and only with the calibrated oral syringe provided.
 Discard opened bottle after 90 days.
 
-Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922 C5000comb/02/k02 Revised February 2024
+Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922 C5000comb/03/k02 Revised February 2026
