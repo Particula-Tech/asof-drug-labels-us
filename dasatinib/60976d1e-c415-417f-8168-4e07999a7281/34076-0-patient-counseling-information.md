@@ -88,6 +88,6 @@ Manufactured by: Bora Pharmaceutical Services Inc. Mississauga, Ontario, L5N 6L4
 
 Marketed by: Cycle Pharmaceuticals Ltd Cambridge, CB3 0FA United Kingdom
 
-PHYRAGO™ is a trademark of Handa Therapeutics, LLC
+PHYRAGO® is a trademark of Handa Therapeutics, LLC
 
 For patent information, please refer to www.phyrago.com/patents
