@@ -6,7 +6,7 @@ Read this Patient Information before you start using ESTRADIOL TRANSDERMAL SYSTE
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your menopausal symptoms or your treatment.
 
-| What is the most important information I should know about ESTRADIOL TRANSDERMAL SYSTEM (an estrogen hormone)? Using estrogen-alone may increase your chance of getting cancer of the uterus (womb).Report any unusual vaginal bleeding right away while you are using ESTRADIOL TRANSDERMAL SYSTEM. Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb). Your healthcare provider should check any unusual vaginal bleeding to find out the cause.Do not use estrogen-alone to prevent heart disease, heart attacks, strokes, or dementia (decline in brain function).Using estrogen-alone may increase your chances of getting strokes or blood clots.Using estrogen-alone may increase your chance of getting dementia, based on a study of women 65 years of age or older.Do not use estrogens with progestins to prevent heart disease, heart attacks, strokes, or dementia.Using estrogens with progestogens may increase your chances of getting heart attacks, strokes, breast cancer, or blood clotsUsing estrogens with progestogens may increase your chance of getting dementia, based on a study of women 65 years of age or older.Only one estrogen-alone product and does have been shown to increase your chances of getting strokes, blood clots, and dementia. Only one estrogen with progestogen product and dose have been shown to increase your chances of getting heart attacks, strokes, breast cancer, blood clots, and dementia. Because other products and doses have not been studied in the same way, it is not known how the use of ESTRADIOL TRANSDERMAL SYSTEM will affect your chances of developing these conditions. You and your healthcare provider should talk regularly about whether you still need treatment with ESTRADIOL TRANSDERMAL SYSTEM. |
+| What is the most important information I should know about ESTRADIOL TRANSDERMAL SYSTEM (an estrogen hormone)? Using estrogen-alone may increase your chance of getting cancer of the uterus (womb).Report any unusual vaginal bleeding right away while you are using ESTRADIOL TRANSDERMAL SYSTEM. Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb). Your healthcare provider should check any unusual vaginal bleeding to find out the cause.Do not use estrogen-alone to prevent heart disease, heart attacks, strokes, or dementia (decline in brain function).Using estrogen-alone may increase your chances of getting strokes or blood clots.Do not use estrogens with progestins to prevent heart disease, heart attacks, strokes, or dementia.Using estrogens with progestogens may increase your chances of getting heart attacks, strokes, breast cancer, or blood clotsOnly one estrogen-alone product and does have been shown to increase your chances of getting strokes, blood clots, and dementia. Because other products and doses have not been studied in the same way, it is not known how the use of ESTRADIOL TRANSDERMAL SYSTEM will affect your chances of developing these conditions. You and your healthcare provider should talk regularly about whether you still need treatment with ESTRADIOL TRANSDERMAL SYSTEM. |
 | --- |
 
 What is ESTRADIOL TRANSDERMAL SYSTEM?
@@ -55,7 +55,7 @@ Before you use ESTRADIOL TRANSDERMAL SYSTEM, tell your healthcare provider about
   ESTRADIOL TRANSDERMAL SYSTEM is not for pregnant women.
 - are breast feeding The hormone in ESTRADIOL TRANSDERMAL SYSTEM can pass into your breast milk.
 
-Tell your healthcare provider about all the medicines you takeincluding prescription and over-the-counter medicines, vitamins and herbal supplements.
+Tell your healthcare provider about all the medicines you take including prescription and over-the-counter medicines, vitamins and herbal supplements.
 Some medicines may affect how ESTRADIOL TRANSDERMAL SYSTEM works.
 ESTRADIOL TRANSDERMAL SYSTEM may also affect how your other medicines work.
 Keep a list of your medicines and show it to your healthcare provider and pharmacist when you get a new medicine.
@@ -95,7 +95,7 @@ Serious, but less common side effects include:
 - breast cancer
 - cancer of the lining of the uterus (womb)
 - cancer of the ovary
-- dementia
+- dementia (for persons age 65 years and older)
 - high or low blood calcium
 - gallbladder disease
 - visual abnormalities
@@ -167,4 +167,4 @@ You can ask your healthcare provider or pharmacist for information about ESTRADI
 You can get more information by calling Grove Pharmaceuticals at 1-844-884-6796.
 
 What are the ingredients in ESTRADIOL TRANSDERMAL SYSTEM?
-Active ingredient:estradiol Inactive ingredients:Polyester film backing, acrylic and silicone adhesives, oleyl alcohol, NF, povidone, USP and dipropylene glycol, a polyester release liner, and a polyester release liner
+Active ingredient: estradiol Inactive ingredients: Polyester film backing, acrylic and silicone adhesives, oleyl alcohol, NF, povidone, USP and dipropylene glycol, a polyester release liner, and a polyester release liner
