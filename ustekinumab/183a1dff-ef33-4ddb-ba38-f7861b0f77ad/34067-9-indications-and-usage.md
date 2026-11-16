@@ -12,6 +12,6 @@ Ustekinumab-aekn is indicated for the treatment of adults and pediatric patients
 
 Ustekinumab-aekn is indicated for the treatment of adult patients with moderately to severely active Crohn’s disease.
 
-## 1.4 Ulcerative Colitis
+## 1.4 Ulcerative Colitis (UC)
 
 Ustekinumab-aekn is indicated for the treatment of adult patients with moderately to severely active ulcerative colitis.

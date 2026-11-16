@@ -1,6 +1,6 @@
 # PACKAGE.LABEL.PRINCIPAL DISPLAY PANEL
 
-NDC 51759-709-32
+NDC 51759- 709-32
 
 Ustekinumab-aekn
 
@@ -18,7 +18,7 @@ Contains one 45 mg/0.5 mL syringe
 
 # PACKAGE.LABEL.PRINCIPAL DISPLAY PANEL
 
-NDC 51759-710-32
+NDC 51759- 710-32
 
 Ustekinumab-aekn
 
@@ -36,7 +36,7 @@ Contains one 90 mg/mL syringe
 
 # PACKAGE.LABEL.PRINCIPAL DISPLAY PANEL
 
-NDC 51759-711-13
+NDC 51759- 711-13
 
 Ustekinumab-aekn
 
@@ -56,7 +56,7 @@ Contains One Single-Dose Vial Discard Unused Portion
 
 # PACKAGE.LABEL.PRINCIPAL DISPLAY PANEL
 
-NDC 51759-709-13
+NDC 51759- 709-13
 
 Ustekinumab-aekn
 

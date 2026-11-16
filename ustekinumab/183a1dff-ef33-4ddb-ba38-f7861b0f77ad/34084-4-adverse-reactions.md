@@ -20,9 +20,9 @@ Adult Subjects with Plaque Psoriasis
 
 The safety data reflect exposure to ustekinumab in 3117 adult subjects with plaque psoriasis, including 2414 exposed for at least 6 months, 1855 exposed for at least one year, 1653 exposed for at least two years, 1569 exposed for at least three years, 1482 exposed for at least four years and 838 exposed for at least five years.
 
-Table 5 summarizes the adverse reactions that occurred at a rate of at least 1% with higher rates in the ustekinumab groups during the placebo-controlled period of Ps STUDY 1 and Ps STUDY 2 [see Clinical Studies (14)].
+Table 7 summarizes the adverse reactions that occurred at a rate of at least 1% with higher rates in the ustekinumab groups during the placebo-controlled period of Ps STUDY 1 and Ps STUDY 2 [see Clinical Studies (14.1)].
 
-Table 5: Adverse Reactions, Reported by ≥1% of Subjects with Plaque Psoriasis and at Higher Rates in the ustekinumab groups through Week 12 in Ps STUDY 1 and Ps STUDY 2
+Table 7: Adverse Reactions, Reported by ≥1% of Subjects with Plaque Psoriasis and at Higher Rates in the Ustekinumab Groups through Week 12 in Ps STUDY 1 and Ps STUDY 2
 
 |  |  | Ustekinumab |  |
 | --- | --- | --- | --- |
@@ -55,9 +55,8 @@ Serious infections were reported in 2.8% of subjects (0.01 per patient-years of 
 Malignancies
 
 In the controlled and non-controlled portions of clinical trials in subjects with plaque psoriasis (median follow-up of 3.2 years, representing 8998 patient-years of exposure), 1.7% of ustekinumab-treated subjects reported malignancies excluding non-melanoma skin cancers (0.60 per hundred patient-years of follow-up).
-Non-melanoma skin cancer was reported in 1.5% of ustekinumab-treated subjects (0.52 per hundred patient-years of follow-up) [see Warnings and Precautions (5.4)].
-The most frequently observed malignancies other than non-melanoma skin cancer during the clinical trials were: prostate, melanoma, colorectal and breast.
-Malignancies other than non-melanoma skin cancer in ustekinumab-treated subjects during the controlled and uncontrolled portions of trials were similar in type and number to what would be expected in the general U.S. population according to the SEER database (adjusted for age, gender and race).1
+Non-melanoma skin cancer was reported in 1.5% of ustekinumab-treated subjects (0.52 per hundred patient-years of follow-up) [see Warnings and Precautions (5.4)].The most frequently observed malignancies other than non-melanoma skin cancer during the clinical trials were: prostate, melanoma, colorectal and breast.
+Malignancies other than non-melanoma skin cancer in ustekinumab-treated subjects during the controlled and uncontrolled portions of trials were similar in type and number to what would be expected in the general U.S. population according to the 1969-2004 SEER database (adjusted for age, gender and race).
 
 Pediatric Subjects with Plaque Psoriasis
 
@@ -72,7 +71,7 @@ The safety of ustekinumab was assessed in 927 subjects in two randomized, double
 The overall safety profile of ustekinumab in subjects with PsA was consistent with the safety profile seen in clinical trials in adult subjects with plaque psoriasis.
 A higher incidence of arthralgia, nausea, and dental infections was observed in ustekinumab-treated subjects when compared with placebo-treated subjects (3% vs. 1% for arthralgia and 3% vs. 1% for nausea; 1% vs. 0.6% for dental infections) in the placebo-controlled portions of the PsA clinical trials.
 
-Crohn’s Disease
+Adult Subjects with Crohn’s Disease
 
 The safety of ustekinumab was assessed in 1407 subjects with moderately to severely active Crohn’s disease (Crohn’s Disease Activity Index [CDAI] greater than or equal to 220 and less than or equal to 450) in three randomized, double-blind, placebo-controlled, parallel-group, multicenter trials.
 These 1407 subjects included 40 subjects who received a prior investigational intravenous ustekinumab formulation but were not included in the efficacy analyses.
@@ -81,20 +80,20 @@ Subjects who were responders in either trial CD-1 or CD-2 were randomized to rec
 Subjects in these 3 trials may have received other concomitant therapies including aminosalicylates, immunomodulatory agents [azathioprine (AZA), 6-mercaptopurine (6-MP), methotrexate (MTX)], oral corticosteroids (prednisone or budesonide), and/or antibiotics for their Crohn’s disease [see Clinical Studies (14.4)].
 
 The overall safety profile of ustekinumab was consistent with the safety profile seen in the clinical trials in adult subjects with plaque psoriasis and psoriatic arthritis.
-Common adverse reactions in trials CD-1 and CD-2 and in trial CD-3 are listed in Tables 6 and 7, respectively.
+Common adverse reactions in trials CD-1 and CD-2 and in trial CD-3 are listed in Tables 8 and 9, respectively.
 
-Table 6: Common Adverse Reactions Through Week 8 in Trials CD-1 and CD-2 occurring in ≥3% of Ustekinumab–Treated Subjects and Higher Than Subjects Receiving Placebo
+Table 8: Common Adverse Reactions Through Week 8 in Trials CD-1 and CD-2 occurring in ≥3% of Ustekinumab–Treated Subjects and Higher Than Subjects Receiving Placebo
 
-|  | Placebo | Ustekinumab6 mg/kg single intravenousinduction dose |
+|  | Placebo | Ustekinumab6 mg/kg Single IntravenousInduction Dose |
 | --- | --- | --- |
 |  | N=466 | N=470 |
 | Vomiting | 3% | 4% |
 
 Other less common adverse reactions reported in subjects in trials CD-1 and CD-2 included asthenia (1% vs 0.4%), acne (1% vs 0.4%), and pruritus (2% vs 0.4%).
 
-Table 7: Common Adverse Reactions Through Week 44 in Trial CD-3 occurring in ≥3% of Ustekinumab-Treated Subjects and Higher Than Subjects Receiving Placebo
+Table 9: Common Adverse Reactions Through Week 44 in Trial CD-3 occurring in ≥3% of Ustekinumab-Treated Subjects and Higher Than Subjects Receiving Placebo
 
-|  | Placebo | Ustekinumab 90 mg subcutaneous maintenance dose every 8 weeks |
+|  | Placebo | Ustekinumab 90 mg Subcutaneous Maintenance Dose Every 8 Weeks |
 | --- | --- | --- |
 |  | N=133 | N=131 |
 | Nasopharyngitis | 8% | 11% |
@@ -113,7 +112,7 @@ In addition, listeria meningitis and ophthalmic herpes zoster were reported in o
 Malignancies
 
 With up to one year of treatment in the Crohn’s disease clinical trials, 0.2% of ustekinumab- treated subjects (0.36 events per hundred patient-years) and 0.2% of placebo-treated subjects (0.58 events per hundred patient- years) developed non-melanoma skin cancer.
-Malignancies other than non-melanoma skin cancers occurred in 0.2% of ustekinumab-treated subjects (0.27 events per hundred patient-years) and in none of the placebo-treated subjects.
+Malignancies other than non-melanoma skin cancers occurred in 0.2% of ustekinumab-treated subjects (0.27 events per hundred patient-years) and in none of the placebo-treated subjects [see Warnings and Precautions (5.4)].
 
 Hypersensitivity Reactions Including Anaphylaxis
 
@@ -139,31 +138,20 @@ In addition, listeriosis and ophthalmic herpes zoster were reported in one subje
 Malignancies
 
 With up to one year of treatment in the ulcerative colitis clinical trials, 0.4% of ustekinumab-treated subjects (0.48 events per hundred patient-years) and 0.0% of subjects receiving placebo (0.00 events per hundred patient-years) developed non-melanoma skin cancer.
-Malignancies other than non-melanoma skin cancers occurred in 0.5% of ustekinumab-treated subjects (0.64 events per hundred patient-years) and 0.2% of subjects receiving placebo (0.40 events per hundred patient-years).
+Malignancies other than non-melanoma skin cancers occurred in 0.5% of ustekinumab-treated subjects (0.64 events per hundred patient-years) and 0.2% of subjects receiving placebo (0.40 events per hundred patient-years) [see Warnings and Precautions (5.4)].
 
-## 6.2 Immunogenicity
-
-The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
-Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those ustekinumab or of other ustekinumab products.
-
-Approximately 6 to 12.4% of subjects treated with ustekinumab in clinical trials in subjects with plaque psoriasis and psoriatic arthritis developed antibodies to ustekinumab, which were generally low-titer.
-In clinical trials in subjects with plaque psoriasis, antibodies to ustekinumab were associated with reduced or undetectable serum ustekinumab concentrations and reduced efficacy.
-In trials in subjects with plaque psoriasis, the majority of subjects who were positive for antibodies to ustekinumab had neutralizing antibodies.
-
-In clinical trials in subjects with Crohn’s disease and ulcerative colitis, 2.9% and 4.6% of subjects, respectively, developed antibodies to ustekinumab when treated with ustekinumab for approximately one year.
-No apparent association between the development of antibodies to ustekinumab and the development of injection site reactions was seen.
-
-## 6.3 Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been reported during post-approval use of ustekinumab products.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to ustekinumab product exposure.
 
-Immune system disorders: Hypersensitivity reactions (e.g., anaphylaxis, angioedema, dyspnea, rash, urticaria), including a fatal case that presented with chest tightness and dyspnea during infusion of the first dose.
+Immune system disorders:Hypersensitivity reactions (e.g., anaphylaxis, angioedema, dyspnea, rash, urticaria), including a fatal case that presented with chest tightness and dyspnea during infusion of the first dose.Some cases of serious hypersensitivity reactions have been reported in patients with a history of alpha-gal syndrome, allergy to mammalian meat or meat products, or anti-alpha-gal IgE.
+In most of these cases the reactions occurred at the time of initial administration.
 
-Infections and infestations: Lower respiratory tract infection (including opportunistic fungal infections and tuberculosis).
+Infections and infestations:Lower respiratory tract infection (including opportunistic fungal infections and tuberculosis).
 
-Neurological disorders: Posterior Reversible Encephalopathy Syndrome (PRES).
+Neurological disorders:Posterior Reversible Encephalopathy Syndrome (PRES).
 
-Respiratory, thoracic, and mediastinal disorders: Interstitial pneumonia, eosinophilic pneumonia, and cryptogenic organizing pneumonia.
+Respiratory, thoracic, and mediastinal disorders:Interstitial pneumonia, eosinophilic pneumonia, and cryptogenic organizing pneumonia.
 
-Skin reactions: Pustular psoriasis, erythrodermic psoriasis, hypersensitivity vasculitis.
+Skin reactions:Pustular psoriasis, erythrodermic psoriasis, hypersensitivity vasculitis.

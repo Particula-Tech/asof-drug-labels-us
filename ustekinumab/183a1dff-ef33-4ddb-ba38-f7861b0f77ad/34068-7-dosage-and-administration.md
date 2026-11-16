@@ -8,7 +8,7 @@ Subcutaneous Adult Dosage Regimen
 - For patients weighing more than 100 kg, the recommended dosage is 90 mg initially and 4 weeks later, followed by 90 mg every 12 weeks.
 
 In subjects weighing more than 100 kg, 45 mg was also shown to be efficacious.
-However, 90 mg resulted in greater efficacy in these subjects [see Clinical Studies (14)].
+However, 90 mg resulted in greater efficacy in these subjects [see Clinical Studies (14.1)].
 
 Subcutaneous Pediatric Dosage Regimen
 
@@ -26,9 +26,9 @@ Table 1: Recommended Dose of Ustekinumab-aekn for Subcutaneous Injection in Pedi
 
 For pediatric patients weighing less than 60 kg, the administration volume for the recommended dose (0.75 mg/kg) is shown in Table 2; withdraw the appropriate volume from the vial.
 
-Table 2: Injection volumes of Ustekinumab-aekn 45 mg/0.5 mL Vials for Pediatric Patients 6 Years of Age and Older With Plaque Psoriasis and Pediatric Patients 6 Years of Age and Older With Psoriatic Arthritis* Weighing Less Than 60 kg
+Table 2: Injection Volumes of Ustekinumab-aekn 45 mg/0.5 mL Vials for Pediatric Patients 6 Years of Age and Older With Plaque Psoriasis and Pediatric Patients 6 Years of Age and Older With Psoriatic Arthritis* Weighing Less Than 60 kg
 
-| Body Weight (kg) at the time of dosing | Dose (mg) | Volume of injection (mL) |
+| Body Weight (kg) at the Time of Dosing | Dose (mg) | Volume of Injection (mL) |
 | --- | --- | --- |
 | 15 | 11.3 | 0.12 |
 | 16 | 12 | 0.13 |
@@ -99,27 +99,43 @@ Table 3: Recommended Dose of Ustekinumab-aekn for Subcutaneous Injection in Pedi
 | greater than 100 kg with co-existent moderate-to-severe plaque psoriasis | 90 mg |
 | * For pediatric patients weighing less than 60 kg, the administration volume for the recommended dose (0.75 mg/kg) is shown in Table 2; withdraw the appropriate volume from the vial. |  |
 
-## 2.3 Recommended Dosage in Crohn’s Disease and Ulcerative Colitis
+## 2.3 Recommended Adult Dosage in Crohn’s Disease
 
 Intravenous Induction Adult Dosage Regimen
 
-A single intravenous infusion dose of Ustekinumab-aekn using the weight-based dosage regimen specified in Table 4
+The recommended induction dosage is a single intravenous infusion using the weight-based dosage regimen specified in Table 4 [see Dosage and Administration (2.6)].
 
-[see Instructions for dilution of Ustekinumab-aekn 130 mg vial for intravenous infusion (2.5)].
+Table 4: Initial Intravenous Dosage of Ustekinumab-aekn in Adult Patients with Crohn’s Disease
 
-Table 4: Initial Intravenous Dosage of Ustekinumab-aekn
-
-| Body Weight of Patient at the time of dosing | Dose | Number of 130 mg/26 mL (5 mg/mL) Ustekinumab-aekn vials |
-| --- | --- | --- |
-| 55 kg or less | 260 mg | 2 |
-| more than 55 kg to 85 kg | 390 mg | 3 |
-| more than 85 kg | 520 mg | 4 |
+| Body Weight of Patient at the Time of Dosing | Dose |
+| --- | --- |
+| 55 kg or less | 260 mg |
+| greater than 55 kg to 85 kg | 390 mg |
+| greater than 85 kg | 520 mg |
 
 Subcutaneous Maintenance Adult Dosage Regimen
 
 The recommended maintenance dosage is a subcutaneous 90 mg dose administered 8 weeks after the initial intravenous dose, then every 8 weeks thereafter.
 
-## 2.4 General Considerations for Administration
+## 2.4 Recommended Adult Dosage in Ulcerative Colitis
+
+Intravenous Induction Adult Dosage Regimen
+
+The recommended induction dosage is a single intravenous infusion using the weight-based dosage regimen specified in Table 5 [see Dosage and Administration (2.6)].
+
+Table 5: Initial Intravenous Dosage ofUstekinumab-aekn in Adult Patients with Ulcerative Colitis
+
+| Body Weight of Patient at the Time of Dosing | Dose |
+| --- | --- |
+| 55 kg or less | 260 mg |
+| greater than 55 kg to 85 kg | 390 mg |
+| greater than 85 kg | 520 mg |
+
+Subcutaneous Maintenance Adult Dosage Regimen
+
+The recommended maintenance dosage is a subcutaneous 90 mg dose administered 8 weeks after the initial intravenous dose, then every 8 weeks thereafter.
+
+## 2.5 General Considerations for Administration
 
 - Ustekinumab-aekn is intended for use under the guidance and supervision of a healthcare provider.
   Ustekinumab-aekn should only be administered to patients who will be closely monitored and have regular follow-up visits with a healthcare provider.
@@ -135,32 +151,52 @@ The recommended maintenance dosage is a subcutaneous 90 mg dose administered 8 w
   Do not use Ustekinumab-aekn if it is discolored or cloudy, or if other particulate matter is present.
   Ustekinumab-aekn does not contain preservatives; therefore, discard any unused product remaining in the vial and/or syringe.
 
-## 2.5 Preparation and Administration of Ustekinumab-aekn 130 mg/26 mL (5 mg/mL) Vial for Intravenous Infusion (Crohn’s Disease and Ulcerative Colitis)
+## 2.6 Preparation and Administration of Ustekinumab-aekn 130 mg/26 mL (5 mg/mL) Vial for Intravenous Infusion (Crohn’s Disease and Ulcerative Colitis)
 
 Ustekinumab-aekn solution for intravenous infusion must be diluted, prepared and infused by a healthcare professional using aseptic technique.
 
-1. Calculate the dose and the number of Ustekinumab-aekn vials needed based on patient weight (Table 4).
-   Each 26 mL vial of Ustekinumab-aekn contains 130 mg of ustekinumab-aekn.
-2. Withdraw, and then discard a volume of the 0.9% Sodium Chloride Injection from the 250 mL infusion bag equal to the volume of Ustekinumab-aekn to be added (discard 26 mL sodium chloride for each vial of Ustekinumab-aekn needed, for 2 vials- discard 52 mL, for 3 vials- discard 78 mL, 4 vials- discard 104 mL).
-3. Withdraw 26 mL of Ustekinumab-aekn from each vial needed and add it to the 250 mL infusion bag.
-   The final volume in the infusion bag should be 250 mL.
-   Gently mix.
-4. Visually inspect the diluted solution before infusion.
-   Do not use if visibly opaque particles, discoloration or foreign particles are observed.
-5. Infuse the diluted solution over a period of at least one hour.
-   Once diluted, the infusion should be completely administered within four hours of the dilution in the infusion bag.
-6. Use only an infusion set with an in-line, sterile, non-pyrogenic, low protein-binding filter (pore size 0.2 micrometer).
-7. Do not infuse Ustekinumab-aekn concomitantly in the same intravenous line with other agents.
-8. Ustekinumab-aekn does not contain preservatives.
-   Each vial is for a one-time use in only one patient.
-   Discard any remaining solution.
-   Dispose any unused medicinal product in accordance with local requirements.
+1. Calculate the dose and the number of Ustekinumab-aekn vials needed based on patient weight (see Table 4 and Table 5 above).
+2. Withdraw, and then discard a volume of the 0.9% Sodium Chloride Injection, USP equal to the volume of Ustekinumab-aekn solution to be added (Table 6).
+
+Table 6: Appropriate Infusion Solution and Final Infusion Volumes for Intravenous Infusion of Ustekinumab-aekn Solution
+
+| Patient Population | Body Weight of Patient at theTime of Dosing | Infusion Solution | Final Volume in the Infusion Bag |
+| --- | --- | --- | --- |
+| Adult | All weights | 0.9% Sodium Chloride Injection | 250 mL a |
+
+aRemove a volume of infusion solution equal to the volume of Ustekinumab-aekn solution to be added to obtain the final volume.
+
+3.
+Add the volume of Ustekinumab-aekn solution equal to the calculated dose of Ustekinumab-aekn to the infusion solution and gently mix.
+
+4.
+Visually inspect the diluted solution before infusion.
+Do not use if visibly opaque particles, discoloration or foreign particles are observed.
+
+5.
+Infuse the diluted solution over a period of at least one hour.
+Once diluted, the infusion should be completely administered within the storage time (see Storage below).
+
+6.
+Use only an infusion set with an in-line, sterile, non-pyrogenic, low protein-binding filter (pore size 0.2 micrometer).
+
+7.
+Do not infuse Ustekinumab-aekn concomitantly in the same intravenous line with other agents.
+
+8.
+Ustekinumab-aekn does not contain preservatives.
+Each vial is for a one-time use in only one patient.
+Discard any remaining solution.
+Dispose any unused medicinal product in accordance with local requirements.
+
+9.
+Discard any unused portion of the infusion solution.
 
 Storage
 
-If necessary, the diluted infusion solution may be kept at room temperature up to 25°C (77°F) for up to 4 hours.
-Protect the diluted solution from light.
-Storage time at room temperature begins once the diluted solution has been prepared.
-The infusion should be completed within 4 hours after the dilution in the infusion bag (cumulative time after preparation including the storage and the infusion period).
 Do not freeze.
-Discard any unused portion of the infusion solution.
+
+Storage time at room temperature begins once the diluted solution has been prepared.
+
+- If necessary, the diluted infusion solution may be kept at room temperature up to 25°C (77°F) for up to 7 hours.
+  The infusion should be completed within 8 hours after the dilution in the infusion bag (cumulative time after preparation including the storage and the infusion period).

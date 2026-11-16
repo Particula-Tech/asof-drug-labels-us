@@ -4,7 +4,7 @@
 
 Ustekinumab products are human IgG1κ monoclonal antibodies that bind with specificity to the p40 protein subunit used by both the IL-12 and IL-23 cytokines.
 IL-12 and IL-23 are naturally occurring cytokines that are involved in inflammatory and immune responses, such as natural killer cell activation and CD4+ T-cell differentiation and activation.
-In in vitro models, ustekinumab products were shown to disrupt IL-12 and IL-23 mediated signaling and cytokine cascades by disrupting the interaction of these cytokines with a shared cell- surface receptor chain, IL-12Rβ1.
+In in vitromodels, ustekinumab products were shown to disrupt IL-12 and IL-23 mediated signaling and cytokine cascades by disrupting the interaction of these cytokines with a shared cell- surface receptor chain, IL-12Rβ1.
 The cytokines IL-12 and IL-23 have been implicated as important contributors to the chronic inflammation that is a hallmark of Crohn’s disease and ulcerative colitis.
 In animal models of colitis, genetic absence or antibody blockade of the p40 subunit of IL-12 and IL-23, the target of ustekinumab products, was shown to be protective.
 
@@ -23,8 +23,8 @@ The response rate approached a plateau at the ustekinumab exposures associated w
 
 Absorption
 
-In adult subjects with plaque psoriasis, the median time to reach the maximum serum concentration (Tmax) was 13.5 days and 7 days, respectively, after a single subcutaneous administration of 45 mg (N=22) and 90 mg (N=24) of ustekinumab.
-In healthy subjects (N=30), the median Tmax value (8.5 days) following a single subcutaneous administration of 90 mg of ustekinumab was comparable to that observed in subjects with plaque psoriasis.
+In adult subjects with plaque psoriasis, the median time to reach the maximum serum concentration (T max) was 13.5 days and 7 days, respectively, after a single subcutaneous administration of 45 mg (N=22) and 90 mg (N=24) of ustekinumab.
+In healthy subjects (N=30), the median T maxvalue (8.5 days) following a single subcutaneous administration of 90 mg of ustekinumab was comparable to that observed in subjects with plaque psoriasis.
 
 Following multiple subcutaneous doses of ustekinumab in adult subjects with plaque psoriasis, steady-state serum concentrations of ustekinumab were achieved by Week 28.
 The mean (±SD) steady-state trough serum ustekinumab concentrations were 0.69 ± 0.69 mcg/mL for subjects less than or equal to 100 kg receiving a 45 mg dose and 0.74 ± 0.78 mcg/mL for subjects greater than 100 kg receiving a 90 mg dose.
@@ -32,7 +32,7 @@ There was no apparent accumulation in serum ustekinumab concentration over time 
 
 Following the recommended intravenous induction dose, mean ±SD peak serum ustekinumab concentration was 125.2 ± 33.6 mcg/mL in subjects with Crohn’s disease, and 129.1 ± 27.6 mcg/mL in subjects with ulcerative colitis.
 Starting at Week 8, the recommended subcutaneous maintenance dosing of 90 mg ustekinumab was administered every 8 weeks.
-Steady state ustekinumab concentration was achieved by the start of the second maintenance dose.
+Steady-state ustekinumab concentration was achieved by the start of the second maintenance dose.
 There was no apparent accumulation in ustekinumab concentration over time when given subcutaneously every 8 weeks.
 Mean ±SD steady-state trough concentration was 2.5 ± 2.1 mcg/mL in subjects with Crohn’s disease, and 3.3 ± 2.3 mcg/mL in subjects with ulcerative colitis for 90 mg ustekinumab administered every 8 weeks.
 
@@ -72,12 +72,27 @@ At Week 28, the mean ±SD steady-state trough serum ustekinumab concentrations w
 
 Overall, the observed steady-state ustekinumab trough concentrations in pediatric subjects with plaque psoriasis were within the range of those observed for adult subjects with plaque psoriasis and adult subjects with PsA after administration of ustekinumab.
 
+The pharmacokinetics of ustekinumab were studied in pediatric subjects with Crohn’s disease aged 2 to 17 years and weighing 13 to 88 kg.
+There are no clinically significant differences in serum ustekinumab exposure expected between adult patients and pediatric patients with Crohn’s disease who receive the recommended dosage [see Dosage and Administration (2.4)].
+
 Drug Interaction Studies
 
-The effects of IL-12 or IL-23 on the regulation of CYP450 enzymes were evaluated in an in vitro study using human hepatocytes, which showed that IL-12 and/or IL-23 at levels of 10 ng/mL did not alter human CYP450 enzyme activities (CYP1A2, 2B6, 2C9, 2C19, 2D6, or 3A4).
+The effects of IL-12 or IL-23 on the regulation of CYP450 enzymes were evaluated in an in vitrostudy using human hepatocytes, which showed that IL-12 and/or IL-23 at levels of 10 ng/mL did not alter human CYP450 enzyme activities (CYP1A2, 2B6, 2C9, 2C19, 2D6, or 3A4).
 
 No clinically significant changes in exposure of caffeine (CYP1A2 substrate), warfarin (CYP2C9 substrate), omeprazole (CYP2C19 substrate), dextromethorphan (CYP2D6 substrate), or midazolam (CYP3A substrate) were observed when used concomitantly with ustekinumab at the approved recommended dosage in subjects with Crohn’s disease [see Drug Interactions (7.2)].
 
 Population pharmacokinetic analyses indicated that the clearance of ustekinumab was not impacted by concomitant MTX, NSAIDs, and oral corticosteroids, or prior exposure to a TNF blocker in subjects with psoriatic arthritis.
 
 In subjects with Crohn’s disease and ulcerative colitis, population pharmacokinetic analyses did not indicate changes in ustekinumab clearance with concomitant use of corticosteroids or immunomodulators (AZA, 6-MP, or MTX); and serum ustekinumab concentrations were not impacted by concomitant use of these medications.
+
+## 12.6 Immunogenicity
+
+The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
+Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of ustekinumab or of other ustekinumab products.
+
+Approximately 6 to 12.4% of subjects treated with ustekinumab in clinical trials in subjects with plaque psoriasis and psoriatic arthritis developed antibodies to ustekinumab, which were generally low-titer.
+In clinical trials in subjects with plaque psoriasis, antibodies to ustekinumab were associated with reduced or undetectable serum ustekinumab concentrations and reduced efficacy.
+In trials in subjects with plaque psoriasis, the majority of subjects who were positive for antibodies to ustekinumab had neutralizing antibodies.
+
+In clinical trials in adult subjects with Crohn’s disease and ulcerative colitis, 2.9% and 4.6% of subjects, respectively, developed antibodies to ustekinumab when treated with Ustekinumab-aekn for approximately one year.
+No apparent association between the development of antibodies to ustekinumab and the development of injection site reactions was seen.

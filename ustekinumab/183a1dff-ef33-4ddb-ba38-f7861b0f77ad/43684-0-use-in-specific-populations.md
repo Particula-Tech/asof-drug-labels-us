@@ -4,7 +4,7 @@
 
 Risk Summary
 
-Available data from the Organization of Teratology Information Specialists (OTIS)/Mother To Baby Pregnancy Registry, published literature and pharmacovigilance in pregnant women have not identified an ustekinumab-associated risk of major birth defects, miscarriage or other adverse maternal or fetal outcomes (see Data).
+Available data from the Organization of Teratology Information Specialists (OTIS)/MotherToBaby Pregnancy Registry, published literature and pharmacovigilance in pregnant women have not identified an ustekinumab-associated risk of major birth defects, miscarriage or other adverse maternal or fetal outcomes (see Data).
 There are risks to the mother and the fetus associated with inflammatory bowel disease (IBD) in pregnancy.
 In animal reproductive and developmental toxicity studies, no adverse developmental effects were observed in offspring after administration of ustekinumab to pregnant monkeys at exposures greater than 100 times the maximum recommended human dose (MRHD).
 
@@ -22,7 +22,7 @@ Fetal/Neonatal Adverse Reactions
 
 Transport of endogenous IgG antibodies across the placenta increases as pregnancy progresses, and peaks during the third trimester.
 Therefore, ustekinumab products may be present in infants exposed in utero.
-The potential clinical impact of ustekinumab product exposure in infants exposed in utero should be considered.
+The potential clinical impact of ustekinumab product exposure in infants exposed in uteroshould be considered.
 
 Data
 
@@ -62,9 +62,9 @@ Plaque Psoriasis
 
 The safety and effectiveness of Ustekinumab-aekn have been established for the treatment of moderate to severe plaque psoriasis in pediatric patients 6 years of age and older who are candidates for phototherapy or systemic therapy.
 
-Use of Ustekinumab-aekn in pediatric patients 12 to less than 17 years of age is supported by evidence from a multicenter, randomized, 60 week trial (Ps STUDY 3) of ustekinumab that included a 12 week, double-blind, placebo-controlled, parallel group portion, in 110 pediatric subjects 12 years of age and older [see Adverse Reactions (6.1), Clinical Studies (14.2)].
+Use of Ustekinumab-aekn in pediatric patients 12 to less than 17 years of age is supported by evidence from a multicenter, randomized, 60 week trial (Ps STUDY 3) of ustekinumab that included a 12 week, double-blind, placebo-controlled, parallel group portion, in 110 pediatric subjects 12 years of age and older [see Adverse Reactions (6.1) and Clinical Studies (14.2)].
 
-Use of Ustekinumab-aekn in pediatric patients 6 to 11 years of age is supported by evidence from an open-label, single-arm, efficacy, safety, and pharmacokinetics trial (Ps STUDY 4) of ustekinumab in 44 subjects [see Adverse Reactions (6.1), Pharmacokinetics (12.3)].
+Use of Ustekinumab-aekn in pediatric patients 6 to 11 years of age is supported by evidence from an open-label, single-arm, efficacy, safety, and pharmacokinetics trial (Ps STUDY 4) of ustekinumab in 44 subjects [see Adverse Reactions (6.1) and Clinical Pharmacology (12.3)].
 
 The safety and effectiveness of Ustekinumab-aekn have not been established in pediatric patients less than 6 years of age with plaque psoriasis.
 

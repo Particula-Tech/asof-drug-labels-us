@@ -3,17 +3,17 @@
 ## 5.1 Infections
 
 Ustekinumab products may increase the risk of infections and reactivation of latent infections.
-Serious bacterial, mycobacterial, fungal, and viral infections were observed in patients receiving ustekinumab products [see Adverse Reactions (6.1, 6.3)].
+Serious bacterial, mycobacterial, fungal, and viral infections were observed in patients receiving ustekinumab products [see Adverse Reactions (6.1, 6.2)].
 
 Serious infections requiring hospitalization, or otherwise clinically significant infections, reported in clinical trials included the following:
 
-- Plaque Psoriasis: diverticulitis, cellulitis, pneumonia, appendicitis, cholecystitis, sepsis, osteomyelitis, viral infections, gastroenteritis, and urinary tract infections.
+- Plaque Psoriasis:diverticulitis, cellulitis, pneumonia, appendicitis, cholecystitis, sepsis, osteomyelitis, viral infections, gastroenteritis, and urinary tract infections.
 
-- Psoriatic arthritis: cholecystitis.
+- Psoriatic arthritis:cholecystitis.
 
-- Crohn’s disease: anal abscess, gastroenteritis, ophthalmic herpes zoster, pneumonia, and listeria meningitis.
+- Crohn’s disease in adults:anal abscess, gastroenteritis, ophthalmic herpes zoster, pneumonia, and listeria meningitis.
 
-- Ulcerative colitis: gastroenteritis, ophthalmic herpes zoster, pneumonia, and listeriosis.
+- Ulcerative colitis:gastroenteritis, ophthalmic herpes zoster, pneumonia, and listeriosis.
 
 Avoid initiating treatment with Ustekinumab-aekn in patients with any clinically important active infection until the infection resolves or is adequately treated.
 Consider the risks and benefits of treatment prior to initiating use of Ustekinumab-aekn in patients with a chronic infection or a history of recurrent infection.
@@ -40,8 +40,7 @@ Closely monitor patients receiving Ustekinumab-aekn for signs and symptoms of ac
 ## 5.4 Malignancies
 
 Ustekinumab products are immunosuppressants and may increase the risk of malignancy.
-Malignancies were reported among subjects who received ustekinumab in clinical trials [see Adverse Reactions (6.1)].
-In rodent models, inhibition of IL-12/IL-23p40 increased the risk of malignancy [see Nonclinical Toxicology (13)].
+Malignancies were reported among subjects who received ustekinumab in clinical trials [see Adverse Reactions (6.1)].In rodent models, inhibition of IL-12/IL-23p40 increased the risk of malignancy [see Nonclinical Toxicology (13.1)].
 
 The safety of ustekinumab products has not been evaluated in patients who have a history of malignancy or who have a known malignancy.
 
@@ -52,7 +51,8 @@ Closely follow patients greater than 60 years of age, those with a medical histo
 ## 5.5 Serious Hypersensitivity Reactions
 
 Serious hypersensitivity reactions, including anaphylaxis and angioedema, have been reported with ustekinumab products in clinical trials and postmarketing.
-Some serious hypersensitivity reactions have occurred during the first intravenous dose of ustekinumab products [see Adverse Reactions (6.1, 6.3)].
+Some serious hypersensitivity reactions have occurred during the first intravenous dose of ustekinumab products [see Adverse Reactions (6.1, 6.2)].
+
 If a severe or clinically significant hypersensitivity reaction occurs, discontinue Ustekinumab-aekn immediately and initiate appropriate medical treatment [see Contraindications (4)].
 
 ## 5.6 Posterior Reversible Encephalopathy Syndrome (PRES)
@@ -81,4 +81,4 @@ Cases of interstitial pneumonia, eosinophilic pneumonia, and cryptogenic organiz
 Clinical presentations included cough, dyspnea, and interstitial infiltrates following one to three doses.
 Serious outcomes have included respiratory failure and prolonged hospitalization.
 Patients improved with discontinuation of therapy and in certain cases administration of corticosteroids.
-If diagnosis is confirmed, discontinue Ustekinumab-aekn and institute appropriate treatment [see Postmarketing Experience (6.3)].
+If diagnosis is confirmed, discontinue Ustekinumab-aekn and institute appropriate treatment [see Adverse Reactions (6.2)].

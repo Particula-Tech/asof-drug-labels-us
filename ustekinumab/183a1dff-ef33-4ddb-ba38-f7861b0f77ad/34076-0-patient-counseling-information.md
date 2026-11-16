@@ -6,14 +6,20 @@ Infections Inform patients that Ustekinumab-aekn may lower the ability of their 
 
 Malignancies Inform patients of the risk of developing malignancies while receiving Ustekinumab-aekn [see Warnings and Precautions (5.4)].
 
-Serious Hypersensitivity and Reactions
+Serious Hypersensitivity Reactions
 
-Inform patients that serious hypersensitivity reactions have been reported with intravenous and subcutaneous administration of ustekinumab products.
-Instruct patients to discontinue Ustekinumab-aekn and seek immediate medical attention if they experience any signs or symptoms of hypersensitivity reactions [see Warnings and Precautions (5.5)].
+- Inform patients that serious hypersensitivity reactions have been reported with intravenous and subcutaneous administration of ustekinumab products.
+  Instruct patients to discontinue Ustekinumab-aekn and seek immediate medical attention if they experience any signs or symptoms of hypersensitivity reactions [see Warnings and Precautions (5.5)].
+- Inform patients that serious hypersensitivity reactions have been reported with postmarketing use of Ustekinumab-aekn in patients with a history of alpha-gal syndrome, allergy to mammalian meat or meat products, or anti-alpha-gal IgE [see Adverse Reactions (6.2)].
+  Instruct patients to inform their healthcare provider if they have a hypersensitivity to alpha-gal or have been diagnosed with alpha-gal syndrome.
 
-Posterior Reversible Encephalopathy Syndrome (PRES) Inform patients to immediately contact their healthcare provider if they experience signs and symptoms of PRES (which may include headache, seizures, confusion, or visual disturbances) [see Warnings and Precautions (5.6)].
+Posterior Reversible Encephalopathy Syndrome (PRES)
 
-Immunizations Inform patients that Ustekinumab-aekn can interfere with the usual response to immunizations and that they should avoid live vaccines [see Warnings and Precautions (5.7)].
+Inform patients to immediately contact their healthcare provider if they experience signs and symptoms of PRES (which may include headache, seizures, confusion, or visual disturbances) [see Warnings and Precautions (5.6)].
+
+Immunizations
+
+Inform patients that Ustekinumab-aekn can interfere with the usual response to immunizations and that they should avoid live vaccines [see Warnings and Precautions (5.7)].
 
 Administration Instruct patients to follow sharps disposal recommendations, as described in the Instructions for Use.
 
