@@ -88,7 +88,7 @@ RELEUKO may be started at a reduced dose when the symptoms resolve and the ANC h
 ## 5.12 Potential Effect on Malignant Cells
 
 RELEUKO is a growth factor that primarily stimulates neutrophils.
-The granulocyte colony-stimulating factor (G-CSF) receptor through which RELEUKO acts has also been found on tumor cell lines.
+The granulocyte-colony stimulating factor (G-CSF) receptor through which RELEUKO acts has also been found on tumor cell lines.
 The possibility that RELEUKO acts as a growth factor for any tumor type cannot be excluded.
 The safety of filgrastim products in chronic myeloid leukemia (CML) and myelodysplasia has not been established.
 
@@ -97,8 +97,8 @@ The effect of reinfusion of tumor cells has not been well studied‚ and the lim
 
 ## 5.13 Simultaneous Use with Chemotherapy and Radiation Therapy Not Recommended
 
-The safety and efficacy of RELEUKO given simultaneously with cytotoxic chemotherapy have not been established.
-Because of the potential sensitivity of rapidly dividing myeloid cells to cytotoxic chemotherapy‚ do not use RELEUKO in the period 24 hours before through 24 hours after the administration of cytotoxic chemotherapy [see Dosage and Administration (2.2)].
+The safety and efficacy of RELEUKO given simultaneously with chemotherapy have not been established.
+Because of the potential sensitivity of rapidly dividing myeloid cells to chemotherapy‚ do not use RELEUKO in the period 24 hours before through 24 hours after the administration of chemotherapy [see Dosage and Administration (2.2)].
 
 The safety and efficacy of RELEUKO have not been evaluated in patients receiving concurrent radiation therapy.
 Avoid the simultaneous use of RELEUKO with chemotherapy and radiation therapy.
@@ -108,10 +108,10 @@ Avoid the simultaneous use of RELEUKO with chemotherapy and radiation therapy.
 Increased hematopoietic activity of the bone marrow in response to growth factor therapy has been associated with transient positive bone-imaging changes.
 This should be considered when interpreting bone-imaging results.
 
-## 5.15 Aortitis
+## 5.15 Large and Medium Vessel Arteritis
 
-Aortitis has been reported in patients receiving filgrastim products.
+Serious large and medium vessel arteritis, including aortitis, has been reported in patients receiving filgrastim products.
 It may occur as early as the first week after start of therapy.
-Manifestations may include generalized signs and symptoms such as fever, abdominal pain, malaise, back pain, and increased inflammatory markers (e.g., c-reactive protein and white blood cell count).
-Consider aortitis in patients who develop these signs and symptoms without known etiology.
-Discontinue RELEUKO if aortitis is suspected.
+Manifestations may include generalized signs and symptoms such as fever, abdominal pain, malaise, back pain, headache, neck pain, and increased inflammatory markers (e.g., c-reactive protein and white blood cell count).
+Consider arteritis in patients who develop these signs and symptoms without known etiology.
+Consider appropriate clinical management and discontinue RELEUKO as needed if arteritis is suspected.

@@ -1,6 +1,10 @@
 # Instructions for Use (PFS)
 
-RELEUKO® (reh-loo-koe) (filgrastim-ayow) Injection Single-Dose Prefilled Syringe
+RELEUKO® (reh-loo-koe) (filgrastim-ayow)
+
+injection, for subcutaneous use
+
+Single-Dose Prefilled Syringe
 
 Guide to Parts
 
@@ -11,25 +15,29 @@ Important
 Read the Patient Information for important information you need to know about RELEUKO before using these Instructions for Use.
 
 Before you use a RELEUKO prefilled syringe, read this important information.
+
 Storing your prefilled syringe
 
-- Store the prefilled syringe in the refrigerator between 36˚F to 46˚F (2˚C to 8˚C).
+- Store the prefilled syringe in the refrigerator between 36˚F and 46˚F (2˚C and 8˚C).
 - Do not freeze.
-- Keep the prefilled syringe in the original pack to protect from light or physical damage.
-- Take the prefilled syringe out of the refrigerator 30 minutes before use and allow it to reach room temperature before preparing an injection.
-- Throw away (dispose of) any prefilled syringe that has been left at room temperature for longer than 24 hours.
-- After you inject your dose, throw away (dispose of) any unused RELEUKO left in the prefilled syringe.
-  Do not save unused RELEUKO in the prefilled syringe for later use.
+- Keep the prefilled syringe in the original carton to protect from light and physical damage.
+- Throw away (dispose of) any prefilled syringe that has been left at room temperature, 68°F to 77°F (20°C to 25°C), for longer than 24 hours.
 - Keep the RELEUKO prefilled syringe out of the reach of children.
 
 Using your prefilled syringe
 
 - It is important that you do not try to give the injection unless you or your caregiver has received training from your healthcare provider.
-- Make sure the name RELEUKO appears on the pack and prefilled syringe label.
+- Do not inject a dose of RELEUKO less than 0.3 mL (180 mcg) from a RELEUKO prefilled syringe.
+  A dose less than 0.3 mL cannot be accurately measured using the RELEUKO prefilled syringe.
+- Make sure the name RELEUKO appears on the carton and prefilled syringe label.
+- Only use the prefilled syringe 1 time.
+  After you inject your dose, throw away (discard) any unused RELEUKO left in the prefilled syringe.
+  Do not save unused RELEUKO left in the prefilled syringe for later use.
+  See “Step M”.
 - Do not use a prefilled syringe after the expiration date on the label.
 - Do not shake the prefilled syringe.
 - Do not remove the gray needle cap from the prefilled syringe until you are ready to inject.
-- Do not use the prefilled syringe if the pack is open or damaged.
+- Do not use the prefilled syringe if the carton is open or damaged.
 - Do not use a prefilled syringe if it has been dropped on a hard surface.
   The prefilled syringe may be broken even if you cannot see the break.
   Use a new prefilled syringe.
@@ -38,14 +46,14 @@ Call your healthcare provider if you have any questions.
 
 Step 1: Prepare
 
-A Remove the prefilled syringe pack from the refrigerator.
+A Remove the prefilled syringe carton from the refrigerator.
 
-Put the original pack with any unused prefilled syringes back in the refrigerator.
+Put the original carton with any unused prefilled syringes back in the refrigerator.
 
-Remove the syringe tray from the pack.
-On a clean, well-lit surface, place the syringe tray at room temperature for 30 minutes before you give an injection.
+Remove the syringe tray from the carton.
+On a clean, well-lit surface, place the syringe tray at room temperature, 68°F to 77°F (20°C to 25°C), for 30 minutes before you give an injection.
 
-- Do not use the prefilled syringe if the pack is damaged.
+- Do not use the prefilled syringe if the carton is damaged.
 - Do not try to warm the prefilled syringe by using a heat source such as hot water or microwave.
 - Do not leave the prefilled syringe in direct sunlight.
 - Do not shake the prefilled syringe.
@@ -112,7 +120,7 @@ Carefully pull the gray needle cap straight off and away from your body.
 - Do not hold the prefilled syringe by the plunger rod.
 - Do not put the gray needle cap back onto the prefilled syringe.
 
-Important: Throw the gray needle cap into the sharps disposal container.
+Important: Throw away the gray needle cap into the sharps disposal container.
 
 F Check your prescription before you inject your dose.
 
@@ -122,7 +130,7 @@ Your healthcare provider has prescribed either a “full” syringe dose or a �
   For a full dose, go directly to Step 3: Subcutaneous (under the skin) injection.
 - If you are prescribed a partial dose of RELEUKO, start with Step G below.
 
-G Point the needle up and tap gently until the air bubbles rise to the top.
+G Point the needle up and tap gently on the syringe with your fingers until the air bubbles rise to the top of the syringe.
 
 H Slowly push the plunger rod up to the line on the syringe barrel that matches your prescribed dose
 
@@ -148,23 +156,25 @@ K Using slow and constant pressure, push the plunger rod until it reaches the bo
 - Do not pull back the plunger rod while the needle is inserted.
 - Press down slowly on the plunger as far as it will go so that the plunger head is completely between the needle guard wings.
 
-Important: When you remove the syringe, if it looks like the medicine is still in the syringe barrel, this means you have not received a full dose.
-Call your healthcare provider right away.
-
 Step 4: Finish
 
 L Finish your injection.
 
-- While you continue to hold the syringe, slowly let go of the plunger head.
+- After the plunger rod has been pushed all the way down, keep the needle in the skin and continue to hold the syringe.
+- Slowly let go of the plunger head while keeping the needle in the skin.
 - As you let go of the plunger head, the needle will automatically slide into the clear safety guard until the needle is completely covered.
 
-Important: If the clear safety guard does not activate after Step L, remove the needle from the skin and throw away (discard of) the used prefilled syringe as instructed in Step M right away.
+Important:
 
-M Discard (throw away) the used prefilled syringe.
+- When you remove the syringe, if it looks like the medicine is still in the syringe barrel, this means you have not received a full dose.
+  Call your healthcare provider right away.
+- If the clear safety guard does not activate after Step L, remove the needle from the skin and throw away (discard of) the used prefilled syringe as instructed in Step M right away.
 
-- Put the used prefilled syringe in a FDA-cleared sharps disposal container right away after use.
-  Do not throw away (dispose of) the prefilled syringe in your household trash.
-- If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
+M Throw away (discard) the used prefilled syringe.
+
+- Put the used prefilled syringe in an FDA-cleared sharps disposal container right away after use.
+  Do not throw away (discard) the prefilled syringe in your household trash.
+- If you do not have an FDA-cleared sharps disposal container, you may use a household container that is:
   - made of a heavy-duty plastic,
   - can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
   - upright and stable during use,
@@ -186,26 +196,22 @@ Apply an adhesive bandage if needed.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by:
-
-Kashiv BioSciences, LLC
-
-Piscataway, NJ 08854
+Manufactured by: Kashiv BioSciences, LLC Piscataway, NJ 08854
 
 US License No. 2131
 
-Distributed by:
-
-Amneal Pharmaceuticals LLC
-
-Bridgewater, NJ 08807
+Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-04-2022-01
+11-2026-03
 
 # Instructions for Use (Vials)
 
-RELEUKO® (reh-loo-koe) (filgrastim-ayow) Injection
+RELEUKO® (reh-loo-koe)
+
+(filgrastim-ayow)
+
+injection, for subcutaneous use
 
 Single-Dose Vial
 
@@ -213,25 +219,22 @@ Important
 
 Read the Patient Information for important information you need to know about RELEUKO before using these Instructions for Use.
 
-Before you use a RELEUKO vial, read this important information:
+Before you use a RELEUKO vial, read this important information: Storing your RELEUKO vial
 
-Storing your RELEUKO vial
-
-- Store the vial in the refrigerator between 36˚F to 46˚F (2˚C to 8˚C).
+- Store the vial in the refrigerator between 36˚F and 46˚F (2˚C and 8˚C).
 - Do not freeze.
-- Keep the vial in the original pack to protect from light or physical damage.
-- Take the vial out of the refrigerator 30 minutes before use and allow it to reach room temperature before preparing an injection.
-- Throw away (dispose of) any vial that has been left at room temperature for longer than 24 hours.
-- After you inject your dose, throw away (dispose of) any unused RELEUKO left in the vial.
-  Do not save unused RELEUKO in the vial for later use.
-- Keep RELEUKO and all medicines out of the reach of children.
+- Keep the vial in the original carton to protect from light and physical damage.
+- Throw away (dispose of) any vial that has been left at room temperature, 68°F to 77°F (20°C to 25°C), for longer than 24 hours.
+- Keep the RELEUKO vial out of the reach of children.
 
 Using your vial
 
 - It is important that you do not try to give the injection unless you or your caregiver has received training from your healthcare provider.
-- Make sure the name RELEUKO appears on the pack and vial label.
+- Make sure the name RELEUKO appears on the carton and vial label.
 - Only use the vial 1 time.
-  Discard (throw away) the vial with any remaining RELEUKO liquid.
+  After you inject your dose, throw away (discard) any unused RELEUKO left in the vial.
+- Do not save unused RELEUKO left in the vial for later use.
+  See “Step 5”.
 - Do not use a vial after the expiration date on the label.
 - Do not shake the vial.
 - Do not use the vial if the medicine is cloudy or discolored or contains flakes or particles.
@@ -242,28 +245,27 @@ Step 1: Prepare
 
 A Remove the vial from the refrigerator.
 
-On a clean, well-lit surface, place the vial at room temperature for 30 minutes before you give an injection.
+On a clean, well-lit surface, place the vial at room temperature, 68°F to 77°F (20°C to 25°C), for 30 minutes before you give an injection.
 
 - Do not try to warm the vial by using a heat source such as hot water or microwave.
 - Do not leave the vial in direct sunlight.
 - Do not shake the vial.
 - Use the vial only 1 time.
 
+Put the original carton with any unused vials back in the refrigerator.
+
 B Inspect the vial.
 
 Make sure the medicine in the vial is clear and colorless.
 
 - Do not use the vial if:
-  - The medicine is cloudy or discolored or contains flakes or particles.
-  - The expiration date printed on the label has passed.
+
+- The medicine is cloudy or discolored or contains flakes or particles.
+- The expiration date printed on the label has passed.
+
 - In all cases, use a new vial and call your healthcare provider.
-
-C Gather all materials needed for your injection.
-
-Wash your hands thoroughly with soap and water.
-
-On a clean, well-lit work surface, place the:
-
+  C Gather all materials needed for your injection.Wash your hands thoroughly with soap and water.
+  On a clean, well-lit work surface, place the:
 - 1 Vial
 - 1 Disposable syringe and needle
 - 2 alcohol wipes
@@ -273,8 +275,7 @@ On a clean, well-lit work surface, place the:
 
 - Only use the disposable syringes and needles that your healthcare provider prescribes.
 - Only use the syringes and needles 1 time.
-  Discard (throw away) any used syringes and needles.
-  See Step 5 Finish, for instructions about how to properly dispose of used syringes and needles.
+  Throw away any used syringes and needles.
 - You should only use a syringe that is marked in tenths of milliliters (mL).
 - Your healthcare provider will show you how to measure the correct dose of RELEUKO.
   This dose will be measured in milliliters (mL).
@@ -286,15 +287,14 @@ Clean the rubber stopper with one alcohol wipe.
 
 E Check the carton containing the syringe.
 If the carton has been opened or damaged, do not use that syringe.
-Dispose of (throw away) that syringe in the sharps disposal container.
+Throw away that syringe in the sharps disposal container.
 
 F Hold the syringe by the barrel with the needle cap pointing up.
 Carefully pull the needle cap straight off and away from your body.
 
 Pull back on the plunger and draw air into the syringe that is the same amount (mL) as the dose of RELEUKO that your healthcare provider prescribed.
 
-Important: Throw the needle cap into the sharps disposal container.
-Do not recap the needle.
+Important: Throw away the needle cap into the sharps disposal container.
 
 G Keep the vial on the flat working surface and insert the needle straight down through the rubber stopper.
 Do not insert the needle through the rubber stopper more than 1 time.
@@ -352,14 +352,14 @@ Insert the needle into the skin at a 45 to 90 degree angle.
 
 R Using slow and constant pressure, push the plunger until it reaches the bottom.
 
-When done, gently pull the needle out of the injection site at the same 45 to 90 degree angle used to insert it.
+When done, gently pull the needle off of your skin.
 
 Step 5: Finish
 
-S Discard (throw away) the used syringe and vial.
+S Throw away (discard) the used syringe and vial.
 
-- Put your used syringes, needles, and vials in a FDA-cleared sharps disposal container right away after use.
-  Do not throw away (dispose of) needles, syringes and vials in your household trash.
+- Put your used syringes, needles, and vials in an FDA-cleared sharps disposal container right away after use.
+  Do not throw away (discard) needles, syringes and vials in your household trash.
 - If you do not have an FDA-cleared sharps disposal container, you may use a household container that:
   - is made of a heavy-duty plastic,
   - can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
@@ -382,19 +382,11 @@ Apply an adhesive bandage if needed.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by:
-
-Kashiv BioSciences, LLC
-
-Piscataway, NJ 08854
+Manufactured by: Kashiv BioSciences, LLC Piscataway, NJ 08854
 
 US License No. 2131
 
-Distributed by:
-
-Amneal Pharmaceuticals LLC
-
-Bridgewater, NJ 08807
+Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-04-2022-01
+11-2026-03

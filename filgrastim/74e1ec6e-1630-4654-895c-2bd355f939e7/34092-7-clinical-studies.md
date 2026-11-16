@@ -66,7 +66,7 @@ In clinical trials of filgrastim for the mobilization of hematopoietic progenito
 The rate of engraftment of these cells in the absence of filgrastim post transplantation has not been studied.
 
 Study 11 was a randomized, unblinded study of patients with Hodgkin’s disease or non-Hodgkin’s lymphoma undergoing myeloablative chemotherapy‚ 27 patients received filgrastim-mobilized autologous hematopoietic progenitor cells and 31 patients received autologous bone marrow.
-Thepreparative regimen was intravenous BCNU, etoposide, cytosine arabinoside and melphalan (“BEAM”).
+The preparative regimen was intravenous BCNU, etoposide, cytosine arabinoside and melphalan (“BEAM”).
 
 Patients received daily filgrastim 24 hours after stem cell infusion at a dose of 5 mcg/kg/day.
 The median age was 33 (range 1 to 59) years; 64% males; 57% Hodgkin’s disease and 43% non-Hodgkin’s lymphoma.

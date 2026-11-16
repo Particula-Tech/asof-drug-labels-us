@@ -1,15 +1,15 @@
 # 11 DESCRIPTION
 
 Filgrastim-ayow, a leukocyte growth factor, is a 175 amino acid human granulocyte colony-stimulating factor (G-CSF) manufactured by recombinant DNA technology.
-Filgrastim-ayow is produced by Escherichia coli (E coli) bacteria into which has been inserted the human granulocyte colony-stimulating factor gene.
+Filgrastim-ayow is produced by Escherichia coli (E. coli) bacteria into which has been inserted the human granulocyte colony-stimulating factor gene.
 Filgrastim-ayow has a molecular weight of 18‚800 daltons.
-The protein has an amino acid sequence that is identical to the natural sequence predicted from human DNA sequence analysis‚ except for the addition of an N-terminal methionine necessary for expression in E coli.
-Because filgrastim-ayow is produced in E coli‚ the product is non-glycosylated and thus differs from G-CSF isolated from a human cell.
+The protein has an amino acid sequence that is identical to the natural sequence predicted from human DNA sequence analysis‚ except for the addition of an N-terminal methionine necessary for expression in E. coli.
+Because filgrastim-ayow is produced in E. coli‚ the product is non-glycosylated and thus differs from G-CSF isolated from a human cell.
 Kanamycin, 50 mcg/mL is final concentration, is used during the fermentation step of the manufacturing process.
 Kanamycin is not detectable in the final product.
 
 RELEUKO (filgrastim-ayow) injection is a sterile‚ clear‚ colorless‚ preservative-free liquid containing filgrastim-ayow at a specific activity of 1.0 ± 0.6 x 108 U/mg (as measured by a cell mitogenesis assay).
-The product is available in single-dose vials for subcutaneous or intravenous use and prefilled syringes for subcutaneous use.
+The product is available in single-dose vials and prefilled syringes for subcutaneous or intravenous use.
 The single-dose vials contain either 300 mcg/mL or 480 mcg/1.6 mL of filgrastim-ayow.
 The single-dose prefilled syringes contain either 300 mcg/0.5 mL or 480 mcg/0.8 mL of filgrastim-ayow.
 The RELEUKO drug product has a pH of 4.0.
