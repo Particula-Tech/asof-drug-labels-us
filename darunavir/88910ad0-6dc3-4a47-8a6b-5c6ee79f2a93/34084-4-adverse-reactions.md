@@ -43,7 +43,7 @@ Table 6: Selected Clinical Adverse Drug Reactions to darunavir/ritonavir 800/100
 | Headache | 7% | 6% |
 | Skin and Subcutaneous Tissue Disorders |  |  |
 | Rash | 6% | 7% |
-| N=total number of subjects per treatment group; FTC=emtricitabine; TDF=tenofovir disoproxil fumarate a Excluding laboratory abnormalities reported as ADRs. |  |  |
+| N=total number of subjects per treatment group; FTC=emtricitabine; TDF=tenofovir disoproxil fumarate aExcluding laboratory abnormalities reported as ADRs. |  |  |
 
 Less Common Adverse Reactions
 
@@ -69,7 +69,7 @@ Laboratory Abnormalities
 
 Selected Grade 2 to 4 laboratory abnormalities that represent a worsening from baseline observed in antiretroviral treatment-naïve adult subjects treated with darunavir/ritonavir 800/100 mg once daily are presented in Table 7.
 
-Table 7: Grade 2 to 4 Laboratory Abnormalities Observed in Antiretroviral Treatment-Naïve HIV-1­-Infected Adult Subjectsa(Trial TMC114-C211)
+Table 7: Grade 2 to 4 Laboratory Abnormalities Observed in Antiretroviral Treatment-Naïve HIV-1­-Infected Adult Subjectsa (Trial TMC114-C211)
 
 | Laboratory parameter % | Limit | Darunavir/ritonavir 800/100 mg once daily + TDF/FTC | lopinavir/ritonavir 800/200 mg per day + TDF/FTC |
 | --- | --- | --- | --- |
@@ -112,7 +112,7 @@ Table 7: Grade 2 to 4 Laboratory Abnormalities Observed in Antiretroviral Treatm
 | Grade 2 | >1.5 to ≤2.0 X ULN | 5% | 2% |
 | Grade 3 | >2.0 to ≤5.0 X ULN | 5% | 4% |
 | Grade 4 | >5.0 X ULN | 0% | <1% |
-| N=total number of subjects per treatment group; FTC=emtricitabine; TDF=tenofovir disoproxil fumarate a Grade 4 data not applicable in Division of AIDS grading scale. |  |  |  |
+| N=total number of subjects per treatment group; FTC=emtricitabine; TDF=tenofovir disoproxil fumarate aGrade 4 data not applicable in Division of AIDS grading scale. |  |  |  |
 
 Treatment-Experienced Adults: TMC114-C214
 
@@ -146,7 +146,7 @@ Table 8: Selected Clinical Adverse Drug Reactions to darunavir/ritonavir 600/100
 | Headache | 3% | 3% |
 | Skin and Subcutaneous Tissue Disorders |  |  |
 | Rash | 7% | 3% |
-| N=total number of subjects per treatment group; OBR=optimized background regimen a Excluding laboratory abnormalities reported as ADRs. |  |  |
+| N=total number of subjects per treatment group; OBR=optimized background regimen aExcluding laboratory abnormalities reported as ADRs. |  |  |
 
 Less Common Adverse Reactions
 
@@ -207,7 +207,7 @@ Table 9: Grade 2 to 4 Laboratory Abnormalities Observed in Antiretroviral Treatm
 | Grade 2 | >1.5 to ≤2.0 X ULN | 6% | 7% |
 | Grade 3 | >2.0 to ≤5.0 X ULN | 7% | 3% |
 | Grade 4 | >5.0 X ULN | 0% | 0% |
-| N=total number of subjects per treatment group; OBR=optimized background regimen a Grade 4 data not applicable in Division of AIDS grading scale. |  |  |  |
+| N=total number of subjects per treatment group; OBR=optimized background regimen aGrade 4 data not applicable in Division of AIDS grading scale. |  |  |  |
 
 Serious ADRs
 

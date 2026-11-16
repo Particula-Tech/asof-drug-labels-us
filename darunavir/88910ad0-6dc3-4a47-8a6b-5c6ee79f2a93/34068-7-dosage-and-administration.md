@@ -36,7 +36,7 @@ Table 1: Recommended darunavir/ritonavir Dosage in Treatment-Experienced Adult P
 | Baseline Resistance | Darunavir tablets with ritonavir tablets or capsule | Darunavir oral suspension (100 mg/mL) with ritonavir oral solution (80 mg/mL) |
 | With no darunavir resistance associated substitutionsa | One 800 mg darunavir tablet with one 100 mg ritonavir tablet/capsule, taken once daily with food | 8 mLb darunavir oral suspension with 1.25 mL ritonavir oral solution, taken once daily with food |
 | With at least one darunavir resistance associated substitutionsa, or with no baseline resistance information | One 600 mg darunavir tablet with one 100 mg ritonavir tablet/capsule, taken twice daily with food | 6 mL darunavir oral suspension with 1.25 mL ritonavir oral solution, taken twice daily with food |
-| a V11I, V32I, L33F, I47V, I50V, I54L, I54M, T74P, L76V, I84V and L89V b An 8 mL darunavir dose should be taken as two 4 mL administrations with the included oral dosing syringe, |  |  |
+| aV11I, V32I, L33F, I47V, I50V, I54L, I54M, T74P, L76V, I84V and L89V bAn 8 mL darunavir dose should be taken as two 4 mL administrations with the included oral dosing syringe. |  |  |
 
 ## 2.4 Recommended Dosage During Pregnancy
 
