@@ -16,7 +16,4 @@ Respiratory Depression Inform patients about the risk of respiratory depression.
 Include information that the risk is greatest for those using concomitant CNS depressants (such as opioid analgesics) or those with underlying respiratory impairment.
 Teach patients how to recognize respiratory depression and advise them to seek medical attention immediately if it occurs [see Warnings and Precautions (5.8)].
 Use in Pregnancy Instruct patients to notify their healthcare provider if they are pregnant or intend to become pregnant during therapy, and to notify their healthcare provider if they are breast feeding or intend to breast feed during therapy [see Use in Specific Populations (8.1) and (8.2)].
-Encourage patients to enroll in the NAAED Pregnancy Registry if they become pregnant.
-This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
-To enroll, patients can call the toll-free number 1-888-233-2334 [see Use in Specific Populations (8.1)].
-Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 05/2025 Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 09/2026
