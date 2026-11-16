@@ -1,21 +1,26 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-Generally, when estrogen is prescribed for a postmenopausal woman with a uterus, consider addition of a progestogen to reduce the risk of endometrial cancer.
-Generally, a woman without a uterus, does not need to use a progestogen in addition to her estrogen therapy.
-In some cases, however, hysterectomized women who have a history of endometriosis may need a progestogen [see Warnings and Precautions (5.2, 5.14)].
+## 2.1 Important Use Information
 
-Use estrogen-alone, or in combination with a progestogen, at the lowest effective dose and for the shortest duration consistent with treatment goals and risks for the individual woman.
-Reevaluate postmenopausal women periodically as clinically appropriate to determine if treatment is still necessary.
+The timing of MINIVELLE initiation can affect the overall benefit-risk profile.
+Consider initiating MINIVELLE in women < 60 years old or < 10 years since menopause onset [see Warnings and Precautions (5), Use in Specific Populations (8.5) and Clinical Studies (14)].
 
-## 2.1 Treatment of Moderate to Severe Vasomotor Symptoms due to Menopause
+When estrogen is prescribed for a menopausal woman with a uterus, the addition of a progestogen has been shown to reduce the risk of endometrial cancer.
+There are possible risks associated with the use of progestogens plus estrogens that differ from those of estrogen-alone regimens.
+See prescribing information for progestogens indicated for the prevention of endometrial hyperplasia in non-hysterectomized menopausal women receiving estrogens [see Warnings and Precautions (5.2, 5.3)].
+
+Generally, a woman without a uterus does not need to use a progestogen with estrogen therapy.
+In some cases, however, hysterectomized women with a history of endometriosis may benefit from the addition of a progestogen [see Warnings and Precautions (5.13)].
+
+## 2.2 Treatment of Moderate to Severe Vasomotor Symptoms due to Menopause
 
 Start therapy with MINIVELLE 0.0375 mg per day applied to the skin twice weekly.
 Make dosage adjustments based on clinical response.
-Attempt to taper or discontinue MINIVELLE at 3 to 6 month intervals.
+Reevaluate postmenopausal women periodically as clinically appropriate to determine if treatment is still necessary.
 
-## 2.2 Prevention of Postmenopausal Osteoporosis due to Menopause
+## 2.3 Prevention of Postmenopausal Osteoporosis due to Menopause
 
-## 2.3 Application Instructions
+## 2.4 Application Instructions
 
 Place the adhesive side of MINIVELLE on a clean, dry area on the lower abdomen (below the umbilicus) or buttocks.
 Do not apply MINIVELLE to the breasts.
