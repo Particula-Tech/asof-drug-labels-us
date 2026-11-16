@@ -2,14 +2,20 @@
 
 ## 2.1 Important Recommendations Prior to Initiating IGALMI and During Therapy
 
-IGALMI should be administered under the supervision of a healthcare provider.
-A healthcare provider should monitor vital signs and alertness after IGALMI administration to prevent falls and syncope [see Warnings and Precautions (5.5)].
-
 IGALMI is for sublingual or buccal administration.
 Do not chew or swallow IGALMI.
 Do not eat or drink for at least 15 minutes after sublingual administration, or at least one hour after buccal administration.
 
 ## 2.2 Recommended Dosage
+
+### 2.2.1 Recommended Dosage in the Unsupervised Setting
+
+The recommended dose of IGALMI is 120 mcg.
+Patients receiving IGALMI should be receiving treatment for their underlying schizophrenia, schizoaffective disorder or bipolar disorder.
+If a patient is taking IGALMI frequently, the adequacy of the patient's treatment for their underlying condition should be evaluated.
+Do not take more than one dose in 12 hours.
+
+### 2.2.2 Recommended Dosage in the Healthcare Supervised Setting
 
 Table 1 includes dosage recommendations for IGALMI based on agitation severity for adults, patients with hepatic impairment, and geriatric patients.
 Lower dosages are recommended for patients with hepatic impairment and geriatric patients [see Warnings and Precautions (5.1) and Use in Specific Populations (8.5, 8.6)].
@@ -20,7 +26,7 @@ Assess vital signs including orthostatic measurements prior to the administratio
 
 Due to risk of hypotension, additional half-doses are not recommended in patients with systolic blood pressure (SBP) less than 90 mmHg, diastolic blood pressure (DBP) less than 60 mmHg, heart rate (HR) less than 60 beats per minute, or postural decrease in SBP ≥ 20 mmHg or in DBP ≥ 10 mmHg.
 
-Table 1: Dosage Recommendations for IGALMI in Adults, Adult Patients with Hepatic Impairment, and Geriatric Patients with Agitation Associated with Schizophrenia or Bipolar I or II Disorder
+Table 1: IGALMI Dosage Recommendations for Adult Patients in Healthcare Supervised Setting
 
 | Patient Population | Agitation Severity | Initial DoseIGALMI 120 mcg and 180 mcg dosage strengths may be cut in half to obtain the 60 mcg and 90 mcg doses, respectively [see Dosage and Administration (2.3)]. | Optional 2nd/3rd Doses | Maximum Recommended Total Daily Dosage |
 | --- | --- | --- | --- | --- |
@@ -33,6 +39,19 @@ Table 1: Dosage Recommendations for IGALMI in Adults, Adult Patients with Hepati
 | Geriatric Patients (≥ 65 years old) | Mild, Moderate, or Severe | 120 mcg | 60 mcg | 240 mcg |
 
 ## 2.3 Preparation and Administration Instructions
+
+### 2.3.1 Preparation and Administration Instructions in the Unsupervised Setting
+
+IGALMI should be immediately administered once the pouch is opened.
+
+| 1 | Open the sealed foil pouch by cutting along the dotted line. |  |
+| --- | --- | --- |
+| 2 | Remove the film from the pouch with clean dry hands. |  |
+| 3 | For sublingual administration: Place film under the tongue. The film will stick in place. Note: Do not eat or drink for 15 minutes after sublingual administration. |  |
+|  | For buccal administration: Place film behind lower lip. The film will stick in place. Note: Do not eat or drink for one hour after buccal administration. |  |
+|  | Allow the film to dissolve. Do not chew or swallow the film. |  |
+
+### 2.3.2 Preparation and Administration Instructions in the Healthcare Supervised Setting
 
 Keep IGALMI in the foil pouch until ready to administer.
 IGALMI should be immediately administered once the pouch is opened and the dose prepared.

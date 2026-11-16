@@ -45,15 +45,18 @@ The safety and effectiveness of IGALMI have not been established in pediatric pa
 
 ## 8.5 Geriatric Use
 
-Fifteen geriatric patients (≥ 65 years of age) were enrolled (no patients were 75 years of age and older) in the clinical studies for acute treatment of agitation associated with schizophrenia or bipolar I or II disorder.
-Of the total number of IGALMI-treated patients in these clinical studies, 11/507 (2.2%) were 65 years of age and older [see Clinical Studies (14)].
+In clinical studies for acute treatment of agitation associated with schizophrenia, schizoaffective disorder or bipolar I or II 33 geriatric patients (≥ 65 years of age) were enrolled (one patient was 75 years of age or older).
+Of the total number of IGALMI-treated patients in these clinical studies, 33/1027 (3.2%) were 65 years of age and older [see Clinical Studies (14)].
 
-Dosage reduction of IGALMI is recommended in geriatric patients [see Dosage and Administration (2.2)].
+In the healthcare supervised setting, a dosage reduction of IGALMI is recommended in geriatric patients [see Dosage and Administration (2.2)].
+IGALMI is not recommended in geriatric patients in the unsupervised setting.
 A higher incidence of bradycardia and hypotension was observed in geriatric patients compared to younger adult patients after intravenous administration of another dexmedetomidine product [see Warnings and Precautions (5.1)].
 The pharmacokinetic profile of intravenous dexmedetomidine was not altered in geriatric subjects [see Clinical Pharmacology (12.3)].
 
-Clinical studies of IGALMI did not include sufficient numbers of patients 65 years of age and older to determine whether there were differences in the effectiveness of IGALMI in the acute treatment of agitation associated with schizophrenia or bipolar I or II disorder compared to younger adult patients.
+Clinical studies of IGALMI did not include sufficient numbers of patients 65 years of age and older to determine whether there were differences in the effectiveness of IGALMI in the acute treatment of agitation associated with schizophrenia, schizoaffective disorder or bipolar I or II disorder compared to younger adult patients.
 
 ## 8.6 Hepatic Impairment
 
-Dexmedetomidine clearance was decreased in patients with hepatic impairment (Child-Pugh Class A, B, or C). Thus, a dosage reduction of IGALMI is recommended in patients with hepatic impairment compared to patients with normal hepatic function [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
+Dexmedetomidine clearance was decreased in patients with hepatic impairment (Child-Pugh Class A, B, or C). For those with mild to moderate hepatic impairment, a dose of IGALMI 120 mcg should be considered.
+In the healthcare supervised setting, a dosage reduction of IGALMI is recommended in patients with severe hepatic impairment.
+IGALMI is not recommended in the unsupervised setting for patients with severe hepatic impairment [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].

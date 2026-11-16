@@ -1,3 +1,17 @@
+# PRINCIPAL DISPLAY PANEL - 120 mcg Film Pouch Carton - 81092-0120-1
+
+Rx Only
+
+Igalmi® (dexmedetomidine) sublingual film
+
+For sublingual or buccal use Cut open pouch at the time of use Do not chew or swallow the film
+
+120 mcg
+
+10 pouches Each containing 1 film
+
+NDC 81092-0120-1
+
 # PRINCIPAL DISPLAY PANEL - 120 mcg Film Pouch Carton
 
 Rx Only

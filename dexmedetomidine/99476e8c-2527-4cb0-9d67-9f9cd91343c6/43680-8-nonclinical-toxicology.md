@@ -4,7 +4,7 @@
 
 Carcinogenesis
 
-Animal carcinogenicity studies have not been performed with dexmedetomidine.
+A 26-week sublingual carcinogenicity study in Tg.rasH2 Mice did not identify any carcinogenic potential with sublingual dexmedetomidine HCl treatments.
 
 Mutagenesis
 
@@ -18,6 +18,6 @@ Fertility in male or female rats was not affected after daily subcutaneous injec
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
-Twice daily sublingual administration of 120 to 320 mcg/day of dexmedetomidine to dogs for 28 days caused decreased heart rate and moderate sedation up to 3.5 hours post dose.
-A single male dog (out of 32 treated dogs) dosed 320 mcg/day (equivalent to the MRHD of 360 mcg/day) exhibited inflammation, necrosis, myofiber degeneration, and hemorrhage at the sublingual treatment site.
-No adverse effects were noted at 240 mcg/day (less than the MRHD of 360 mcg/day).
+Dexmedetomidine was administered sublingually, twice a day (BID) to rats and dogs in subacute, sub-chronic and chronic toxicity studies with integrated core safety pharmacology evaluations.
+Except for the expected pharmacology, no adverse effects were reported in the chronic studies with determined NOAELs of 50 mcg/day BID after 26-weeks of dosing in the rat and 280 mcg/day BID with 39-weeks of dosing in the dog, respectively.
+Adverse findings reported were a sublingual lesion in a single male animal in the 28-day (subacute) dog study exposed to 320 mcg/day BID and ECG endpoints (including QTc interval prolongation) in the 280 mcg/day BID dosed group in the 13-week (sub-chronic) dog study..

@@ -12,7 +12,9 @@ The following adverse reactions are discussed in detail in other sections of the
 
 Because clinical trials are conducted under widely varying conditions, adverse reactions rates observed in the clinical trials of a drug cannot be directly compared to rates in clinical trials of another drug and may not reflect the rates observed in practice.
 
-The safety of IGALMI was evaluated in 507 adult patients with agitation associated with schizophrenia (N=255) or bipolar I or II disorder (N=252) in two randomized, placebo-controlled studies (Studies 1 and 2) [see Clinical Studies (14)].
+Studies in the Healthcare Supervised Setting
+
+The safety of IGALMI was evaluated in 507 adult patients with agitation associated with schizophrenia or schizoaffective disorder (N=255) or bipolar I or II disorder (N=252) in two randomized, placebo-controlled studies (Studies 1 and 2) [see Clinical Studies (14)].
 In both studies, patients were admitted to a clinical research unit or a hospital and remained under medical supervision for at least 24 hours following treatment.
 Patients were 18 to 71 years of age (mean age was 46 years old); 45% were female and 55% were male; 66% were Black, 31% were White, 2% were multiracial, and 1% were other.
 
@@ -27,7 +29,7 @@ The most common adverse reactions (incidence ≥ 5% and at least twice the rate 
 
 Table 2 presents the adverse reactions that occurred in IGALMI-treated patients at a rate of at least 2% and at a higher rate than in placebo-treated patients in Studies 1 and 2.
 
-Table 2: Adverse Reactions Reported in ≥2% of IGALMI-Treated Patients and Greater than Placebo in Two Placebo-Controlled Studies of Agitated Adult Patients with Schizophrenia or Bipolar I or II Disorder (Studies 1 and 2)
+Table 2: Adverse Reactions Reported in ≥2% of IGALMI-Treated Patients and Greater than Placebo in Two Placebo-Controlled Studies of Agitated Adult Patients with Schizophrenia or Schizoaffective disorder or Bipolar I or II Disorder (Studies 1 and 2)
 
 | Adverse Reaction | IGALMI 180 mcg N=252 % | IGALMI 120 mcg N=255 % | Placebo N=252 % |
 | --- | --- | --- | --- |
@@ -67,6 +69,34 @@ In the clinical studies:
 At 8 hours post-dose, 2% of patients in the IGALMI 180 mcg group experienced a SBP ≤ 90 mmHg and decrease ≥ 20 mmHg compared with one patient (<1%) in the IGALMI 120 mcg group and none in the placebo group.
 At 24 hours, none of the patients in the IGALMI 180 mcg group experienced a SBP ≤90 mmHg and decrease ≥ 20 mmHg compared with one patient (<1%) in the IGALMI 120 mcg group and none in the placebo group.
 At 8 hours post-dose, none of the patients in the IGALMI 180 mcg group had a HR ≤ 50 beats per minute and a HR decrease ≥ 20 beats per minute compared with one patient in the 120 mcg group (<1%) and none in the placebo group.
+
+Study in the Unsupervised Setting
+
+The safety of IGALMI 120 mcg was evaluated in 208 adult patients with agitation associated with schizophrenia or schizoaffective disorder (N=111 [53.4%]) or bipolar I or II disorder (N=97 [46.6%]) in one randomized, 12-week, outpatient, placebo-controlled study (Study 3).
+
+Of the patients treated with IGALMI, about half (48.1%) of the patients were male; 53.4% were White and most were neither Hispanic nor Latino (68.8%.)
+The median age was 47 years.
+
+The most common adverse reactions (incidence ≥ 5% and at least twice the rate of placebo) were: somnolence, dry mouth and dizziness.
+
+Table 4 presents the adverse reactions that occurred in IGALMI-treated patients at a rate of at least 2% and at a higher rate than in placebo-treated patients in Study 3.
+
+Table 4: Adverse Reactions Reported in ≥2% of IGALMI-Treated Patients and Greater than Placebo in a 12-Week Placebo-Controlled At-Home Study of Agitated Adult Patients with Schizophrenia, Schizoaffective Disorder or Bipolar I or II Disorder (Study 3)
+
+| Adverse Reaction | IGALMI 120 mcg N=102 % | Placebo N-106 % |
+| --- | --- | --- |
+| Somnolence | 49.0 | 40.6 |
+| Dry mouth | 14.7 | 3.8 |
+| Dizziness | 8.8 | 1.9 |
+| Fatigue | 3.9 | 1.9 |
+| Nausea | 3.9 | 0.9 |
+| Hypoaesthesia oral | 2.9 | 0.9 |
+| Dysarthria | 2.0 | 0.9 |
+| Sedation | 2.0 | 0.9 |
+| Increased appetite | 2.0 | 0 |
+| Paraesthesia oral | 2.0 | 0 |
+| Restless legs syndrome | 2.0 | 0 |
+| Adverse reactions are within 24 hours of dosing |  |  |
 
 ## 6.2 Postmarketing Experience
 

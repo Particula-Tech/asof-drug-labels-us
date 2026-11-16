@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-The effectiveness of IGALMI for the acute treatment of agitation associated with schizophrenia or bipolar I or II disorder in adults was established in two randomized, double-blind, placebo-controlled, fixed-dose studies (Studies 1 and 2):
+The effectiveness of IGALMI for the acute treatment of agitation associated with schizophrenia or schizoaffective disorder or bipolar I or II disorder in adults was established in two randomized, double-blind, placebo-controlled, fixed-dose studies (Studies 1 and 2):
 
 - Study 1 (NCT04268303) included 380 patients who met DSM-5 criteria for schizophrenia, schizoaffective or schizophreniform disorder.
   The population was 18 to 71 years of age (mean age was 46 years old); 37% female and 63% male; 78% Black, 20% White, 1% multiracial, and 1% Asian.
@@ -23,7 +23,7 @@ The mean change from baseline in the PEC total score at two hours after the firs
 Examination of population subsets (race and sex) on the primary endpoint did not show evidence for differential responsiveness between White and Black or female and male patients.
 The clinical studies did not include enough patients of other races or patients ≥65 years of age to determine whether there were differences in effectiveness for those groups.
 
-Table 5: Primary Efficacy Results for Change from Baseline in the PEC Score at Two Hours in Agitated Patients with Schizophrenia or Bipolar I or II Disorder (Studies 1 and 2)
+Table 5: Primary Efficacy Results for Change from Baseline in the PEC Score at Two Hours in Agitated Patients with Schizophrenia or Schizoaffective Disorder or Bipolar I or II Disorder (Studies 1 and 2)
 
 | Study | Treatment Group | Number of Patients | Mean Baseline PEC Score (SD) | LS Mean Change from Baseline to 2 hour Post First Dose (SE) | LS Mean Difference (95% CI) |
 | --- | --- | --- | --- | --- | --- |
@@ -39,6 +39,6 @@ Figures 1 and 2 show the changes from baseline in PEC score at each time point a
 In Study 1, the decrease in agitation with IGALMI, compared to placebo, was statistically significant beginning at 20 minutes following dosing with the 180 mcg dose and 30 minutes after the 120 mcg dose.
 In Study 2, the decrease in agitation with IGALMI, compared to placebo, was statistically significant beginning at 20 minutes after treatment with both 120 mcg and 180 mcg doses.
 
-Figure 1: Mean Change from Baseline in PEC Score Through Two Hours after a Single Dose in Agitated Patients with Schizophrenia (Study 1)
+Figure 1: Mean Change from Baseline in PEC Score Through Two Hours after a Single Dose in Agitated Patients with Schizophrenia or Schizoaffective Disorder (Study 1)
 
 Figure 2: Mean Change from Baseline in PEC Score Through Two Hours after a Single Dose in Agitated Patients with Bipolar I or II Disorder (Study 2)

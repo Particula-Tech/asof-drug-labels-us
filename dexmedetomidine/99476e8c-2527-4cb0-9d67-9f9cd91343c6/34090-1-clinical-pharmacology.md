@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 Dexmedetomidine is an alpha-2 adrenergic receptor agonist.
-The mechanism of action of IGALMI in the acute treatment of agitation associated with schizophrenia or bipolar I or II disorder is thought to be due to activation of presynaptic alpha-2 adrenergic receptors.
+The mechanism of action of IGALMI in the acute treatment of agitation associated with schizophrenia, schizoaffective disorder or bipolar I or II disorder is thought to be due to activation of presynaptic alpha-2 adrenergic receptors.
 
 ## 12.2 Pharmacodynamics
 
@@ -104,3 +104,4 @@ Dexmedetomidine pharmacokinetics (Cmax, Tmax, AUC, t1/2, CL, and V) were not sig
 Drug Interactions Studies
 
 In vitro studies in human liver microsomes demonstrated no evidence of cytochrome P450 mediated drug interactions that are likely to be of clinical relevance.
+In vitro studies using expressed major human transporter proteins demonstrated no evidence of transporter-mediated drug interactions which are likely to be of any clinical significance.
