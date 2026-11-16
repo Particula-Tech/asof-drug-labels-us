@@ -22,4 +22,4 @@
 | Keep Conexxence and all medicines out of the reach of children. |  |
 | General information about the safe and effective use of Conexxence. Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use Conexxence for a condition for which it was not prescribed. Do not give Conexxence to other people, even if they have the same symptoms that you have. It may harm them. You can ask your doctor or pharmacist for information about Conexxence that is written for healthcare providers. |  |
 | What are the ingredients in Conexxence? Active ingredient: denosumab-bnht Inactive ingredients: glacial acetic acid, polysorbate 20, sodium acetate, sorbitol, and Water for Injection (USP). Sodium hydroxide may be added to adjust pH. Fresenius Kabi USA, LLC Lake Zurich, IL 60047, U.S.A U.S. License No. 2146 |  |
-| This Medication Guide has been approved by the U.S. Food and Drug Administration. | Issued: 03/2025 |
+| This Medication Guide has been approved by the U.S. Food and Drug Administration. | Issued: XX/XXXX |

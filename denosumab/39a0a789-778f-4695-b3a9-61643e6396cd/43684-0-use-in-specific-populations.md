@@ -24,7 +24,7 @@ There was no fetal NOAEL (no observable adverse effect level) established for th
 Mammary gland histopathology at 6 months of age was normal in female offspring exposed to denosumab in utero; however, development and lactation have not been fully evaluated.
 
 In RANKL knockout mice, absence of RANKL (the target of denosumab) also caused fetal lymph node agenesis and led to postnatal impairment of dentition and bone growth.
-Pregnant RANKL knockout mice showed altered maturation of the maternal mammary gland, leading to impaired lactation [see Use in Specific Populations (8.2), Nonclinical Toxicology (13.2)].
+Pregnant RANKL knockout mice showed altered maturation of the maternal mammary gland, leading to impaired lactation [see Use in Specific Populations (8.2) and Nonclinical Toxicology (13.2)].
 
 The no effect dose for denosumab product-induced teratogenicity is unknown.
 However, a Cmax of 22.9 ng/mL was identified in cynomolgus monkeys as a level in which no biologic effects (NOEL) of denosumab were observed (no inhibition of RANKL) [see Clinical Pharmacology (12.3)].
@@ -35,7 +35,7 @@ Risk Summary
 
 There is no information regarding the presence of denosumab products in human milk, the effects on the breastfed infant, or the effects on milk production.
 Denosumab was detected in the maternal milk of cynomolgus monkeys up to 1 month after the last dose of denosumab (≤ 0.5% milk:serum ratio) and maternal mammary gland development was normal, with no impaired lactation.
-However, pregnant RANKL knockout mice showed altered maturation of the maternal mammary gland, leading to impaired lactation [see Use in Specific Populations (8.1), Nonclinical Toxicology (13.2)].
+However, pregnant RANKL knockout mice showed altered maturation of the maternal mammary gland, leading to impaired lactation [see Use in Specific Populations (8.1) and Nonclinical Toxicology (13.2)].
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -67,6 +67,8 @@ In one multicenter, open-label study with denosumab conducted in 153 pediatric p
 Hypercalcemia has been reported in pediatric patients with osteogenesis imperfecta treated with denosumab products.
 Some cases required hospitalization and were complicated by acute renal injury [see Warnings and Precautions (5.11)].
 Clinical studies in pediatric patients with osteogenesis imperfecta were terminated early due to the occurrence of life-threatening events and hospitalizations due to hypercalcemia.
+
+Safety and effectiveness were not demonstrated for the treatment of glucocorticoid-induced osteoporosis in one multicenter, randomized, double-blind, placebo-controlled, parallel-group study conducted in 24 pediatric patients with glucocorticoid-induced osteoporosis, aged 5 to 17 years, evaluating change from baseline in lumbar spine BMD Z-score.
 
 Based on results from animal studies, denosumab may negatively affect long-bone growth and dentition in pediatric patients below the age of 4 years.
 

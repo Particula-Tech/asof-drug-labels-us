@@ -6,7 +6,7 @@ The following serious adverse reactions are discussed below and also elsewhere i
 - Hypersensitivity [see Warnings and Precautions (5.3)]
 - Osteonecrosis of the Jaw [see Warnings and Precautions (5.4)]
 - Atypical Subtrochanteric and Diaphyseal Femoral Fractures [see Warnings and Precautions (5.5)]
-- Multiple Vertebral Fractures (MVF) Following Treatment Discontinuation of Treatment [see Warnings and Precautions (5.6)]
+- Multiple Vertebral Fractures (MVF) Following Discontinuation of Treatment [see Warnings and Precautions (5.6)]
 - Serious Infections [see Warnings and Precautions (5.7)]
 - Dermatologic Adverse Reactions [see Warnings and Precautions (5.8)]
 
@@ -88,7 +88,7 @@ Multiple Vertebral Fractures (MVF) Following Treatment Discontinuation
 
 In the osteoporosis clinical trial program, multiple vertebral fractures were reported in patients after discontinuation of denosumab.
 In the phase 3 trial in women with postmenopausal osteoporosis, 6% of women who discontinued denosumab and remained in the study developed new vertebral fractures, and 3% of women who discontinued denosumab and remained in the study developed multiple new vertebral fractures.
-The mean time to onset of multiple vertebral fractures was 17 months (range: 7-43 months) after the last injection of denosumab.
+The mean time to onset of multiple vertebral fractures was 17 months (range: 7 to 43 months) after the last injection of denosumab.
 Prior vertebral fracture was a predictor of multiple vertebral fractures after discontinuation [see Warnings and Precautions (5.6)].
 
 Pancreatitis
@@ -222,3 +222,4 @@ The following adverse reactions have been identified during post approval use of
 - Vasculitis (e.g.
   ANCA positive vasculitis, leukocytoclastic vasculitis)
 - Drug reaction with eosinophilia and systemic symptoms (DRESS) syndrome
+- Injection site reactions
