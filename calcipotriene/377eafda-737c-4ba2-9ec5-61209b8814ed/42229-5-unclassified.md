@@ -11,9 +11,14 @@ Rash, pruritus, dermatitis and worsening of psoriasis were reported in 1 to 10% 
 
 # Postmarketing Experience
 
+The following adverse reactions have been identified during postapproval use of Calcipotriene Cream.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-The following adverse reactions associated with the use of Calcipotriene Cream have been identified post-approval: contact dermatitis including allergic contact dermatitis.
+Metabolism and nutrition disorders: hypercalcemia
+
+Renal and urinary disorders: hypercalciuria
+
+Skin and subcutaneous tissue disorder: application site edema, application site pain, contact dermatitis (including allergic contact dermatitis), depigmentation, dry skin, erythema, hyperpigmentation, hypopigmentation, photosensitivity, rash (including erythematous, maculo-papular, and pustular), skin burning sensation, skin exfoliation, and urticaria.
 
 Manufactured for: Prasco Laboratories, Mason, OH 45040 USA
 
@@ -23,6 +28,6 @@ To report SUSPECTED ADVERSE REACTIONS, contact LEO Pharma
 
 Inc. at 1-877-494-4536 or FDA at 1-800-FDA-1088 or
 
-www.fda.gov/medwatch
+www.fda.gov/medwatch.
 
-Revised 06/2017
+Revised 10/2025

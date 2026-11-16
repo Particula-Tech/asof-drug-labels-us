@@ -6,7 +6,7 @@ Contact dermatitis, including allergic contact dermatitis, has been observed wit
 
 ## General
 
-Use of Calcipotriene Cream may cause transient irritation of both lesions and surrounding uninvolved skin.
+Use of Calcipotriene Cream may cause irritation of both lesions and surrounding uninvolved skin.
 If irritation develops, Calcipotriene Cream should be discontinued.
 
 For external use only.
