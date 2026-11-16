@@ -2,7 +2,7 @@
 
 NDC 0555-0323-02
 
-HydrOXYzine Pamoate Capsules, USP 25 mg
+hydrOXYzine Pamoate Capsules, USP 25 mg
 
 Rx only
 
@@ -12,7 +12,7 @@ Rx only
 
 NDC 0555-0302-02
 
-HydrOXYzine Pamoate Capsules, USP 50 mg
+hydrOXYzine Pamoate Capsules, USP 50 mg
 
 Rx only
 
@@ -22,10 +22,8 @@ Rx only
 
 NDC 0555-0324-02
 
-HydrOXYzine Pamoate Capsules, USP 100 mg
+hydrOXYzine Pamoate Capsules, USP 100 mg
 
 Rx only
 
 100 Capsules
-
-TEVA

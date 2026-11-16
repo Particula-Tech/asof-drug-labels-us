@@ -8,11 +8,13 @@ Hydroxyzine pamoate capsules, USP (hydroxyzine pamoate, USP equivalent to hydrox
 
 Dispense in a tight, light-resistant container as defined in the USP, with a child-resistant closure (as required).
 
-Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
 Keep this and all medications out of the reach of children.
+
+Brands listed are the trademarks of their respective owners.
 
 Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-F 10/2022
+G 9/2026
