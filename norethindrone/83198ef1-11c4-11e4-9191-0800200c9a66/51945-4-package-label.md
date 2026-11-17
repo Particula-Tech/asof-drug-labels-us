@@ -4,7 +4,7 @@ PRINCIPAL DISPLAY PANEL - NDC - 68968-0514-8 CombiPatch Count - 50/140
 
 See New Storage Requirements
 
-Combipatch® 50/140
+Combipatch ®50/140
 
 (estradiol/norethindrone acetate transdermal system)
 
@@ -16,7 +16,7 @@ www.combipatch.com
 
 Twice-Weekly Rx Only
 
-Combipatch® 50/140
+Combipatch ®50/140
 
 (estradiol/norethindrone acetate transdermal system)
 
@@ -28,14 +28,14 @@ Contains 0.62 mg estradiol USP and 2.7 mg norethindrone acetate (NETA) USP to pr
 
 Inactive components: a silicone and acrylic-based multi-polymeric adhesive, povidone USP, oleic acid NF, polyolefin laminate backing, polyester release liner and dipropylene glycol.
 
-Dosage and Administration: For transdermal use only.
+Dosage and Administration:For transdermal use only.
 See package insert.
 Allow patch to reach room temperature before application.
 DO NOT STORE UNPOUCHED.
 
 Keep out of the reach of children.
 
-Store Combipatch® refrigerated at 36°F to 46°F (2°C to 8°C)
+Store Combipatch ®refrigerated at 36°F to 46°F (2°C to 8°C)
 
 See side panel for lot number and expiration date. www.combipatch.com
 
@@ -73,7 +73,7 @@ Includes 8 Systems
 
 See New Storage Requirements
 
-Combipatch® 50/250
+Combipatch ®50/250
 
 (estradiol/norethindrone acetate transdermal system)
 
@@ -85,7 +85,7 @@ www.combipatch.com
 
 Twice-Weekly Rx Only
 
-Combipatch® 50/250
+Combipatch ®50/250
 
 (estradiol/norethindrone acetate transdermal system)
 
@@ -97,14 +97,14 @@ Contains 0.51 mg estradiol USP and 4.8 mg norethindrone acetate (NETA) USP to pr
 
 Inactive components: a silicone and acrylic-based multi-polymeric adhesive, povidone USP, oleic acid NF, polyolefin laminate backing, polyester release liner and dipropylene glycol.
 
-Dosage and Administration: For transdermal use only.
+Dosage and Administration:For transdermal use only.
 See package insert.
 Allow patch to reach room temperature before application.
 DO NOT STORE UNPOUCHED.
 
 Keep out of the reach of children.
 
-Store Combipatch® refrigerated at 36°F to 46°F (2°C to 8°C)
+Store Combipatch ®refrigerated at 36°F to 46°F (2°C to 8°C)
 
 See side panel for lot number and expiration date. www.combipatch.com
 

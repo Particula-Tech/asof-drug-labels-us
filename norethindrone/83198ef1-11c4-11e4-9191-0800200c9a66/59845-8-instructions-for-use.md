@@ -50,7 +50,7 @@ Note:
 - Bathing, swimming, or showering will not affect the CombiPatch.
 - Once in place, the patch should not be exposed to the sun for prolonged periods of time.
 - If your CombiPatch falls off reapply it.
-  If you cannot reapply the CombiPatch, apply a new CombiPatch to another area (See Figures C, D and E) and continue to follow your original placement schedule.
+  If you cannot reapply the CombiPatch, apply a new CombiPatch to another area (See Figures C, Dand E) and continue to follow your original placement schedule.
 - If you stop using your CombiPatch or forget to apply a new CombiPatch as scheduled you may have spotting, or bleeding, and your symptoms may come back.
 
 Step 6.

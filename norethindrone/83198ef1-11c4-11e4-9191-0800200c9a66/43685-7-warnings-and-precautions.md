@@ -14,7 +14,7 @@ a. Stroke
 
 In the WHI estrogen plus progestin substudy, a statistically significant increased risk of stroke was reported in women 50 to 79 years of age receiving daily CE (0.625 mg) plus MPA (2.5 mg) compared to women in the same age group receiving placebo (33 versus 25 per 10,000 women-years).
 (See CLINICAL STUDIES) The increase in risk was demonstrated after the first year and persisted.
-1 Should a stroke occur or be suspected, estrogen plus progestin therapy should be discontinued immediately.
+1Should a stroke occur or be suspected, estrogen plus progestin therapy should be discontinued immediately.
 
 In the WHI estrogen-alone substudy, a statistically significant increased risk of stroke was reported in women 50 to 79 years of age receiving daily CE (0.625 mg)-alone compared to women in the same age group receiving placebo (45 versus 33 per 10,000 women-years).
 (See CLINICAL STUDIES) The increase in risk was demonstrated in year 1 and persisted.
@@ -26,10 +26,10 @@ Subgroup analyses of women 50 to 59 years of age suggest no increased risk of st
 b. Coronary Heart Disease
 
 In the WHI estrogen plus progestin substudy, there was a statistically non-significant increased risk of CHD events (defined as nonfatal MI, silent MI, or CHD death) reported in women receiving daily CE (0.625 mg) plus MPA (2.5 mg) compared to women receiving placebo (41 versus 34 per 10,000 women years).
-1 An increase in relative risk was demonstrated in year 1, and a trend toward decreasing relative risk was reported in years 2 through 5 (See CLINICAL STUDIES).
+1An increase in relative risk was demonstrated in year 1, and a trend toward decreasing relative risk was reported in years 2 through 5 (See CLINICAL STUDIES).
 
 In the WHI estrogen-alone substudy, no overall effect on CHD events was reported in women receiving estrogen-alone compared to placebo.
-2 (See CLINICAL STUDIES)
+2(See CLINICAL STUDIES)
 
 Subgroup analyses of women 50 to 59 years of age suggest a statistically nonsignificant reduction in CHD events (CE [0.625 mg]-alone compared to placebo) in women less than 10 years since menopause (8 versus 16 per 10,000 women-years).
 1
@@ -46,11 +46,11 @@ c. Venous Thromboembolism
 In the WHI estrogen plus progestin substudy, a statistically significant 2-fold greater rate of VTE (DVT and PE) was reported in women receiving daily CE (0.625 mg) plus MPA (2.5 mg) compared to placebo (35 versus 17 per 10,000 women-years).
 Statistically significant increases in risk for both DVT (26 versus 13 per 10,000 women-years) and PE (18 versus 8 per 10,000 women years) were also demonstrated.
 The increase in VTE risk was demonstrated during the first year and persisted.
-3 (See CLINICAL STUDIES) Should a VTE occur or be suspected, estrogen plus progestin therapy should be discontinued immediately.
+3(See CLINICAL STUDIES) Should a VTE occur or be suspected, estrogen plus progestin therapy should be discontinued immediately.
 
 In the WHI estrogen-alone substudy, the risk of VTE was reported to be increased for women receiving daily CE (0.625 mg)-alone compared to women receiving placebo (30 versus 22 per 10,000 women-years), although only the increased risk of DVT reached statistical significance (23 versus 15 per 10,000 women years).
 The increase in VTE risk was demonstrated during the first 2 years.
-4 (See CLINICAL STUDIES) Should a VTE occur or be suspected, estrogen-alone therapy should be discontinued immediately.
+4(See CLINICAL STUDIES) Should a VTE occur or be suspected, estrogen-alone therapy should be discontinued immediately.
 
 If feasible, estrogens should be discontinued at least 4 to 6 weeks before surgery of the type associated with an increased risk of thromboembolism, or during periods of prolonged immobilization.
 
@@ -59,7 +59,7 @@ If feasible, estrogens should be discontinued at least 4 to 6 weeks before surge
 a. Breast Cancer
 
 The WHI substudy of daily CE (0.625 mg)-alone provided information about breast cancer in estrogen-alone users.
-In the WHI estrogen-alone substudy, after an average follow-up of 7.1 years, daily CE-alone was not associated with an increased risk of invasive breast cancer (relative risk [RR] 0.80)5 [see CLINICAL STUDIES].
+In the WHI estrogen-alone substudy, after an average follow-up of 7.1 years, daily CE-alone was not associated with an increased risk of invasive breast cancer (relative risk [RR] 0.80) 5[see CLINICAL STUDIES].
 After a mean follow-up of 5.6 years, the WHI substudy of daily CE (0.625 mg) plus MPA (2.5 mg) reported an increased risk of invasive breast cancer in women who took daily CE plus MPA compared to placebo.
 In this substudy, prior use of estrogen-alone or estrogen plus progestin therapy was reported by 26 percent of the women.
 The relative risk of invasive breast cancer was 1.24, and the absolute risk was 41 versus 33 cases per 10,000 women-years, for CE plus MPA compared with placebo.
@@ -96,7 +96,8 @@ c. Ovarian Cancer
 
 The WHI estrogen plus progestin substudy reported a statistically nonsignificant increased risk of ovarian cancer.
 After an average follow-up of 5.6 years, the relative risk for ovarian cancer for CE plus MPA versus placebo was 1.58 (95 percent CI 0.77 to 3.24).
-The absolute risk for CE plus MPA versus placebo was 4 versus 3 cases per 10,000 women-years.7
+The absolute risk for CE plus MPA versus placebo was 4 versus 3 cases per 10,000 women-years.
+7
 
 A meta-analysis of 17 prospective and 35 retrospective epidemiology studies found that women who used hormonal therapy for menopausal symptoms had an increased risk for ovarian cancer.
 The primary analysis, using case-control comparisons, included 12,110 cancer cases from the 17 prospective studies.
@@ -110,15 +111,18 @@ In the WHIMS estrogen plus progestin ancillary substudy of WHI, a population of 
 
 After an average follow-up of 4 years, 40 women in the CE plus MPA group and 21 women in the placebo group were diagnosed with probable dementia.
 The relative risk for CE plus MPA versus placebo was 2.05 (95 percent CI, 1.21 to 3.48).
-The absolute risk of probable dementia for CE plus MPA versus placebo was 45 versus 22 cases per 10,000 women-years.8 (See CLINICAL STUDIES and PRECAUTIONS, Geriatric Use)
+The absolute risk of probable dementia for CE plus MPA versus placebo was 45 versus 22 cases per 10,000 women-years.
+8(See CLINICAL STUDIESand PRECAUTIONS, Geriatric Use)
 
 In the WHIMS estrogen-alone ancillary study of WHI, a population of 2,947 hysterectomized women 65 to 79 years of age was randomized to daily CE (0.625 mg)-alone or placebo.
 After an average follow-up of 5.2 years, 28 women in the estrogen-alone group and 19 women in the placebo group were diagnosed with probable dementia.
 The relative risk of probable dementia for CE-alone versus placebo was 1.49 (95 percent CI, 0.83 to 2.66).
-The absolute risk of probable dementia for CE-alone versus placebo was 37 versus 25 cases per 10,000 women-years.8 (See CLINICAL STUDIES and PRECAUTIONS, Geriatric Use)
+The absolute risk of probable dementia for CE-alone versus placebo was 37 versus 25 cases per 10,000 women-years.
+8(See CLINICAL STUDIESand PRECAUTIONS, Geriatric Use)
 
 When data from the 2 populations in the WHIMS estrogen-alone and estrogen plus progestin ancillary studies were pooled as planned in the WHIMS protocol, the reported overall relative risk for probable dementia was 1.76 (95 percent CI, 1.19 to 2.60).
-Since both ancillary studies were conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women.8 (See PRECAUTIONS, Geriatric Use)
+Since both ancillary studies were conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women.
+8(See PRECAUTIONS, Geriatric Use)
 
 ## 4. Gallbladder Disease
 
@@ -182,7 +186,7 @@ For women with a history of cholestatic jaundice associated with past estrogen u
 Hypothyroidism
 
 Estrogen administration leads to increased thyroid-binding globulin (TBG) levels.
-Women with normal thyroid function can compensate for the increased TBG by making more thyroid hormone, thus maintaining free T4 and T3 serum concentrations in the normal range.
+Women with normal thyroid function can compensate for the increased TBG by making more thyroid hormone, thus maintaining free T 4and T 3serum concentrations in the normal range.
 Women dependent on thyroid hormone replacement therapy who are also receiving estrogens may require increased doses of their thyroid replacement therapy.
 These women should have their thyroid function monitored in order to maintain their free thyroid hormone levels in an acceptable range.
 
@@ -210,7 +214,7 @@ Estrogen therapy may cause an exacerbation of asthma, diabetes mellitus, epileps
 
 ## B. Patient Information
 
-Physicians are advised to discuss the content of the PATIENT INFORMATION leaflet and INSTRUCTIONS FOR USE with patients for whom they prescribe CombiPatch.
+Physicians are advised to discuss the content of the PATIENT INFORMATIONleaflet and INSTRUCTIONS FOR USEwith patients for whom they prescribe CombiPatch.
 
 ## C. Laboratory Tests
 
@@ -224,9 +228,9 @@ Laboratory parameters may be useful in guiding dosage for the treatment of hypoe
 Accelerated prothrombin time, partial thromboplastin time, and platelet aggregation time; increased platelet count; increased factors II, VII antigen, VIII antigen, VIII coagulant activity, IX, X, XII, VII-X complex, II-VII-X complex; and beta-thromboglobulin; decreased levels of anti-factor Xa and antithrombin III; decreased antithrombin III activity; increased levels of fibrinogen and fibrinogen activity; increased plasminogen antigen and activity.
 
 2.
-Increased TBG leading to increased circulating total thyroid hormone, as measured by protein-bound iodine (PBI), T4 levels (by column or by radioimmunoassay) or T3 levels by radioimmunoassay.
-T 3 resin uptake is decreased, reflecting the elevated TBG.
-Free T4 and free T3 concentrations are unaltered.
+Increased TBG leading to increased circulating total thyroid hormone, as measured by protein-bound iodine (PBI), T 4levels (by column or by radioimmunoassay) or T 3levels by radioimmunoassay.
+T 3resin uptake is decreased, reflecting the elevated TBG.
+Free T 4and free T 3concentrations are unaltered.
 Women on thyroid replacement therapy may require higher doses of thyroid hormone.
 
 3.
@@ -244,7 +248,7 @@ Impaired glucose tolerance.
 
 Long-term continuous administration of natural and synthetic estrogens in certain animal species increases the frequency of carcinomas of the breast, uterus, cervix, vagina, testis, and liver.
 
-NETA was not mutagenic in a battery of in vitro or in vivo genetic toxicity assays.
+NETA was not mutagenic in a battery of in vitroor in vivogenetic toxicity assays.
 
 ## F. Pregnancy
 
@@ -279,7 +283,7 @@ In the WHI estrogen-alone substudy (daily CE [0.625 mg]-alone versus placebo), t
 The Women’s Health Initiative Memory Study
 
 In the WHIMS ancillary studies of postmenopausal women 65 to 79 years of age, there was an increased risk of developing probable dementia in women receiving estrogen plus progestin or estrogen-alone when compared to placebo.
-(See CLINICAL STUDIES and WARNINGS, Probable Dementia.)
+(See CLINICAL STUDIESand WARNINGS, Probable Dementia.)
 
 Since both ancillary studies were conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women.
-(See CLINICAL STUDIES and WARNINGS, Probable Dementia.)
+(See CLINICAL STUDIESand WARNINGS, Probable Dementia.)

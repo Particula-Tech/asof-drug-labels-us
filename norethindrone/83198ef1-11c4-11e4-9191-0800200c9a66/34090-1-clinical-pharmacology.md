@@ -18,7 +18,7 @@ Estrogens act to reduce the elevated levels of these hormones seen in postmenopa
 
 Absorption
 
-Estradiol: Estrogens used in hormone therapy are well absorbed through the skin, mucous membranes, and gastrointestinal tract.
+Estradiol:Estrogens used in hormone therapy are well absorbed through the skin, mucous membranes, and gastrointestinal tract.
 Administration of CombiPatch every 3 to 4 days in postmenopausal women produces average steady-state estradiol serum concentrations of 45 to 50 pg/mL, which are equivalent to the normal ranges observed at the early follicular phase in premenopausal women.
 These concentrations are achieved within 12 to 24 hours following CombiPatch application.
 Minimal fluctuations in serum estradiol concentrations are observed following CombiPatch application, indicating consistent hormone delivery over the application interval.
@@ -38,7 +38,7 @@ Mean (SD) Serum Estradiol and Estrone Concentrations (pg/mL) at Steady-State (Un
 | 9 cm 2 | 0.05/0.14 | 72 (23) | 49 (19) | 54 (19) |
 | 16 cm 2 | 0.05/0.25 | 78 (22) | 58 (22) | 60 (18) |
 
-Norethindrone: Progestins used in hormone therapy are well absorbed through the skin, mucous membranes, and gastrointestinal tract.
+Norethindrone:Progestins used in hormone therapy are well absorbed through the skin, mucous membranes, and gastrointestinal tract.
 Norethindrone steady-state concentrations are attained within 24 hours of application of the CombiPatch transdermal delivery systems.
 Minimal fluctuations in serum norethindrone concentrations are observed following CombiPatch treatment, indicating consistent hormone delivery over the application interval.
 Serum concentrations of norethindrone increase linearly with increasing doses of NETA.
@@ -56,33 +56,33 @@ Mean (SD) Serum Norethindrone Concentrations (pg/mL) at Steady-State
 
 Distribution
 
-Estradiol: The distribution of exogenous estrogens is similar to that of endogenous estrogens.
+Estradiol:The distribution of exogenous estrogens is similar to that of endogenous estrogens.
 Estrogens are widely distributed in the body and are generally found in higher concentrations in the sex hormone target organs.
 Estrogens circulate in the blood largely bound to sex hormone-binding globulin (SHBG) and albumin.
 
-Norethindrone: In plasma, norethindrone is bound approximately 90 percent to SHBG and albumin.
+Norethindrone:In plasma, norethindrone is bound approximately 90 percent to SHBG and albumin.
 
 Metabolism
 
-Estradiol: Exogenous estrogens are metabolized in the same manner as endogenous estrogens.
+Estradiol:Exogenous estrogens are metabolized in the same manner as endogenous estrogens.
 Circulating estrogens exist in a dynamic equilibrium of metabolic interconversions.
 These transformations take place mainly in the liver.
 Estradiol is converted reversibly to estrone, and both can be converted to estriol, which is a major urinary metabolite.
 Estrogens also undergo enterohepatic recirculation via sulfate and glucuronide conjugation in the liver, biliary secretion of conjugates into the intestine, and hydrolysis in the intestine followed by reabsorption.
 In postmenopausal women a significant portion of the circulating estrogens exist as sulfate conjugates, especially estrone sulfate, which serves as a circulating reservoir for the formation of more active estrogens.
 
-Norethindrone: NETA is hydrolyzed to the active moiety, norethindrone, in most tissues including skin and blood.
+Norethindrone:NETA is hydrolyzed to the active moiety, norethindrone, in most tissues including skin and blood.
 Norethindrone is primarily metabolized in the liver.
 
 Excretion
 
-Estradiol: Estradiol, estrone, and estriol are excreted in the urine along with glucuronide and sulfate conjugates.
+Estradiol:Estradiol, estrone, and estriol are excreted in the urine along with glucuronide and sulfate conjugates.
 Estradiol has a short elimination half-life of approximately 2 to 3 hours; therefore, a rapid decline in serum levels is observed after the CombiPatch estradiol/NETA transdermal system is removed.
 Within 4 to 8 hours serum estradiol concentrations return to untreated, postmenopausal levels (less than 20 pg/mL).
 
 Concentration data from clinical trials indicate that the pharmacokinetics of estradiol did not change over time, suggesting no evidence of the accumulation of estradiol following extended patch wear periods (up to 1 year).
 
-Norethindrone: The elimination half-life of norethindrone is reported to be 6 to 8 hours.
+Norethindrone:The elimination half-life of norethindrone is reported to be 6 to 8 hours.
 Norethindrone serum concentrations diminish rapidly and are less than 50 pg/mL within 48 hours after removal of the CombiPatch transdermal delivery system.
 
 Concentration data from clinical trials indicate that the pharmacokinetics of norethindrone did not change over time, suggesting no evidence of the accumulation of norethindrone following extended patch wear periods (up to 1 year).

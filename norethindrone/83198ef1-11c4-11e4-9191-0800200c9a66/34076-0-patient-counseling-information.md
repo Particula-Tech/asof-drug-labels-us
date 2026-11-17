@@ -47,7 +47,7 @@ Do not start using CombiPatch if you:
 - currently have or have had blood clots
 - currently have or have had liver problems
 - have been diagnosed with a bleeding disorder
-- are allergic to CombiPatch or any of its ingredients See the list of ingredients in CombiPatch at the end of this leaflet.
+- are allergic to CombiPatch or any of its ingredients See the list of ingredientsin CombiPatch at the end of this leaflet.
 - think you may be pregnant CombiPatch is not for pregnant women.
   If you think you may be pregnant, you should have a pregnancy test and know the results.
   Do not use CombiPatch if the test result is positive and talk to your healthcare provider.
@@ -70,7 +70,7 @@ Keep a list of your medicines and show it to your healthcare provider and pharma
 
 How should I use CombiPatch?
 
-- For detailed instructions, see the step-by-step instructions for using CombiPatch at the end of this Patient Information.
+- For detailed instructions, see the step-by-step instructionsfor using CombiPatch at the end of this Patient Information.
 - Use CombiPatch exactly as your healthcare provider tells you to use it.
 - CombiPatch is for skin use only.
 - Change your CombiPatch 2 times each week or every 3 to 4 days.
@@ -89,8 +89,7 @@ How do I change CombiPatch?
 - After you remove CombiPatch, you may have a small amount of stickiness (adhesive) left on your skin.
   If you have any adhesive left on your skin after you remove CombiPatch, allow the area to dry for 15 minutes.
   Gently rub the sticky area of your skin with oil or lotion to remove the adhesive.
-- The new CombiPatch must be applied to a different area of your lower abdomen.
-  This area must be clean, dry, cool and free of powder, oil or lotion.
+- The new CombiPatch must be applied to a different area of your lower abdomen.This area must be clean, dry, cool and free of powder, oil or lotion.
   The same site should not be used again for at least 1 week after removal of CombiPatch.
 
 What are the possible side effects of CombiPatch?
@@ -174,8 +173,8 @@ You can get more information by calling 1-800-455-8070
 
 What are the ingredients in CombiPatch?
 
-Active Ingredients: estradiol and norethindrone acetate
+Active Ingredients:estradiol and norethindrone acetate
 
-Inactive Ingredients: acrylic adhesive, silicone adhesive, oleic acid NF, povidone USP, dipropylene glycol, polyester release protective liner
+Inactive Ingredients:acrylic adhesive, silicone adhesive, oleic acid NF, povidone USP, dipropylene glycol, polyester release protective liner
 
 102538-5
