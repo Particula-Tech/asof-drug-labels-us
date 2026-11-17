@@ -33,17 +33,6 @@ When to Seek Physician Advice
 
 Advise patients that if they develop any ocular reactions, particularly conjunctivitis and lid reactions, they should discontinue use and seek their physician's advice.
 
-Manufactured by:
-
-Micro Labs Limited
-
-INDIA.
-
-Manufactured for:
-
-Micro Labs USA Inc.
-
-Somerset, NJ 08873
-
-Rev.
-12/2024
+Manufactured by: Micro Labs Limited INDIA.
+Manufactured for: Micro Labs USA, Inc. Princeton, NJ 08540 Rev.
+11/2026

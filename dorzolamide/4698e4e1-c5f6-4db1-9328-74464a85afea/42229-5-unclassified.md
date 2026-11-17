@@ -52,16 +52,6 @@ Important information about using dorzolamide hydrochloride ophthalmic solution
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by:
-
-Micro Labs Limited
-
-INDIA.
-
-Manufactured for:
-
-Micro Labs USA Inc.
-
-Somerset, NJ 08873
-
-Rev.12/2024
+Manufactured by: Micro Labs Limited INDIA.
+Manufactured for: Micro Labs USA, Inc. Princeton, NJ 08540 Rev.
+11/2026
