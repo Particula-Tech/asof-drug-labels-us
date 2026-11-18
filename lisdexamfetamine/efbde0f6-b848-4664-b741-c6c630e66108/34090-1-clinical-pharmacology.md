@@ -62,10 +62,6 @@ Of the radioactivity recovered in the urine, 42% of the dose was related to amph
 
 Exposures of dextroamphetamine in specific populations are summarized in Figure 1.
 
-*Figure 1 shows the geometric mean ratios and the 90% confidence limits for Cmax and AUC of d-amphetamine.
-Comparison for gender uses males as the reference.
-Comparison for age uses 55-64 years as the reference.
-
 #### Drug Interaction Studies
 
 Effects of other drugs on the exposures of dextroamphetamine are summarized in Figure 2.

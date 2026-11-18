@@ -28,4 +28,4 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Halo Pharmaceutical Inc. Whippany, NJ 07981 U.S.A.
 
-Revised: 5/2026 HL:LISD:RX4
+Revised: 7/2026 HL:LISD:R4m/HL:MG:LISD:R4m
