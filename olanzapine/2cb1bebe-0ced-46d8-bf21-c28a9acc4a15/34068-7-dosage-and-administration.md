@@ -4,11 +4,11 @@
 
 Adults
 
-Dose Selection — Oral olanzapine should be administered on a once-a-day schedule without regard to meals, generally beginning with 5 to 10 mg initially, with a target dose of 10 mg/day within several days.
+Dose Selection — Oral olanzapine should be administered on a once-a-day schedule without regard to meals, generally beginning with 5 mg to 10 mg initially, with a target dose of 10 mg/day within several days.
 Further dosage adjustments, if indicated, should generally occur at intervals of not less than 1 week, since steady state for olanzapine would not be achieved for approximately 1 week in the typical patient.
-When dosage adjustments are necessary, dose increments/decrements of 5 mg QD are recommended.
+When dosage adjustments are necessary, dose increments/decrements of 5 mg once daily are recommended.
 
-Efficacy in schizophrenia was demonstrated in a dose range of 10 to 15 mg/day in clinical trials.
+Efficacy in schizophrenia was demonstrated in a dose range of 10 mg/day to 15 mg/day in clinical trials.
 However, doses above 10 mg/day were not demonstrated to be more efficacious than the 10 mg/day dose.
 An increase to a dose greater than the target dose of 10 mg/day (i.e., to a dose of 15 mg/day or greater) is recommended only after clinical assessment.
 Olanzapine is not indicated for use in doses above 20 mg/day.
@@ -21,9 +21,9 @@ The healthcare provider who elects to use olanzapine for extended periods should
 
 Adolescents
 
-Dose Selection — Oral olanzapine should be administered on a once-a-day schedule without regard to meals with a recommended starting dose of 2.5 or 5 mg, with a target dose of 10 mg/day.
-Efficacy in adolescents with schizophrenia was demonstrated based on a flexible dose range of 2.5 to 20 mg/day in clinical trials, with a mean modal dose of 12.5 mg/day (mean dose of 11.1 mg/day).
-When dosage adjustments are necessary, dose increments/decrements of 2.5 or 5 mg are recommended.
+Dose Selection — Oral olanzapine should be administered on a once-a-day schedule without regard to meals with a recommended starting dose of 2.5 mg or 5 mg, with a target dose of 10 mg/day.
+Efficacy in adolescents with schizophrenia was demonstrated based on a flexible dose range of 2.5 mg/day to 20 mg/day in clinical trials, with a mean modal dose of 12.5 mg/day (mean dose of 11.1 mg/day).
+When dosage adjustments are necessary, dose increments/decrements of 2.5 mg or 5 mg are recommended.
 
 The safety and effectiveness of doses above 20 mg/day have not been evaluated in clinical trials [see Clinical Studies (14.1)].
 
@@ -35,26 +35,26 @@ Patients should be periodically reassessed to determine the need for maintenance
 
 Adults
 
-Dose Selection for Monotherapy — Oral olanzapine should be administered on a once-a-day schedule without regard to meals, generally beginning with 10 or 15 mg.
+Dose Selection for Monotherapy — Oral olanzapine should be administered on a once-a-day schedule without regard to meals, generally beginning with 10 mg or 15 mg.
 Dosage adjustments, if indicated, should generally occur at intervals of not less than 24 hours, reflecting the procedures in the placebo-controlled trials.
-When dosage adjustments are necessary, dose increments/decrements of 5 mg QD are recommended.
+When dosage adjustments are necessary, dose increments/decrements of 5 mg once daily are recommended.
 
-Short-term (3 to 4 weeks) antimanic efficacy was demonstrated in a dose range of 5 mg to 20 mg/day in clinical trials.
+Short-term (3 to 4 weeks) antimanic efficacy was demonstrated in a dose range of 5 mg/day to 20 mg/day in clinical trials.
 The safety of doses above 20 mg/day has not been evaluated in clinical trials [see Clinical Studies (14.2)].
 
-Maintenance Monotherapy — The benefit of maintaining bipolar I patients on monotherapy with oral olanzapine at a dose of 5 to 20 mg/day, after achieving a responder status for an average duration of 2 weeks, was demonstrated in a controlled trial [see Clinical Studies (14.2)].
+Maintenance Monotherapy — The benefit of maintaining bipolar I patients on monotherapy with oral olanzapine at a dose of 5 mg/day to 20 mg/day, after achieving a responder status for an average duration of 2 weeks, was demonstrated in a controlled trial [see Clinical Studies (14.2)].
 The healthcare provider who elects to use olanzapine for extended periods should periodically reevaluate the long-term usefulness of the drug for the individual patient.
 
 Dose Selection for Adjunctive Treatment — When administered as adjunctive treatment to lithium or valproate, oral olanzapine dosing should generally begin with 10 mg once-a-day without regard to meals.
 
-Antimanic efficacy was demonstrated in a dose range of 5 mg to 20 mg/day in clinical trials [see Clinical Studies (14.2)].
+Antimanic efficacy was demonstrated in a dose range of 5 mg/day to 20 mg/day in clinical trials [see Clinical Studies (14.2)].
 The safety of doses above 20 mg/day has not been evaluated in clinical trials.
 
 Adolescents
 
-Dose Selection — Oral olanzapine should be administered on a once-a-day schedule without regard to meals with a recommended starting dose of 2.5 or 5 mg, with a target dose of 10 mg/day.
-Efficacy in adolescents with bipolar I disorder (manic or mixed episodes) was demonstrated based on a flexible dose range of 2.5 to 20 mg/day in clinical trials, with a mean modal dose of 10.7 mg/day (mean dose of 8.9 mg/day).
-When dosage adjustments are necessary, dose increments/decrements of 2.5 or 5 mg are recommended.
+Dose Selection — Oral olanzapine should be administered on a once-a-day schedule without regard to meals with a recommended starting dose of 2.5 mg or 5 mg, with a target dose of 10 mg/day.
+Efficacy in adolescents with bipolar I disorder (manic or mixed episodes) was demonstrated based on a flexible dose range of 2.5 mg/day to 20 mg/day in clinical trials, with a mean modal dose of 10.7 mg/day (mean dose of 8.9 mg/day).
+When dosage adjustments are necessary, dose increments/decrements of 2.5 mg or 5 mg are recommended.
 
 The safety and effectiveness of doses above 20 mg/day have not been evaluated in clinical trials [see Clinical Studies (14.2)].
 
@@ -74,8 +74,8 @@ When using olanzapine and fluoxetine in combination, also refer to the Clinical 
 Adults
 
 Oral olanzapine should be administered in combination with fluoxetine once daily in the evening, without regard to meals, generally beginning with 5 mg of oral olanzapine and 20 mg of fluoxetine.
-Dosage adjustments, if indicated, can be made according to efficacy and tolerability within dose ranges of oral olanzapine 5 to 12.5 mg and fluoxetine 20 to 50 mg.
-Antidepressant efficacy was demonstrated with olanzapine and fluoxetine in combination in adult patients with a dose range of olanzapine 6 to 12 mg and fluoxetine 25 to 50 mg.
+Dosage adjustments, if indicated, can be made according to efficacy and tolerability within dose ranges of oral olanzapine 5 mg to 12.5 mg and fluoxetine 20 mg to 50 mg.
+Antidepressant efficacy was demonstrated with olanzapine and fluoxetine in combination in adult patients with a dose range of olanzapine 6 mg to 12 mg and fluoxetine 25 mg to 50 mg.
 Safety of co-administration of doses above 18 mg olanzapine with 75 mg fluoxetine has not been evaluated in clinical studies.
 
 Children and Adolescents (10 to 17 years of age)
@@ -94,12 +94,12 @@ Table 1: Approximate Dose Correspondence Between Symbyaxa and the Combination of
 | For | Use in Combination |  |
 | --- | --- | --- |
 | Symbyax (mg/day) | Olanzapine (mg/day) | Fluoxetine (mg/day) |
-| 3 mg olanzapine/25 mg fluoxetine | 2.5 | 20 |
-| 6 mg olanzapine/25 mg fluoxetine | 5 | 20 |
-| 12 mg olanzapine/25 mg fluoxetine | 10+2.5 | 20 |
-| 6 mg olanzapine/50 mg fluoxetine | 5 | 40+10 |
-| 12 mg olanzapine/50 mg fluoxetine | 10+2.5 | 40+10 |
-| a Symbyax (olanzapine/fluoxetine HCl) is a fixed-dose combination of olanzapine and fluoxetine |  |  |
+| 3 mg olanzapine/25 mg fluoxetine | 2.5 mg | 20 mg |
+| 6 mg olanzapine/25 mg fluoxetine | 5 mg | 20 mg |
+| 12 mg olanzapine/25 mg fluoxetine | 10 mg+2.5 mg | 20 mg |
+| 6 mg olanzapine/50 mg fluoxetine | 5 mg | 40 mg+10 mg |
+| 12 mg olanzapine/50 mg fluoxetine | 10 mg+2.5 mg | 40 mg+10 mg |
+| aSymbyax (olanzapine/fluoxetine HCl) is a fixed-dose combination of olanzapine and fluoxetine. |  |  |
 
 While there is no body of evidence to answer the question of how long a patient treated with olanzapine and fluoxetine in combination should remain on it, it is generally accepted that bipolar I disorder, including the depressive episodes associated with bipolar I disorder, is a chronic illness requiring chronic treatment.
 The healthcare provider should periodically reexamine the need for continued pharmacotherapy.
@@ -111,8 +111,8 @@ Olanzapine monotherapy is not indicated for the treatment of depressive episodes
 When using olanzapine and fluoxetine in combination, also refer to the Clinical Studies section of the package insert for Symbyax.
 
 Oral olanzapine should be administered in combination with fluoxetine once daily in the evening, without regard to meals, generally beginning with 5 mg of oral olanzapine and 20 mg of fluoxetine.
-Dosage adjustments, if indicated, can be made according to efficacy and tolerability within dose ranges of oral olanzapine 5 to 20 mg and fluoxetine 20 to 50 mg.
-Antidepressant efficacy was demonstrated with olanzapine and fluoxetine in combination in adult patients with a dose range of olanzapine 6 to 18 mg and fluoxetine 25 to 50 mg.
+Dosage adjustments, if indicated, can be made according to efficacy and tolerability within dose ranges of oral olanzapine 5 mg to 20 mg and fluoxetine 20 mg to 50 mg.
+Antidepressant efficacy was demonstrated with olanzapine and fluoxetine in combination in adult patients with a dose range of olanzapine 6 mg to 18 mg and fluoxetine 25 mg to 50 mg.
 
 Safety and efficacy of olanzapine in combination with fluoxetine was determined in clinical trials supporting approval of Symbyax (fixed dose combination of olanzapine and fluoxetine).Symbyax is dosed between 3 mg/25 mg (olanzapine/fluoxetine) per day and 12 mg/50 mg (olanzapine/fluoxetine) per day.
 Table 1 above demonstrates the appropriate individual component doses of olanzapine and fluoxetine versus Symbyax.
@@ -123,11 +123,11 @@ The healthcare provider should periodically reexamine the need for continued pha
 
 Safety of co-administration of doses above 18 mg olanzapine with 75 mg fluoxetine has not been evaluated in clinical studies.
 
-Olanzapine monotherapy is not indicated for treatment of treatment resistant depression (major depressive disorder in patients who do not respond to 2 antidepressants of adequate dose and duration in the current episode).
+Olanzapine monotherapy is not indicated for treatment of treatment resistant depression (major depressive disorder in patients who do not respond to two antidepressants of adequate dose and duration in the current episode).
 
 ## 2.7 Olanzapine and Fluoxetine in Combination: Dosing in Special Populations
 
-The starting dose of oral olanzapine 2.5 to 5 mg with fluoxetine 20 mg should be used for patients with a predisposition to hypotensive reactions, patients with hepatic impairment, or patients who exhibit a combination of factors that may slow the metabolism of olanzapine or fluoxetine in combination (female gender, geriatric age, nonsmoking status), or those patients who may be pharmacodynamically sensitive to olanzapine.
+The starting dose of oral olanzapine 2.5 mg to 5 mg with fluoxetine 20 mg should be used for patients with a predisposition to hypotensive reactions, patients with hepatic impairment, or patients who exhibit a combination of factors that may slow the metabolism of olanzapine or fluoxetine in combination (female gender, geriatric age, nonsmoking status), or those patients who may be pharmacodynamically sensitive to olanzapine.
 Dosing modification may be necessary in patients who exhibit a combination of factors that may slow metabolism.
 When indicated, dose escalation should be performed with caution in these patients.
 Olanzapine and fluoxetine in combination have not been systematically studied in patients over 65 years of age or in patients under 10 years of age [see Warnings and Precautions (5.14), Drug Interactions (7), and Clinical Pharmacology (12.3)].

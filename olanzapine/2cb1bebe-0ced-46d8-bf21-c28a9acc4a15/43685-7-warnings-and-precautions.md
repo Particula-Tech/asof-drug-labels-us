@@ -49,7 +49,7 @@ Olanzapine's specific metabolic profile is presented below.
 
 Hyperglycemia and Diabetes Mellitus
 
-Healthcare providers should consider the risks and benefits when prescribing olanzapine to patients with an established diagnosis of diabetes mellitus, or having borderline increased blood glucose level (fasting 100 to 126 mg/dL, nonfasting 140 to 200 mg/dL).
+Healthcare providers should consider the risks and benefits when prescribing olanzapine to patients with an established diagnosis of diabetes mellitus or having borderline increased blood glucose level (fasting 100 mg/dL to 126 mg/dL, nonfasting 140 mg/dL to 200 mg/dL).
 Patients taking olanzapine should be monitored regularly for worsening of glucose control.
 Patients starting treatment with olanzapine should undergo fasting blood glucose testing at the beginning of treatment and periodically during treatment.
 Any patient treated with atypical antipsychotics should be monitored for symptoms of hyperglycemia including polydipsia, polyuria, polyphagia, and weakness.
@@ -90,7 +90,7 @@ In analyses of patients who completed 9 to 12 months of olanzapine therapy, mean
 
 Olanzapine Monotherapy in Adolescents — The safety and efficacy of olanzapine have not been established in patients under the age of 13 years.
 In an analysis of 3 placebo-controlled olanzapine monotherapy studies of adolescent patients, including those with schizophrenia (6 weeks) or bipolar I disorder (manic or mixed episodes) (3 weeks), olanzapine was associated with a greater mean change from baseline in fasting glucose levels compared to placebo (2.68 mg/dL versus -2.59 mg/dL).
-The mean change in fasting glucose for adolescents exposed at least 24 weeks was 3.1 mg/dL (N=121).
+The mean change in fasting glucose for adolescents exposed to at least 24 weeks was 3.1 mg/dL (N=121).
 Table 3 shows short-term and long-term changes in fasting blood glucose from adolescent olanzapine monotherapy studies.
 
 Table 3: Changes in Fasting Glucose Levels from Adolescent Olanzapine Monotherapy Studies
@@ -253,7 +253,7 @@ Table 8: Weight Gain with Olanzapine Use in Adolescents
 ## 5.6 Tardive Dyskinesia
 
 A syndrome of potentially irreversible, involuntary, dyskinetic movements may develop in patients treated with antipsychotic drugs.
-Although the prevalence of the syndrome appears to be the highest among the elderly, especially elderly women, it is impossible to rely upon prevalence estimates to predict, at the inception of antipsychotic treatment, which patients are likely to develop the syndrome.
+Although the prevalence of the syndrome appears to be highest among the elderly, especially elderly women, it is impossible to rely upon prevalence estimates to predict, at the inception of antipsychotic treatment, which patients are likely to develop the syndrome.
 Whether antipsychotic drug products differ in their potential to cause tardive dyskinesia is unknown.
 
 The risk of developing tardive dyskinesia and the likelihood that it will become irreversible are believed to increase as the duration of treatment and the total cumulative dose of antipsychotic drugs administered to the patient increase.
@@ -275,14 +275,14 @@ For specific information about the warnings of lithium or valproate, refer to th
 
 ## 5.7 Orthostatic Hypotension
 
-Olanzapine may induce orthostatic hypotension associated with dizziness, tachycardia, bradycardia and, in some patients, syncope, especially during the initial dose-titration period, probably reflecting its α 1-adrenergic antagonistic properties [see Patient Counseling Information (17)].
+Olanzapine may induce orthostatic hypotension associated with dizziness, tachycardia, bradycardia and, in some patients, syncope, especially during the initial dose-titration period, probably reflecting its α1-adrenergic antagonistic properties [see Patient Counseling Information (17)].
 
 From an analysis of the vital sign data in an integrated database of 41 completed clinical studies in adult patients treated with oral olanzapine, orthostatic hypotension was recorded in ≥20% (1,277/6,030) of patients.
 
-For oral olanzapine therapy, the risk of orthostatic hypotension and syncope may be minimized by initiating therapy with 5 mg QD [see Dosage and Administration (2)].
+For oral olanzapine therapy, the risk of orthostatic hypotension and syncope may be minimized by initiating therapy with 5 mg once daily [see Dosage and Administration (2)].
 A more gradual titration to the target dose should be considered if hypotension occurs.
 
-Syncope was reported in 0.6% (15/2,500) of olanzapine -treated patients in phase 2 to 3 oral olanzapine studies.
+Syncope was reported in 0.6% (15/2,500) of olanzapine-treated patients in phase 2 to 3 oral olanzapine studies.
 
 The risk for this sequence of hypotension, bradycardia, and sinus pause may be greater in nonpsychiatric patients compared to psychiatric patients who are possibly more adapted to certain effects of psychotropic drugs.
 
@@ -292,7 +292,7 @@ Caution is necessary in patients who receive treatment with other drugs having e
 
 ## 5.8 Falls
 
-Olanzapine may cause somnolence, postural hypotension, motor, and sensory instability, which may lead to falls and, consequently, fractures or other injuries.
+Olanzapine may cause somnolence, postural hypotension, motor and sensory instability, which may lead to falls and, consequently, fractures or other injuries.
 For patients with diseases, conditions, or medications that could exacerbate these effects, complete fall risk assessments when initiating antipsychotic treatment and recurrently for patients on long-term antipsychotic therapy.
 
 ## 5.9 Leukopenia, Neutropenia, and Agranulocytosis
@@ -304,7 +304,7 @@ Possible risk factors for leukopenia/neutropenia include pre-existing low white 
 Patients with a history of a clinically significant low WBC or drug induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and discontinuation of olanzapine should be considered at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
 
 Patients with clinically significant neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
-Patients with severe neutropenia (absolute neutrophil count <1,000/mm 3) should discontinue olanzapine and have their WBC followed until recovery.
+Patients with severe neutropenia (absolute neutrophil count <1,000/mm3) should discontinue olanzapine and have their WBC followed until recovery.
 
 ## 5.10 Dysphagia
 
@@ -342,15 +342,15 @@ In post marketing experience, the risk for severe adverse reactions (including f
 
 ## 5.15 Hyperprolactinemia
 
-As with other drugs that antagonize dopamine D 2 receptors, olanzapine elevates prolactin levels, and the elevation persists during chronic administration.
-Hyperprolactinemia may suppress hypothalamic GnRH, resulting in reduced pituitary gonadotropin secretion.
+As with other drugs that antagonize dopamine D2 receptors, olanzapine elevates prolactin levels, and the elevation persists during chronic administration.
+Hyperprolactinemia may suppress hypothalamic gonadotropin-releasing hormone (GnRH), resulting in reduced pituitary gonadotropin secretion.
 This, in turn, may inhibit reproductive function by impairing gonadal steroidogenesis in both female and male patients.
 Galactorrhea, amenorrhea, gynecomastia, and impotence have been reported in patients receiving prolactin-elevating compounds.
 Long-standing hyperprolactinemia when associated with hypogonadism may lead to decreased bone density in both female and male subjects.
 
-Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin dependent in vitro[see Nonclinical Toxicology (13.1)].
-Published epidemiologic studies have shown inconsistent results when exploring the potential association between hyperprolactinemia and breast cancer, a factor of potential importance if the prescription of these drugs is contemplated in a patient with previously detected breast cancer.
-As is common with compounds which increase prolactin release, an increase in mammary gland neoplasia was observed in the olanzapine carcinogenicity studies conducted in mice and rats
+Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin dependent in vitro, a factor of potential importance if the prescription of these drugs is contemplated in a patient with previously detected breast cancer.
+As is common with compounds which increase prolactin release, an increase in mammary gland neoplasia was observed in the olanzapine carcinogenicity studies conducted in mice and rats [see Nonclinical Toxicology (13.1)].
+Published epidemiologic studies have shown inconsistent results when exploring the potential association between hyperprolactinemia and breast cancer.
 
 In placebo-controlled olanzapine clinical studies (up to 12 weeks), changes from normal to high in prolactin concentrations were observed in 30% of adults treated with olanzapine as compared to 10.5% of adults treated with placebo.
 In a pooled analysis from clinical studies including 8,136 adults treated with olanzapine, potentially associated clinical manifestations included menstrual-related events 1 (2% [49/3,240] of females), sexual function-related events 2 (2% [150/8,136] of females and males), and breast-related events 3 (0.7% [23/3,240] of females, 0.2% [9/4,896] of males).
@@ -365,7 +365,7 @@ In a pooled analysis from clinical trials including 454 adolescents treated with
 3 Based on a search of the following terms: breast discharge, enlargement or swelling, galactorrhea, gynecomastia, and lactation disorder.
 
 Dose group differences with respect to prolactin elevation have been observed.
-In a single 8-week randomized, double-blind, fixed-dose study comparing 10 (N=199), 20 (N=200) and 40 (N=200) mg/day of oral olanzapine in adult patients with schizophrenia or schizoaffective disorder, incidence of prolactin elevation >24.2 ng/mL (female) or >18.77 ng/mL (male) at any time during the trial (10 mg/day: 31.2%; 20 mg/day: 42.7%; 40 mg/day: 61.1%) indicated significant differences between 10 vs 40 mg/day and 20 vs 40 mg/day.
+In a single 8-week randomized, double-blind, fixed-dose study comparing 10 (N=199), 20 (N=200) and 40 (N=200) mg/day of oral olanzapine in adult patients with schizophrenia or schizoaffective disorder, incidence of prolactin elevation >24.2 ng/mL (female) or >18.77 ng/mL (male) at any time during the trial (10 mg/day: 31.2%; 20 mg/day: 42.7%; 40 mg/day: 61.1%) indicated significant differences between 10 mg/day vs 40 mg/day and 20 mg/day vs 40 mg/day.
 
 ## 5.16 Use in Combination with Fluoxetine, Lithium, or Valproate
 

@@ -131,7 +131,7 @@ How should I take olanzapine tablets or orally disintegrating tablets?
 - If you miss a dose of olanzapine tablets or orally disintegrating tablets, take the missed dose as soon as you remember.
   If it is almost time for the next dose, just skip the missed dose and take your next dose at the regular time.
   Do not take two doses of olanzapine tablets or orally disintegrating tablets at the same time.
-- To prevent serious side effectsdo not stop taking olanzapinetablets ororally disintegrating tablets suddenly.
+- To prevent serious side effects do not stop taking olanzapine tablets or orally disintegrating tablets suddenly.
   If you need to stop taking olanzapine tablets or orally disintegrating tablets, your doctor can tell you how to safely stop taking it.
 - If you take too much olanzapine tablets or orally disintegrating tablets, call your doctor or poison control center at 1-800-222-1222 right away, or get emergency treatment.
 - Olanzapine tablets or orally disintegrating tablets can be taken with or without food.

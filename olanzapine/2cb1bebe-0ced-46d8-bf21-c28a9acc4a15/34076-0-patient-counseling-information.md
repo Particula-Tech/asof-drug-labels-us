@@ -64,7 +64,7 @@ Patients should be advised to avoid alcohol while taking olanzapine [see Drug In
 
 Phenylketonurics
 
-Olanzapine orally disintegrating tablets contain phenylalanine (0.672, 1.344, 2.016, or 2.688 mg per 5, 10, 15, or 20 mg tablet, respectively).
+Olanzapine orally disintegrating tablets contains phenylalanine (0.672 mg, 1.344 mg, 2.016 mg, or 2.688 mg per 5 mg, 10 mg, 15 mg, or 20 mg tablet, respectively).
 [see Description (11)].
 
 Use in Specific Populations
@@ -103,4 +103,4 @@ Manufactured for:
 
 Torrent Pharma INC., Basking Ridge, NJ 07920.
 
-8107708 Revised: February 2026
+8115608 Revised: November 2026

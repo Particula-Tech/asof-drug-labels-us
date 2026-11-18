@@ -15,7 +15,7 @@ Neonates exposed to antipsychotic drugs, including olanzapine, during the third 
 Overall available data from published epidemiologic studies of pregnant women exposed to olanzapine have not established a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes (see Data).
 There are risks to the mother associated with untreated schizophrenia or bipolar I disorder and with exposure to antipsychotics, including olanzapine, during pregnancy (see Clinical Considerations).
 
-Olanzapine was not teratogenic when administered orally to pregnant rats and rabbits at doses that are 9- and 30-times the daily oral maximum recommended human dose (MRHD), based on mg/m 2 body surface area; some fetal toxicities were observed at these doses (see Data).
+Olanzapine was not teratogenic when administered orally to pregnant rats and rabbits at doses that are 9 and 30 times the daily oral maximum recommended human dose (MRHD), based on mg/m 2 body surface area; some fetal toxicities were observed at these doses (see Data).
 
 The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
 All pregnancies have a background risk of birth defects, loss, or other adverse outcomes.
@@ -77,7 +77,7 @@ Based on the pharmacologic action of olanzapine (D2 receptor antagonism), treatm
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of oral olanzapine in the treatment of schizophrenia and manic or mixed episodes associated with bipolar I disorder were established in short-term studies in adolescents (ages 13 to 17 years).
-Use of olanzapine in adolescents is supported by evidence from adequate and well-controlled studies of olanzapine in which 268 adolescents received olanzapine in a range of 2.5 to 20 mg/day [see Clinical Studies (14.1, 14.2)].
+Use of olanzapine in adolescents is supported by evidence from adequate and well-controlled studies of olanzapine in which 268 adolescents received olanzapine in a range of 2.5 mg/day to 20 mg/day [see Clinical Studies (14.1, 14.2)].
 Recommended starting dose for adolescents is lower than that for adults [see Dosage and Administration (2.1, 2.2)].
 Compared to patients from adult clinical trials, adolescents were likely to gain more weight, experience increased sedation, and have greater increases in total cholesterol, triglycerides, LDL cholesterol, prolactin and hepatic aminotransferase levels [see Warnings and Precautions (5.5, 5.15, 5.17) and Adverse Reactions (6.1)].
 When deciding among the alternative treatments available for adolescents, clinicians should consider the increased potential (in adolescents as compared with adults) for weight gain and dyslipidemia.
@@ -98,7 +98,8 @@ Elderly patients with dementia-related psychosis treated with olanzapine are at 
 In placebo-controlled studies of olanzapine in elderly patients with dementia-related psychosis, there was a higher incidence of cerebrovascular adverse events (e.g., stroke, transient ischemic attack) in patients treated with olanzapine compared to patients treated with placebo.
 In 5 placebo-controlled studies of olanzapine in elderly patients with dementia-related psychosis (n=1,184), the following adverse reactions were reported in olanzapine-treated patients at an incidence of at least 2% and significantly greater than placebo-treated patients: falls, somnolence, peripheral edema, abnormal gait, urinary incontinence, lethargy, increased weight, asthenia, pyrexia, pneumonia, dry mouth and visual hallucinations.
 The rate of discontinuation due to adverse reactions was greater with olanzapine than placebo (13% vs 7%).
-Elderly patients with dementia-related psychosis treated with olanzapine are at an increased risk of death compared to placebo Olanzapine is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning, Warnings and Precautions (5.1), and Patient Counseling Information (17)].
+Elderly patients with dementia-related psychosis treated with olanzapine are at an increased risk of death compared to placebo.
+Olanzapine is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning, Warnings and Precautions (5.1), and Patient Counseling Information (17)].
 Olanzapine is not approved for the treatment of patients with dementia-related psychosis.
 Also, the presence of factors that might decrease pharmacokinetic clearance or increase the pharmacodynamic response to olanzapine should lead to consideration of a lower starting dose for any geriatric patient [see Boxed Warning, Dosage and Administration (2.1), and Warnings and Precautions (5.1)].
 
