@@ -26,7 +26,7 @@ Data
 Human Data
 
 Published data from meta-analyses, cohort studies and case series on the use of mesalamine, the active moiety of mesalamine rectal suspension enema, during early pregnancy (first trimester) and throughout pregnancy have not reliably informed an association of mesalamine and major birth defects, miscarriage, or adverse maternal or fetal outcomes.
-There is no clear evidence that mesalamine exposure in early pregnancy is associated with an increase risk in major congenital malformations, including cardiac malformations.
+There is no clear evidence that mesalamine exposure in early pregnancy is associated with an increased risk in major congenital malformations, including cardiac malformations.
 Published epidemiologic studies have important methodological limitations which hinder interpretation of the data, including inability to control for confounders, such as underlying maternal disease, and maternal use of concomitant medications, and missing information on the dose and duration of use for mesalamine products.
 
 Animal Data

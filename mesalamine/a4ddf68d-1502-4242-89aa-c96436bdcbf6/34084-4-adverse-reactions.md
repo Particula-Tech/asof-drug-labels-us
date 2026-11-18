@@ -41,6 +41,8 @@ Hematologic Disorders: agranulocytosis, aplastic anemia, eosinophilia, leukopeni
 
 Hepatic Disorders: elevated liver enzymes, hepatic failure [see Warnings and Precautions (5.4)]
 
+Immune System Disorders: vasculitis
+
 Nervous System: intracranial hypertension
 
 Renal and Urinary Disorders: acute renal failure, chronic renal failure, interstitial nephritis, nephrogenic diabetes insipidus, nephrolithiasis, nephrotoxicity [see Warnings and Precautions (5.2), (5.7)]

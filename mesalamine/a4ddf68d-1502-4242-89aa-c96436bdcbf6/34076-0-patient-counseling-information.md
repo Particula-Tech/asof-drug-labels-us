@@ -22,11 +22,11 @@ Instruct patients to stop taking mesalamine rectal suspension enema and report t
 
 Photosensitivity
 
-Advise patients with pre-existing skin conditions to avoid sun exposure, wear protective clothing, and use a broad-spectrum sunscreen when outdoors [see Warnings and Precautions (5.7)].
+Advise patients with pre-existing skin conditions to avoid sun exposure, wear protective clothing, and use a broad-spectrum sunscreen when outdoors [see Warnings and Precautions (5.6)].
 
 Nephrolithiasis
 
-Instruct patients to drink an adequate amount of fluids during treatment in order to minimize the risk of kidney stone formation and to contact their healthcare provider if they experience signs or symptoms of a kidney stone (e.g., severe side or back pain, blood in the urine) [see Warnings and Precautions (5.8)].
+Instruct patients to drink an adequate amount of fluids during treatment in order to minimize the risk of kidney stone formation and to contact their healthcare provider if they experience signs or symptoms of a kidney stone (e.g., severe side or back pain, blood in the urine) [see Warnings and Precautions (5.7)].
 
 Blood Disorders
 
@@ -52,10 +52,14 @@ Instruct patients:
    If discolored urine is observed, advise patients to observe their urine flow.
    Report to the healthcare provider only if urine is discolored on leaving the body, before contact with any surface or water (e.g., in the toilet).
 
-Manufactured by Padagis®, Yeruham, Israel
+Manufactured by Padagis®
+
+Yeruham, Israel
 
 www.padagis.com
 
-Rev 08-24
+Rev 11-26
 
-2N900 RC PH15
+2N900 RC PH16
+
+PADAGIS is a registered trademark of Padagis US LLC.

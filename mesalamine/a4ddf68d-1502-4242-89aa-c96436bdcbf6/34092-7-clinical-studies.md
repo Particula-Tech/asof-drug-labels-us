@@ -28,11 +28,11 @@ The four parameters are added together to produce a maximum overall DAI of 12.
 
 * Percent change for overall DAI only (calculated by taking the average of the change for each individual patient).
 
-† Significant mesalamine rectal suspension enema /placebo difference. p<0.01
+†Significant mesalamine rectal suspension enema /placebo difference. p < 0.01
 
-‡ Significant mesalamine rectal suspension enema /placebo difference. p<0.001
+‡Significant mesalamine rectal suspension enema /placebo difference. p < 0.001
 
-§ Significant mesalamine rectal suspension enema /placebo difference. p<0.05
+§Significant mesalamine rectal suspension enema /placebo difference. p < 0.05
 
 Differences between mesalamine rectal suspension enema and placebo were also statistically different in subgroups of patients on concurrent sulfasalazine and in those having an upper disease boundary between 5 and 20 or 20 and 40 cm.
 Significant differences between mesalamine rectal suspension enema and placebo were not achieved in those subgroups of patients on concurrent prednisone or with an upper disease boundary between 40 and 50 cm.

@@ -107,6 +107,8 @@ Yeruham, Israel
 
 www.padagis.com
 
-Rev 08-24
+Rev 11-26
 
-2N900 RC PH15
+2N900 RC PH16
+
+PADAGIS is a registered trademark of Padagis US LLC.

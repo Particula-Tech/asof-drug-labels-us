@@ -1,4 +1,4 @@
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 7 pack
 
 NDC 45802-098-51
 
@@ -16,4 +16,20 @@ For Rectal Use Only
 
 7 x 60 mL UNIT-DOSE BOTTLES
 
-The following image is a placeholder representing the product identifier that is either affixed or imprinted on the drug package label during the packaging operation.
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 28 pack
+
+NDC 45802-098-28
+
+Rx Only
+
+Mesalamine Rectal Suspension, USP Enema
+
+4g/60 mL
+
+Unit-Dose
+
+For Rectal Use Only
+
+28 Pack
+
+28 x 60 mL UNIT-DOSE BOTTLES
