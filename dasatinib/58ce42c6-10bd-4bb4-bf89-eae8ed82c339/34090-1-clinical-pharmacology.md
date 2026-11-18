@@ -69,7 +69,7 @@ Specific Populations
 
 Age (15 to 86 years old), sex, and renal impairment (creatinine clearance 21.6 mL/min to 342.3 mL/min as estimated by Cockcroft Gault) have no clinically relevant effect on the pharmacokinetics of dasatinib.
 
-Pediatric Patients The pharmacokinetics of dasatinib were evaluated in 43 pediatric patients with leukemia or solid tumors at oral doses ranging from 60 mg/m2 to 120 mg/m2 oncedaily, taken with or without food.
+Pediatric Patients The pharmacokinetics of dasatinib were evaluated in 43 pediatric patients with leukemia or solid tumors at oral doses ranging from 60 mg/m2 to 120 mg/m2 once daily, taken with or without food.
 The pharmacokinetics showed dose proportionality with a dose-related increase in exposure.
 The mean Tmax was observed between 0.5 hours and 6 hours and the mean half-life was 2 hours to 5 hours.
 The geometric mean (CV%) of body weight normalized clearance in these 43 pediatric patients is 5.98 (41.5%) L/h/kg.

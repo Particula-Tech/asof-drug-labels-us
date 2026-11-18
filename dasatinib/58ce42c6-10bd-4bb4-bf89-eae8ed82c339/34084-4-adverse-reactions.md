@@ -371,7 +371,7 @@ Skin and Subcutaneous Tissue Disorders: 1% to <10% – alopecia, acne, dry skin,
 
 Respiratory, Thoracic, and Mediastinal Disorders: 1% to <10% – lung infiltration, pneumonitis, cough; 0.1% to <1% – asthma, bronchospasm, dysphonia, pulmonary arterial hypertension; <0.1% – acute respiratory distress syndrome, pulmonary embolism.
 
-Nervous System Disorders: 1% to 10% – neuropathy (including peripheral neuropathy), dizziness, dysgeusia, somnolence; 0.1% to <1% – amnesia, tremor, syncope, balance disorder; <0.1% – convulsion, cerebrovascular accident, transient ischemic attack, optic neuritis, VIIth nerve paralysis, dementia, ataxia.
+Nervous System Disorders: 1% to <10% – neuropathy (including peripheral neuropathy), dizziness, dysgeusia, somnolence; 0.1% to <1% – amnesia, tremor, syncope, balance disorder; <0.1% – convulsion, cerebrovascular accident, transient ischemic attack, optic neuritis, VIIth nerve paralysis, dementia, ataxia.
 
 Blood and Lymphatic System Disorders: 0.1% to <1% – lymphadenopathy, lymphopenia; <0.1% – aplasia pure red cell.
 

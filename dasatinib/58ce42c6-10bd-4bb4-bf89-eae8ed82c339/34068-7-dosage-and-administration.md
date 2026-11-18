@@ -16,7 +16,7 @@ Recalculate the dose every 3 months based on changes in body weight, or more oft
 Do not crush, cut or chew tablets.
 Swallow tablets whole.
 
-There are additional administration considerations for pediatric patients who have difficulty swallowing tablets whole[see Use in Specific Populations (8.4) and Clinical Pharmacology (12.3)].
+There are additional administration considerations for pediatric patients who have difficulty swallowing tablets whole [see Use in Specific Populations (8.4) and Clinical Pharmacology (12.3)].
 
 Table 1: Dosage of Dasatinib Tablets for Pediatric Patientsa
 
@@ -128,7 +128,7 @@ Table 5: Dose Adjustments for Non-Hematologic Toxicities in Pediatric Patients
 | --- | --- | --- | --- | --- |
 |  |  | Original Starting Dose | One-Level Dose Reduction | Two-Level Dose Reduction |
 | 1. If a non-hematologic toxicity grade 2 occurs, consider interrupting dasatinib tablets if no recovery despite symptomatic therapy; once recovered to grade ≤1, resume at the original starting dose. Resume dasatinib tablets at a reduced dose for recurrent events. | Tablets | 40 mg 60 mg 70 mg 100 mg | 20 mg 40 mg 60 mg 80 mg | ** 20 mg 50 mg 70 mg |
-| 2. If a non-hematologic toxicity grade 3 occurs, stop dasatinib tabletsuntil recovery to grade ≤1 and then resume at a reduced dose. |  |  |  |  |
+| 2. If a non-hematologic toxicity grade 3 occurs, stop dasatinib tablets until recovery to grade ≤1 and then resume at a reduced dose. |  |  |  |  |
 | 3. If direct bilirubin is >5 ULN or AST/ALT >15 ULN, interrupt dasatinib tablets until recovery to grade ≤1 and then resume dasatinib tablets at the original starting dose. Resume dasatinib tablets at a reduced dose for recurrent hepatotoxicity. |  |  |  |  |
 | ** lower tablet dose not available |  |  |  |  |
 

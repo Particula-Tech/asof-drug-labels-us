@@ -25,3 +25,8 @@ Do not administer H2 antagonists or proton pump inhibitors with dasatinib.
 Consider the use of antacids in place of H2 antagonists or proton pump inhibitors.
 Administer the antacid at least 2 hours prior to or 2 hours after the dose of dasatinib.
 Avoid simultaneous administration of dasatinib with antacids.
+
+## 7.2 Effect of Dasatinib on Other Drugs
+
+Methotrexate Dasatinib may delay the clearance of methotrexate and result in sustained methotrexate concentrations when methotrexate is used at high doses (≥ 500 mg/m2).
+Refer to the prescribing information for methotrexate injection for recommendations on management of methotrexate concentrations.

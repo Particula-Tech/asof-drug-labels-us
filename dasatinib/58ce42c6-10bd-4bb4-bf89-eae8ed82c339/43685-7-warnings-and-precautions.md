@@ -36,7 +36,7 @@ In pediatric patients with chronic phase CML, cases of Grade 1 or 2 fluid retent
 Evaluate patients who develop symptoms of pleural effusion or other fluid retention, such as new or worsened dyspnea on exertion or at rest, pleuritic chest pain, or dry cough, promptly with a chest x-ray or additional diagnostic imaging as appropriate.
 Fluid retention events were typically managed by supportive care measures that may include diuretics or short courses of steroids.
 Severe pleural effusion may require thoracentesis and oxygen therapy.
-Consider dose reduction ortreatment interruption [see Dosage and Administration (2.5)].
+Consider dose reduction or treatment interruption [see Dosage and Administration (2.5)].
 
 ## 5.4 Cardiovascular Toxicity
 

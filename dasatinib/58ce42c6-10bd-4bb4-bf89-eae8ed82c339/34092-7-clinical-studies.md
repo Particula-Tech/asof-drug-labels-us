@@ -135,7 +135,7 @@ The medians of progression-free survival for patients with Ph+ ALL treated with 
 ## 14.3 CML in Pediatric Patients
 
 The efficacy of dasatinib in pediatric patients was evaluated in two pediatric studies of 97 patients with chronic phase CML.
-Among 97 patients with chronic phase CML treated in two pediatric studies, an open-label, non-randomized dose-ranging trial (NCT00306202) and an openlabel, non-randomized, single-arm trial (NCT00777036), 51 patients (exclusively from the singlearm trial) had newly diagnosed chronic phase CML and 46 patients (17 from the dose-ranging trial and 29 from the single-arm trial) were resistant or intolerant to previous treatment with imatinib.
+Among 97 patients with chronic phase CML treated in two pediatric studies, an open-label, non-randomized dose-ranging trial (NCT00306202) and an open-label, non-randomized, single-arm trial (NCT00777036), 51 patients (exclusively from the single-arm trial) had newly diagnosed chronic phase CML and 46 patients (17 from the dose-ranging trial and 29 from the single-arm trial) were resistant or intolerant to previous treatment with imatinib.
 Ninety-one of the 97 pediatric patients were treated with dasatinib tablets 60 mg/m2 once daily (maximum dose of 100 mg once daily for patients with high BSA).
 Patients were treated until disease progression or unacceptable toxicity.
 
