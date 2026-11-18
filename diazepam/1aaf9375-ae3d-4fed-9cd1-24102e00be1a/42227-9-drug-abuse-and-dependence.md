@@ -1,36 +1,36 @@
-# DRUG ABUSE AND DEPENDENCE
+# 9 DRUG ABUSE AND DEPENDENCE
 
-## Controlled Substance
+## 9.1 Controlled Substance
 
-Diazepam is a Schedule IV controlled substance.
+Diazepam oral solution contains diazepam, a Schedule IV controlled substance.
 
-## Abuse
+## 9.2 Abuse
 
 Diazepam is a benzodiazepine and a CNS depressant with a potential for abuse and addiction.
 Abuse is the intentional, non-therapeutic use of a drug, even once, for its desirable psychological or physiological effects.
 Misuse is the intentional use, for therapeutic purposes, of a drug by an individual in a way other than prescribed by a health care provider or for whom it was not prescribed.
 Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that may include a strong desire to take the drug, difficulties in controlling drug use (e.g., continuing drug use despite harmful consequences, giving a higher priority to drug use than other activities and obligations), and possible tolerance or physical dependence.
 Even taking benzodiazepines as prescribed may put patients at risk for abuse and misuse of their medication.
-Abuse and misuse may lead to addiction.
+Abuse and misuse of benzodiazepines may lead to addiction.
 
 Abuse and misuse of benzodiazepines often (but not always) involve the use of doses greater than the maximum recommended dosage and commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes, including respiratory depression, overdose, or death.
-Benzodiazepines are often sought by individuals who abuse drugs and other substances, and by individuals with addictive disorders (see WARNINGS: Abuse, Misuse, and Addiction).
+Benzodiazepines are often sought by individuals who abuse drugs and other substances, and by individuals with addictive disorders [see Warnings and Precautions (5.2)].
 
 The following adverse reactions have occurred with benzodiazepine abuse and/or misuse: abdominal pain, amnesia, anorexia, anxiety, aggression, ataxia, blurred vision, confusion, depression, disinhibition, disorientation, dizziness, euphoria, impaired concentration and memory, indigestion, irritability, muscle pain, slurred speech, tremors, and vertigo.
 
 The following severe adverse reactions have occurred with benzodiazepine abuse and/or misuse: delirium, paranoia, suicidal ideation and behavior, seizures, coma, breathing difficulty, and death.
 Death is more often associated with polysubstance use (especially benzodiazepines with other CNS depressants such as opioids and alcohol).
 
-## Dependence
+## 9.3 Dependence
 
 Physical Dependence
 
 Diazepam may produce physical dependence from continued therapy.
 Physical dependence is a state that develops as a result of physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug.
 Abrupt discontinuation or rapid dosage reduction of benzodiazepines or administration of flumazenil, a benzodiazepine antagonist, may precipitate acute withdrawal reactions, including seizures, which can be life-threatening.
-Patients at an increased risk of withdrawal adverse reactions after benzodiazepine discontinuation or rapid dosage reduction include those who take higher dosages (i.e., higher and/or more frequent doses) and those who have had longer durations of use (see WARNINGS: Dependence and Withdrawal Reactions).
+Patients at an increased risk of withdrawal adverse reactions after benzodiazepine discontinuation or rapid dosage reduction include those who take higher dosages (i.e., higher and/or more frequent doses) and those who have had longer durations of use [see Warnings and Precautions (5.3)].
 
-To reduce the risk of withdrawal reactions, use a gradual taper to discontinue diazepam or reduce the dosage (see DOSAGE and ADMINISTRATION: Discontinuation or Dosage Reduction of Diazepam and WARNINGS: Dependence and Withdrawal Reactions).
+To reduce the risk of withdrawal reactions, use a gradual taper to discontinue diazepam or reduce the dosage [see Dosage and Administration (2.3), Warnings and Precautions (5.3)].
 
 Acute Withdrawal Signs and Symptoms
 
@@ -47,4 +47,4 @@ Tolerance
 
 Tolerance to diazepam may develop from continued therapy.
 Tolerance is a physiological state characterized by a reduced response to a drug after repeated administration (i.e., a higher dose of a drug is required to produce the same effect that was once obtained at a lower dose).
-Tolerance to the therapeutic effect of diazepam may develop; however, little tolerance develops to the amnestic reactions and other cognitive impairments caused by benzodiazepines
+Tolerance to the therapeutic effect of diazepam may develop; however, little tolerance develops to the amnestic reactions and other cognitive impairments caused by benzodiazepines.
